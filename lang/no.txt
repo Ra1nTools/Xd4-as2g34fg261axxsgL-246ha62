@@ -31,7 +31,7 @@ Innstillinger{end_space12}
 {space}Chat
 {space} styre tokens
 Neste Side{end_space1}
-Kjører på:{end_space16}
+Kjører på:{end_space15}
 Ugyldig valg, vennligst prøv igjen!
 Avbrutt av bruker.
 Tema Endrer
@@ -385,7 +385,7 @@ Proxy Bruk Toggles {GREEN}PÅ
 Ny Proksy skrevet vellykket
 Proksy ble vellykket skrapt
 Ferdig! Skrapt {proxies} totalt => {temp} | {execution_time}ms
-PC{end_space8}
+PC{end_space7}
 Gjennomført flerspråklig støtte.
 Massetråd{end_space16}
 Forumspam

@@ -31,7 +31,7 @@ Indstillinger{end_space14}
 {space}Chat
 Administrer tokens
 Næste side{end_space1}
-Kører på:{end_space15}
+Kører på:{end_space14}
 Ugyldigt valg, prøv venligst igen!
 Afbrudt af brugeren.
 Temaskifter
