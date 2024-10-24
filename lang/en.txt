@@ -31,7 +31,7 @@ Settings{end_space17}
 {space}Chat
 Manage Tokens
 Next Page{end_space2}
-Running on:{end_space15}
+Running on:{end_space14}
 Invalid choice, please try again!
 Interrupted by user.
 Theme Changer

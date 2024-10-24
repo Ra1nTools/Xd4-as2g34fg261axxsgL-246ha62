@@ -31,7 +31,7 @@ Configuraciones{end_space10}
 {space}Chat
 Manejar Tokens
 Pág. Sig.{end_space2}
-Ejecutándose en:{end_space10}
+Ejecutándose en:{end_space9}
 Opción no válida, por favor inténtelo de nuevo.
 Interrumpido por el usuario.
 Cambiador de Tema
