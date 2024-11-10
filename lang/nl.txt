@@ -335,7 +335,7 @@ Aanval onderbroken
 Taalcyclus is gestart. Druk op Ctrl+C om te stoppen.
 Ongeldige Token.
 Druk op ENTER om door te gaan
-Discord API-tool | https://Rain.xyz | Gemaakt door Plingenn
+Discord Multitool | https://discord.gg/N4NvXTnQe3 | Gemaakt door Plingenn
 Uiterlijkinstellingen
 Tekstinstellingen
 Cursorinstellingen

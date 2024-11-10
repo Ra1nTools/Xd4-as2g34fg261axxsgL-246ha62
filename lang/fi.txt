@@ -335,7 +335,7 @@ Kohtaus keskeytettiin
 Kielenvaihdon aloittaminen. Paina Ctrl+C lopettaaksesi.
 Virheellinen token.
 Paina ENTER jatkaaksesi
-Discord API -työkalu | https://Rain.xyz | Tehnyt Plingenn
+Discord Monitoimityökalu | https://discord.gg/N4NvXTnQe3 | Tehnyt Plingenn
 Ulkonäön asetukset
 Tekstin asetukset
 Kursorin asetukset

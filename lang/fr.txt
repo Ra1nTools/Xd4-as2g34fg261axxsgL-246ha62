@@ -335,7 +335,7 @@ Saisie interrompue
 Le cycle de langue a commencé. Appuyez sur Ctrl+C pour arrêter.
 Jeton invalide.
 Appuyez sur ENTRÉE pour continuer
-Outil Discord API | https://Rain.xyz | Créé par Plingenn
+Outil multifonction Discord | https://discord.gg/N4NvXTnQe3 | Créé par Plingenn
 Paramètres d'apparence
 Paramètres de texte
 Paramètres de curseur

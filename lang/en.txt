@@ -271,7 +271,7 @@ Incoming Friend Request From:
 Removed Friend request From:
 Total Friend Requests Removed:
 An error occurred while creating {server_name}: {e}
-icon for the servers yes/no
+icon for the servers y/n
 Random server names
 Custom server names
 Name of the servers that will be created
@@ -335,7 +335,7 @@ Seizure interrupted
 Language cycling has started. Press Ctrl+C to stop.
 Invalid Token.
 Press ENTER to continue
-Discord API Tool | https://Rain.xyz | Made By Plingenn
+Discord Multitool | https://discord.gg/N4NvXTnQe3 | Made By Plingenn
 Appearance Settings
 Text Settings
 Cursor Settings

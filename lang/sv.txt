@@ -335,7 +335,7 @@ Seizure avbruten
 Språkcykling har startat. Tryck på Ctrl+C för att stoppa.
 Ogiltig Token.
 Tryck på ENTER för att fortsätta
-Discord API-verktyg | https://Rain.xyz | Skapad av Plingenn
+Discord multiverktyg | https://discord.gg/N4NvXTnQe3 | Skapad av Plingenn
 Utseendeinställningar
 Textinställningar
 Cursorinställningar

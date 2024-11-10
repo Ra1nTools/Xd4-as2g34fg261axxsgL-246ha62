@@ -335,7 +335,7 @@ API에서 이모지를 가져오지 못했습니다.
 언어 순환을 시작했습니다. 중지하려면 Ctrl+C를 누르세요.
 잘못된 토큰입니다.
 계속하려면 ENTER를 누르세요
-디스코드 API 도구 | https://Rain.xyz | Plingenn 제작
+디스코드 멀티툴 | https://discord.gg/N4NvXTnQe3 | Plingenn 제작
 외관 설정
 텍스트 설정
 커서 설정

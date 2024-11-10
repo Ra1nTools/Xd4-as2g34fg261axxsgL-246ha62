@@ -335,7 +335,7 @@ DiscordInjection (ن/ي)
 بدأ تغيير اللغة. اضغط Ctrl+C للتوقف.
 رمز مميز غير صالح.
 اضغط ENTER للمتابعة
-أداة Discord API | https://Rain.xyz | صنعت بواسطة Plingenn
+أداة Discord API | https://discord.gg/N4NvXTnQe3 | صنعت بواسطة Plingenn
 إعدادات المظهر
 إعدادات النص
 إعدادات المؤشر

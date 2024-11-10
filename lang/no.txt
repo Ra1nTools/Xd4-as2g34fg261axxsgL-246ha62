@@ -335,7 +335,7 @@ Anfall avbrutt
 Språksyklusen har startet. Trykk Ctrl+C for å stoppe.
 Ugyldig Token.
 Trykk ENTER for å fortsette
-Discord API-verktøy | https://Rain.xyz | Laget av Plingenn
+Discord Multiverktøy | https://discord.gg/N4NvXTnQe3 | Laget av Plingenn
 Utseendeinnstillinger
 Tekstinnstillinger
 Piltastinnstillinger

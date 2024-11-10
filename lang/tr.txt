@@ -335,7 +335,7 @@ Nöbet kesildi
 Dil döngüsü başladı. Durdurmak için Ctrl+C'ye basın.
 Geçersiz Token.
 Devam etmek için ENTER tuşuna basın
-Discord API Aracı | https://Rain.xyz | Plingenn tarafından yapıldı
+Discord Çoklu Araç | https://discord.gg/N4NvXTnQe3 | Plingenn tarafından yapıldı
 Görünüm Ayarları
 Metin Ayarları
 İmleç Ayarları

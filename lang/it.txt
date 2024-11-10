@@ -335,7 +335,7 @@ Seizure interrotta
 Avvio del ciclo di lingua. Premi Ctrl+C per interrompere.
 Token non valido.
 Premi INVIO per continuare
-Strumento API Discord | https://Rain.xyz | Creato da Plingenn
+Multistrumento Discord | https://discord.gg/N4NvXTnQe3 | Creato da Plingenn
 Impostazioni dell'aspetto
 Impostazioni del testo
 Impostazioni del cursore

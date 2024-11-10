@@ -335,7 +335,7 @@ Ataque Epiléptico interrumpido
 Ciclo de Idioma iniciado. Presiona Ctrl+C para detener.
 Token inválido.
 Presiona ENTER para continuar
-Herramienta de API de Discord | https://Rain.xyz | Hecho por Plingenn
+Herramienta múltiple de Discord | https://discord.gg/N4NvXTnQe3 | Hecho por Plingenn
 Configuraciones de Apariencia
 Configuraciones de Texto
 Configuraciones de Cursor

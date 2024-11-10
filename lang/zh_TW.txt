@@ -335,7 +335,7 @@ Writing File... {i}
 語言循環已開始。按 Ctrl+C 停止。
 無效的令牌。
 按 ENTER 鍵繼續
-Discord API 工具 | https://Rain.xyz | 由 Plingenn 製作
+Discord 多功能工具 | https://discord.gg/N4NvXTnQe3 | 由 Plingenn 製作
 外觀設定
 文字設定
 游標設定

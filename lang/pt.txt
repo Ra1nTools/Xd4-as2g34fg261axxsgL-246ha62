@@ -335,7 +335,7 @@ Convulsão interrompida
 Ciclo de idioma iniciado. Pressione Ctrl+C para parar.
 Token inválido.
 Pressione ENTER para continuar
-Ferramenta de API do Discord | https://Rain.xyz | Feito por Plingenn
+Multiferramenta de discórdia | https://discord.gg/N4NvXTnQe3 | Feito por Plingenn
 Configurações de Aparência
 Configurações de Texto
 Configurações de Cursor

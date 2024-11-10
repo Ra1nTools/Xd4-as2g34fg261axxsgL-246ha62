@@ -335,7 +335,7 @@ Napad przerwany
 Rozpoczęto cykl językowy. Naciśnij Ctrl+C, aby zatrzymać.
 Nieprawidłowy token.
 Naciśnij ENTER, aby kontynuować
-Narzędzie Discord API | https://Rain.xyz | Wykonane przez Plingenn
+Narzędzie wielofunkcyjne Discord | https://discord.gg/N4NvXTnQe3 | Wykonane przez Plingenn
 Ustawienia wyglądu
 Ustawienia tekstu
 Ustawienia kursora

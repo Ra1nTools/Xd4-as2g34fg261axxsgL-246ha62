@@ -335,7 +335,7 @@ API から絵文字を取得できませんでした
 言語のサイクリングが開始されました。Ctrl+C を押して停止します。
 無効なトークン。
 ENTER キーを押して続行します
-Discord API ツール | https://Rain.xyz | Plingenn によって作成されました
+Discord マルチツール | https://discord.gg/N4NvXTnQe3 | Plingenn によって作成されました
 外観設定
 テキスト設定
 カーソル設定

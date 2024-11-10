@@ -335,7 +335,7 @@ Discord 注入（是/否）
 开始语言循环。按 Ctrl+C 停止。
 无效令牌。
 按 Enter 继续
-Discord API 工具 | https://Rain.xyz | 由 Plingenn 制作
+Discord 多功能工具 | https://discord.gg/N4NvXTnQe3 | 由 Plingenn 制作
 外观设置
 文本设置
 光标设置

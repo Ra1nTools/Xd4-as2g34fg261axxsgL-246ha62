@@ -335,7 +335,7 @@ Anfall unterbrochen
 Sprachzyklus gestartet. Drücken Sie Strg+C, um anzuhalten.
 Ungültiges Token.
 Drücken Sie die EINGABETASTE, um fortzufahren
-Discord-API-Tool | https://Rain.xyz | Hergestellt von Plingenn
+Discord Multitool | https://discord.gg/N4NvXTnQe3 | Hergestellt von Plingenn
 Erscheinungsbild-Einstellungen
 Texteinstellungen
 Cursor-Einstellungen
