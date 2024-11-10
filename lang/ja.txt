@@ -253,7 +253,7 @@ BlockAvSites（Y/N）
 DiscordInjection（Y/N）
 ファイルアイコン
 {name}.exeを作成中、数秒かかります。お待ちいただきありがとうございます！
-ファイルは 'output/grabberbuilder/{name}.exe' にあります
+ファイルは {path} にあります
 グループチャットが作成されました
 レート制限されました（{response.json()['retry_after']}ミリ秒）
 ランダム選択するための十分な友達がありません

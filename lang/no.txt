@@ -253,7 +253,7 @@ Blokkerer Nettsider (J/N)
 Discord Injeksjon (J/N)
 Filikon
 Oppretter {name}.exe, Dette vil ta noen få sekunder. Takk for din tålmodighet!
-Filen er i 'output/grabberbuilder/{name}.exe'
+Filen er i {path}
 Opprettet gruppechat
 Rate begrenset ({response.json()['retry_after']}ms)
 Ikke nok venner tilgjengelig for tilfeldig utvalg

