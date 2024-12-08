@@ -31,7 +31,7 @@ Ustawienia{end_space15}
 Czat
 Zarządzanie tokenami
 Nast strona
-Uruchomiony na:{end_space11}
+Uruchomiony na:{end_space3}
 Nieprawidłowy wybór, spróbuj ponownie!
 Przerwane przez użytkownika.
 Zmieniacz motywu
@@ -385,7 +385,7 @@ Użycie proxy zostało przełączone {GREEN}WŁĄCZONE
 Pomyślnie zapisano nowe proxy
 Pomyślnie zebrano proxy
 Gotowe! Zebrane {proxies} w sumie => {temp} | {execution_time}ms
-PC
+PC{end_space7}
 Wdrożono obsługę wielojęzyczną.
 Wątek masowy{end_space13}
 Spamujący na forum

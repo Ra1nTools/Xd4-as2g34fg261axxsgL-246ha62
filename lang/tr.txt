@@ -31,7 +31,7 @@ Ayarlar{end_space18}
 Sohbet
 Tokenleri Yönet
 Sonraki{end_space4}
-Şu anda çalışıyor:{end_space6}
+Şu anda çalışıyor:{end_space5}
 Geçersiz seçim, lütfen tekrar deneyin!
 Kullanıcı tarafından kesildi.
 Tema Değiştirici
@@ -385,7 +385,7 @@ Vekil Kullanımı Açık {GREEN}AÇIK
 Yeni Vekiller Başarıyla Yazıldı
 Başarıyla Vekil Alındı
 Tamamlandı! Toplamda {proxies} vekil alındı => {temp} | {execution_time}ms
-PC{end_space5}
+PC{end_space6}
 Çoklu dil desteği uygulandı.
 Toplu Başlık{end_space13}
 Forum Spamcısı

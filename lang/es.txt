@@ -31,7 +31,7 @@ Configuraciones{end_space10}
 {space}Chat
 Manejar Tokens
 Pág. Sig.{end_space2}
-Ejecutándose en:{end_space9}
+Ejecutándose en:{end_space8}
 Opción no válida, por favor inténtelo de nuevo.
 Interrumpido por el usuario.
 Cambiador de Tema
@@ -385,7 +385,7 @@ Uso de Proxy Activado {GREEN}ENCENDIDO
 Nuevos proxies escritos con éxito
 Proxies extraídos con éxito
 ¡Hecho! {proxies} proxies extraídos en total => {temp} | {execution_time}ms
-PC{end_space6}
+PC{end_space7}
 Implementado soporte multilingüe.
 Hilo Masivo{end_space14}
 Spammer de Foro

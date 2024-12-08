@@ -31,7 +31,7 @@ Impostazioni{end_space13}
 Chat
 Gestisci Token
 Pag. Succ.{end_space1}
-In esecuzione su:{end_space9}
+In esecuzione su:{end_space7}
 Scelta non valida, per favore riprova!
 Interrotto dall'utente.
 Cambia Tema
@@ -385,7 +385,7 @@ Uso del proxy attivato {GREEN}ON
 Nuovi proxy scritti con successo
 Proxy ottenuti con successo
 Fatto! {proxies} ottenuti in totale => {temp} | {execution_time}ms
-PC{end_space6}
+PC{end_space7}
 Implementato supporto multi-lingua.
 Thread di massa{end_space10}
 Spammer del forum

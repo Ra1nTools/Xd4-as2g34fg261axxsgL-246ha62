@@ -31,7 +31,7 @@ Indstillinger{end_space14}
 {space}Chat
 Administrer tokens
 Næste side{end_space1}
-Kører på:{end_space14}
+Kører på:{end_space9}
 Ugyldigt valg, prøv venligst igen!
 Afbrudt af brugeren.
 Temaskifter
@@ -385,7 +385,7 @@ Proxy-brug Toggled {GREEN}ON
 Proxies blev skrevet korrekt
 Proxies blev skrabet korrekt
 Færdig! Skrabet {proxies} i alt => {temp} | {execution_time} ms
-PC
+PC{end_space5}
 Implementeret flersproget support.
 Massetråd{end_space16}
 Forumspammer

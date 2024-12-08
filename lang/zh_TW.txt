@@ -31,7 +31,7 @@ Webhook 工具{end_space13}
 聊天
 管理令牌
 下一页{end_space5}
-运行中：{end_space18}
+运行中：{end_space22}
 无效选择，请重试！
 用户中断。
 主题更改器
@@ -385,7 +385,7 @@ Discord 多功能工具 | https://discord.gg/N4NvXTnQe3 | 由 Plingenn 製作
 成功編寫新的代理
 成功擷取代理
 完成！總共擷取了 {proxies} 個 => {temp} | {execution_time} 毫秒
-電腦{end_space10}
+電腦{end_space5}
 實現多語言支援。
 大量主題{end_space17}
 論壇垃圾訊息者

@@ -31,7 +31,7 @@ Inställningar{end_space12}
 Chatt
 Hantera Tokens
 Nästa Sida{end_space1}
-Körs på:{end_space17}
+Körs på:{end_space16}
 Ogiltigt val, försök igen!
 Avbruten av användaren.
 Temabytare
@@ -227,33 +227,33 @@ Filnamn
 Fil lösenord
 Vill du ange en ikonfil? (Y/N)
 Ogiltig ikon sökväg eller URL. Ställer in ikon till Ingen.
-Pinga mig (J/N)
-Anti VM (J/N)
-Starta vid uppstart (J/N)
-UAC-bypass (J/N)
-Smälta (J/N)
-Dölj konsolen (J/N)
-Fånga webbkamera (J/N)
-Fånga lösenord (J/N)
-Fånga kakor (J/N)
-Fånga autofyllningar (J/N)
-Fånga historik (J/N)
-Fånga Discord-tokens (J/N)
-Fånga spel (J/N)
-Fånga Wi-Fi-lösenord (J/N)
-Fånga systeminformation (J/N)
-Fånga skärmbild (J/N)
-Fånga Telegram (J/N)
-Fånga vanliga filer (J/N)
-Fånga plånböcker (J/N)
-Fejkfel (J/N)
+Pinga mig (Y/N)
+Anti VM (Y/N)
+Starta vid uppstart (Y/N)
+UAC-bypass (Y/N)
+Smälta (Y/N)
+Dölj konsolen (Y/N)
+Fånga webbkamera (Y/N)
+Fånga lösenord (Y/N)
+Fånga kakor (Y/N)
+Fånga autofyllningar (Y/N)
+Fånga historik (Y/N)
+Fånga Discord-tokens (Y/N)
+Fånga spel (Y/N)
+Fånga Wi-Fi-lösenord (Y/N)
+Fånga systeminformation (Y/N)
+Fånga skärmbild (Y/N)
+Fånga Telegram (Y/N)
+Fånga vanliga filer (Y/N)
+Fånga plånböcker (Y/N)
+Fejkfel (Y/N)
 Fejkfelrubrik
 Fejkfelmeddelande
-Blockera AV-webbplatser (J/N)
-Discordinjektion (J/N)
+Blockera AV-webbplatser (Y/N)
+Discordinjektion (Y/N)
 Filikon
 Skapar {name}.exe, Det här kommer att ta några sekunder. Tack för ditt tålamod!
-Fil finns i 'output/grabberbuilder/{name}.exe
+Fil finns i {path}
 Skapade gruppchatt
 Ratebegränsad ({response.json()['retry_after']}ms)
 Inte tillräckligt med vänner tillgängliga för slumpmässigt urval
@@ -385,7 +385,7 @@ Proxyanvändning {GREEN}Aktiverat
 Lyckades skriva nya proxys
 Lyckades skrapa proxys
 Klart! Skrapade {proxies} totalt => {temp} | {execution_time}ms
-PC{end_space6}
+PC{end_space7}
 Implementerat flerspråkigt stöd.
 Mass Tråd{end_space16}
 Forum Spammare

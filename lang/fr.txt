@@ -31,7 +31,7 @@ Paramètres{end_space15}
 Discussion
 Gérer les jetons
 Suiv. page{end_space1}
-Fonctionnant sur:{end_space3}
+Fonctionnant sur:{end_space4}
 Choix invalide, veuillez réessayer!
 Interrompu par l'utilisateur.
 Changeur de thème
@@ -385,7 +385,7 @@ Utilisation de proxy activée {GREEN}ON
 Nouveaux proxies écrits avec succès
 Proxies récupérés avec succès
 Terminé ! Scrapé {proxies} au total => {temp} | {execution_time}ms
-PC{end_space4}
+PC{end_space7}
 Support multilingue mis en œuvre.
 Fil de masse{end_space13}
 Spam sur le forum
