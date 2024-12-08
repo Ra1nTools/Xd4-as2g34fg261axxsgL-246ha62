@@ -31,7 +31,7 @@ Asetukset{end_space16}
 Keskustelu
 Hallitse tunnisteita
 Seur. sivu{end_space1}
-Suoritetaan:{end_space6}
+Suoritetaan:{end_space8}
 Virheellinen valinta, yritä uudelleen!
 Käyttäjän keskeyttämä.
 Teeman vaihtaja
@@ -385,7 +385,7 @@ Proxy-käyttö kytketty päälle
 Uudet proxynkirjoitus onnistui
 Proxyt on kaavittu onnistuneesti
 Valmis! Kaavittu {proxies} kokonaismäärästä => {temp} | {execution_time}ms
-PC{end_space7}
+PC
 Monikielituki on otettu käyttöön.
 Massaketju{end_space15}
 Foorumispämmer

@@ -31,7 +31,7 @@ Einstellungen{end_space12}
 Chat
 Token verwalten
 Weiter{end_space5}
-Läuft auf:{end_space13}
+Läuft auf:{end_space16}
 Ungültige Auswahl, bitte versuchen Sie es erneut!
 Unterbrochen durch Benutzer.
 Themenwechsel
@@ -385,7 +385,7 @@ Proxyverwendung umgeschaltet {GREEN}EIN
 Neue Proxies erfolgreich geschrieben
 Proxies erfolgreich abgerufen
 Fertig! Insgesamt {proxies} gescannt => {temp} | {execution_time}ms
-PC{end_space7}
+PC{end_space5}
 Implementierte Mehrsprachunterstützung.
 Massen-Thread{end_space12}
 Forum-Spammer

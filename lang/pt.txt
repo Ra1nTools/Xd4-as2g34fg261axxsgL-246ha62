@@ -31,7 +31,7 @@ Configurações{end_space12}
 Chat
 Gerenciar Tokens
 Próx Página
-Executando em:{end_space8}
+Executando em:{end_space12}
 Escolha inválida, por favor, tente novamente!
 Interrompido pelo usuário.
 Alterador de Tema
@@ -385,7 +385,7 @@ Uso de Proxy Alternado {GREEN}ATIVADO
 Novos Proxies Escritos com Sucesso
 Proxies Extraídos com Sucesso
 Feito! Extraídos {proxies} no total => {temp} | {execution_time}ms
-PC{end_space7}
+PC{end_space4}
 Suporte multi-idioma implementado.
 Tópico em massa{end_space10}
 Spammer de fórum

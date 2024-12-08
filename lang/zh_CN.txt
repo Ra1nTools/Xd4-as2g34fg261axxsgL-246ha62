@@ -31,7 +31,7 @@ Webhook 工具{end_space13}
 聊天
 管理令牌
 下一页{end_space5}
-运行在：{end_space22}
+运行在：{end_space18}
 无效选择，请重试！
 用户中断。
 主题更改器
@@ -385,7 +385,7 @@ Discord 多功能工具 | https://discord.gg/N4NvXTnQe3 | 由 Plingenn 制作
 成功写入新代理
 成功抓取代理
 完成！总共抓取 {proxies} => {temp} | {execution_time}ms
-个人电脑{end_space1}
+个人电脑{end_space6}
 实现了多语言支持。
 大量主题{end_space17}
 论坛垃圾信息者

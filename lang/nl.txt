@@ -31,7 +31,7 @@ Instellingen{end_space13}
 Chat
 Beheer Tokens
 Volg Pagina
-Uitvoeren op:{end_space12}
+Uitvoeren op:{end_space13}
 Ongeldige keuze, probeer het opnieuw!
 Onderbroken door gebruiker.
 Thema Wisselaar
